@@ -95,7 +95,7 @@ De analyse van de beschikbare informatie bevestigt een duidelijke en actieve ver
 2. [About Heritage - The Heritage Foundation](https://www.heritage.org/about-heritage/mission)
 3. [Project 2025 - Wikipedia](https://en.wikipedia.org/wiki/Project_2025)
 4. [The Heritage Foundation](https://www.heritage.org/)
-5. [Why does Europe want the heritage foundation designated a terrorist organization?](https://www.reddit.com/r/centrist/comments/1k7mvby/why_does_reurope_want_the_heritage_fo undation/)
+5. [Why does Europe want the heritage foundation designated a terrorist organization?](https://www.reddit.com/r/centrist/comments/1k7mvby/why_does_reurope_want_the_heritage_foundation/)
 6. [With 42% of Project 2025 enacted, Heritage Foundation turns toward Europe](https://baptistnews.com/article/with-42-of-project-2025-enacted-heritage-foundation-turns-towar d-europe/)
 7. [Project 2025, Explained | American Civil Liberties Union](https://www.aclu.org/project-2025-explained)
 8. [Heritage Foundation and Allies Discuss Dismantling the EU - DeSmog](https://www.desmog.com/2025/03/14/heritage-foundation-project-2025-allies-mcc-ordo-iuris-disc uss-dismantling-the-eu-european-union/)
