@@ -1,3 +1,8 @@
 ---
-title: Welcome to my blog!
+title: Welkom bij Bonnies Info!
 ---
+# Info Blog
+
+## Personen
+
+## Organisaties
