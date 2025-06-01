@@ -108,6 +108,6 @@ De analyse van de beschikbare informatie bevestigt een duidelijke en actieve ver
 15. [List of active nationalist parties in Europe - Wikipedia](https://en.wikipedia.org/wiki/List_of_active_nationalist_parties_in_Europe)
 16. [Heritage Foundation and Allies Discuss Dismantling the EU : r/europeanunion - Reddit](https://www.reddit.com/r/europeanunion/comments/1jcmoqk/heritage_foundation_and_allies_dis cuss/)
 17. [Right-wing push to dismantle the EU: Heritage Foundation's private workshop](https://yorkshirebylines.co.uk/politics/right-wing-push-to-dismantle-the-eu-heritage-foundations-private-workshop/)
-18. [A Trump-Linked U.S. Think Tank Schemes to Dismantle the EU Transitions](https://tol.org/client/article/a-trump-linked-u-s-think-tank-schemes-with-hungarys-conservatives-t o-dismantle-the-eu.html)
-19. [Europe's Embrace of Lawfare Threatens Its Alliance With the U.S. | The Heritage Foundation](https://www.heritage.org/europe/commentary/europes-embrace-lawfare-threatens-its-alliance-th e-us)
+18. [A Trump-Linked U.S. Think Tank Schemes to Dismantle the EU Transitions](https://tol.org/client/article/a-trump-linked-u-s-think-tank-schemes-with-hungarys-conservatives-to-dismantle-the-eu.html)
+19. [Europe's Embrace of Lawfare Threatens Its Alliance With the U.S. | The Heritage Foundation](https://www.heritage.org/europe/commentary/europes-embrace-lawfare-threatens-its-alliance-the-us)
 20. [Europe Wants To Be the World's Speech Police | The Heritage Foundation](https://www.heritage.org/europe/commentary/europe-wants-be-the-worlds-speech-police)
