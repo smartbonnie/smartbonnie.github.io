@@ -92,7 +92,7 @@ De analyse van de beschikbare informatie bevestigt een duidelijke en actieve ver
 ## Geciteerd werk
 
 1. [The Heritage Foundation - state.gov](https://2001-2009.state.gov/p/io/unesco/members/49774.htm)
-2. [About Heritage | The Heritage Foundation](https://www.heritage.org/about-heritage/mission)
+2. [About Heritage - The Heritage Foundation](https://www.heritage.org/about-heritage/mission)
 3. [Project 2025 - Wikipedia](https://en.wikipedia.org/wiki/Project_2025)
 4. [The Heritage Foundation](https://www.heritage.org/)
 5. [Why does r/Europe want the heritage foundation designated a terrorist organization? : r/centrist - Reddit](https://www.reddit.com/r/centrist/comments/1k7mvby/why_does_reurope_want_the_heritage_fo undation/)
