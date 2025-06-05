@@ -1,5 +1,6 @@
 
 # Media-eigendom in Nederland Onderzocht
+Door Smartbonnie.
 
 ## De Eigendomsstructuur van de Nederlandse Media: Een Analyse van Macht en Concentratie
 
