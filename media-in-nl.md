@@ -204,8 +204,8 @@ De toekomst van het Nederlandse medialandschap zal worden bepaald door de wissel
 * [Talpa Network Logo & Brand Assets (SVG, PNG and vector) - Brandfetch](https://brandfetch.com/brandnewtelly.com)
 * [Onze merken. - Talpa Network.](https://talpanetwork.com/adverteren/onze-merken/)
 * [Wie we zijn - NPO](https://npo.nl/overnpo/wie-we-zijn)
-* [Wat doet de Nederlandse Publieke Omroep (NPO)? | Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/media-en-publieke-omroep/vraag-en-antwoord/nederlandse-publieke-omroep)
-* [Mediaconcentratie | Vlaamse Regulator voor de Media](https://www.vlaamseregulatormedia.be/nl/mediaconcentratie)
+* [Wat doet de Nederlandse Publieke Omroep (NPO)? - Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/media-en-publieke-omroep/vraag-en-antwoord/nederlandse-publieke-omroep)
+* [Mediaconcentratie - Vlaamse Regulator voor de Media](https://www.vlaamseregulatormedia.be/nl/mediaconcentratie)
 * [Digital News Report Nederland 2024 - Commissariaat voor de Media](https://www.cvdm.nl/wp-content/uploads/2024/06/2031086-CvdM-DigitalNewsReport-2024_def.pdf)
 * [Rapport Mediawijsheid Onderzoek 2023](https://netwerkmediawijsheid.nl/onderzoek/rapport-mediawijsheid-onderzoek-2023/)
 
