@@ -80,7 +80,7 @@ Mediahuis Nederland is een dochteronderneming van het Belgische Mediahuis NV. De
 Mediahuis Nederland zelf was voorheen Telegraaf Media Groep (TMG), dat na een biedingsstrijd met Talpa Network werd overgenomen door Mediahuis NV. Deze overnamestrijd onderstreept de strategische waarde die werd toegekend aan de activa van TMG, met name De Telegraaf. Het feit dat Mediahuis als winnaar uit de bus kwam, getuigt van haar financiële slagkracht en strategische vastberadenheid om een leidende rol te spelen in de Nederlandse printmedia. De eigendomsstructuur van Mediahuis NV vertegenwoordigt een consolidatie van historisch onderscheiden Belgische (Corelio, Concentra) en Nederlandse (Van Puijenbroek via TMG) mediabelangen. Deze alliantie is waarschijnlijk gevormd om een grotere, veerkrachtigere entiteit te creëren die beter bestand is tegen de krimpende printmarkt, kan investeren in digitale transformatie en geografisch kan uitbreiden, zoals ook gebeurd is naar Ierland en Duitsland.
 Tabel 3: Vereenvoudigde Aandeelhoudersstructuur Mediahuis NV (Moederbedrijf Mediahuis Nederland)
 
-| Aandeelhouder | Geschat Belang | Controlerende Families/Entiteiten (Voorbeelden) |
+| Aandeelhouder | Geschat Belang | Controlerende Families-Entiteiten (Voorbeelden) |
 |---|---|---|
 | Mediahuis Partners NV | ~50,6% | Families Leysen, Vlerick, Van Waeyenberge, Van de Steen; Ackermans & van Haaren |
 | Concentra NV | ~32,3% | Familie Baert (via Stichting De Zeven Eycken) |
