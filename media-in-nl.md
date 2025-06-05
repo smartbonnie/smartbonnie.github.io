@@ -43,7 +43,8 @@ graph TD
    B --> C(Epifin);
    C -- 98.91% --> D[DPG Media Group];
    E[Stichting Democratie en Media] -- 14.27% & prioriteitsaandelen --> D;
-   D --> F[DPG Media Nederland];
+   D --> F[DPG Media Nederland]
+```
 
 Noot: Percentage van SDM is op DPG Media Group niveau, prioriteitsaandelen betreffen specifieke Nederlandse titels.
 Sleutelmerken in Nederland
@@ -176,36 +177,36 @@ Regelgevende instanties zoals het Commissariaat voor de Media (CvdM) en de ACM s
 De toekomst van het Nederlandse medialandschap zal worden bepaald door de wisselwerking tussen verdere consolidatietrends, de strategische keuzes van de grote mediabedrijven, de impact van wereldwijde technologische spelers, veranderend mediagebruik en de effectiviteit van het regulatoire kader. Het waarborgen van een divers, toegankelijk en betrouwbaar media-aanbod, essentieel voor een goed functionerende democratie, blijft in deze context een voortdurende uitdaging.
 ## Geciteerd werk
 
-* [www.cvdm.nl](https://www.cvdm.nl/wp-content/uploads/2024/12/CvdM-Mediamonitor-2024.pdf)
-* [Evaluatie Commissariaat voor de Media](https://zoek.officielebekendmakingen.nl/blg-1136407.pdf)
-* [FD: overname RTL Nederland door DPG Media bijna rond bij ACM - Marketing Report](https://marketingreport.nl/fd-overname-rtl-nederland-door-dpg-media-bijna-rond-bij-acm/)
-* [Nader onderzoek nodig naar overname RTL Nederland Holding en RTL Nederland Media Services door DPG Media - concentratiebesluit | ACM](https://www.acm.nl/nl/publicaties/nader-onderzoek-nodig-naar-overname-rtl-nederland-holding-en-rtl-nederland-media-services-door-dpg-media-concentratiebesluit)
-* [Merger supervision ACM 2024 - Taylor Wessing](https://www.taylorwessing.com/en/insights-and-events/insights/2025/02/merger-supervision-acm-2024)
-* [Who we are - DPG Media The Netherlands](https://www.dpgmediagroup.com/en-BE/dpgmedia-nederland)
-* [DPG Media - Wikipedia](https://en.wikipedia.org/wiki/DPG_Media)
-* [Christian Van Thillo - Wikipedia](https://en.wikipedia.org/wiki/Christian_Van_Thillo)
-* [Aandeelhouderschap - Stichting Democratie en Media](https://sdm.nl/en/wat-we-doen/aandeelhouderschap/)
-* [Christian Van Thillo - DPG Media Annual Report 2023](https://jaarverslag.dpgmediagroup.com/2023-en/christian_van_thillo)
-* [RTL Nederland](https://company.rtl.com/en/business-units/overview/rtl-nederland/)
-* [RTL (Nederland) - Wikipedia](https://nl.wikipedia.org/wiki/RTL_(Nederland))
-* [RTL Group - Wikipedia](https://en.wikipedia.org/wiki/RTL_Group)
-* [RTL Nederland - Wikipedia](https://en.wikipedia.org/wiki/RTL_Nederland)
-* [Media group DPG's takeover of RTL Nederland set to go ahead - DutchNews.nl](https://www.dutchnews.nl/2025/05/media-group-dpgs-takeover-of-rtl-nederland-set-to-go-ahead/)
-* [ACM: meer onderzoek nodig naar overname RTL door DPG](https://www.acm.nl/nl/publicaties/acm-meer-onderzoek-nodig-naar-overname-rtl-door-dpg)
-* [DPG Media, RTL Nederland Holding en RTL Nederland Media Services vragen een vergunning aan voor overname (concentratiemelding) - ACM](https://www.acm.nl/nl/publicaties/dpg-media-rtl-nederland-holding-en-rtl-nederland-media-services-vragen-een-vergunning-aan-voor-overname-concentratiemelding)
-* [Overname RTL Nederland mogelijk na knieval DPG Media - M&A - MenA.nl](https://mena.nl/artikel/ovename-rtl-nederland-mogelijk-na-knieval-dpg-media/)
-* [nl.wikipedia.org](https://nl.wikipedia.org/wiki/Mediahuis_Nederland)
-* [Mediahuis - Wikipedia](https://en.wikipedia.org/wiki/Mediahuis)
-* [www.vlaamseregulatormedia.be](https://www.vlaamseregulatormedia.be/nl/over-vrm/rapporten/2020/rapport-mediaconcentratie/mediaconcentratie-in-vlaanderen-2020/2-1)
-* [www.mediahuis.nl](https://www.mediahuis.nl/#:~:text=Mediahuis%20is%20%C3%A9%C3%A9n%20van%20de,Famme%2C%20Bedrock%2C%20WANT%2C%20Culy)
-* [Ontdek onze merken - Werken bij Mediahuis](https://www.werkenbijmediahuis.nl/onze-merken/1560-mediahuis)
-* [Mediahuis Nederland - Thuis in Media](https://www.mediahuis.nl/en/)
-* [Talpa Network - Wikipedia](https://nl.wikipedia.org/wiki/Talpa_Network)
-* [Talpa Network Logo & Brand Assets (SVG, PNG and vector) - Brandfetch](https://brandfetch.com/brandnewtelly.com)
-* [Onze merken. - Talpa Network.](https://talpanetwork.com/adverteren/onze-merken/)
-* [Wie we zijn - NPO](https://npo.nl/overnpo/wie-we-zijn)
-* [Wat doet de Nederlandse Publieke Omroep (NPO)? - Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/media-en-publieke-omroep/vraag-en-antwoord/nederlandse-publieke-omroep)
-* [Mediaconcentratie - Vlaamse Regulator voor de Media](https://www.vlaamseregulatormedia.be/nl/mediaconcentratie)
-* [Digital News Report Nederland 2024 - Commissariaat voor de Media](https://www.cvdm.nl/wp-content/uploads/2024/06/2031086-CvdM-DigitalNewsReport-2024_def.pdf)
-* [Rapport Mediawijsheid Onderzoek 2023](https://netwerkmediawijsheid.nl/onderzoek/rapport-mediawijsheid-onderzoek-2023/)
+1. [www.cvdm.nl](https://www.cvdm.nl/wp-content/uploads/2024/12/CvdM-Mediamonitor-2024.pdf)
+2. [Evaluatie Commissariaat voor de Media](https://zoek.officielebekendmakingen.nl/blg-1136407.pdf)
+3. [FD: overname RTL Nederland door DPG Media bijna rond bij ACM - Marketing Report](https://marketingreport.nl/fd-overname-rtl-nederland-door-dpg-media-bijna-rond-bij-acm/)
+4. [Nader onderzoek nodig naar overname RTL Nederland Holding en RTL Nederland Media Services door DPG Media - concentratiebesluit - ACM](https://www.acm.nl/nl/publicaties/nader-onderzoek-nodig-naar-overname-rtl-nederland-holding-en-rtl-nederland-media-services-door-dpg-media-concentratiebesluit)
+5. [Merger supervision ACM 2024 - Taylor Wessing](https://www.taylorwessing.com/en/insights-and-events/insights/2025/02/merger-supervision-acm-2024)
+6. [Who we are - DPG Media The Netherlands](https://www.dpgmediagroup.com/en-BE/dpgmedia-nederland)
+7. [DPG Media - Wikipedia](https://en.wikipedia.org/wiki/DPG_Media)
+8. [Christian Van Thillo - Wikipedia](https://en.wikipedia.org/wiki/Christian_Van_Thillo)
+9. [Aandeelhouderschap - Stichting Democratie en Media](https://sdm.nl/en/wat-we-doen/aandeelhouderschap/)
+10. [Christian Van Thillo - DPG Media Annual Report 2023](https://jaarverslag.dpgmediagroup.com/2023-en/christian_van_thillo)
+11. [RTL Nederland](https://company.rtl.com/en/business-units/overview/rtl-nederland/)
+12. [RTL (Nederland) - Wikipedia](https://nl.wikipedia.org/wiki/RTL_(Nederland))
+13. [RTL Group - Wikipedia](https://en.wikipedia.org/wiki/RTL_Group)
+14. [RTL Nederland - Wikipedia](https://en.wikipedia.org/wiki/RTL_Nederland)
+15. [Media group DPG's takeover of RTL Nederland set to go ahead - DutchNews.nl](https://www.dutchnews.nl/2025/05/media-group-dpgs-takeover-of-rtl-nederland-set-to-go-ahead/)
+16. [ACM: meer onderzoek nodig naar overname RTL door DPG](https://www.acm.nl/nl/publicaties/acm-meer-onderzoek-nodig-naar-overname-rtl-door-dpg)
+17. [DPG Media, RTL Nederland Holding en RTL Nederland Media Services vragen een vergunning aan voor overname (concentratiemelding) - ACM](https://www.acm.nl/nl/publicaties/dpg-media-rtl-nederland-holding-en-rtl-nederland-media-services-vragen-een-vergunning-aan-voor-overname-concentratiemelding)
+18. [Overname RTL Nederland mogelijk na knieval DPG Media - M&A - MenA.nl](https://mena.nl/artikel/ovename-rtl-nederland-mogelijk-na-knieval-dpg-media/)
+19. [nl.wikipedia.org](https://nl.wikipedia.org/wiki/Mediahuis_Nederland)
+20. [Mediahuis - Wikipedia](https://en.wikipedia.org/wiki/Mediahuis)
+21. [www.vlaamseregulatormedia.be](https://www.vlaamseregulatormedia.be/nl/over-vrm/rapporten/2020/rapport-mediaconcentratie/mediaconcentratie-in-vlaanderen-2020/2-1)
+22. [www.mediahuis.nl](https://www.mediahuis.nl/#:~:text=Mediahuis%20is%20%C3%A9%C3%A9n%20van%20de,Famme%2C%20Bedrock%2C%20WANT%2C%20Culy)
+23. [Ontdek onze merken - Werken bij Mediahuis](https://www.werkenbijmediahuis.nl/onze-merken/1560-mediahuis)
+24. [Mediahuis Nederland - Thuis in Media](https://www.mediahuis.nl/en/)
+25. [Talpa Network - Wikipedia](https://nl.wikipedia.org/wiki/Talpa_Network)
+26. [Talpa Network Logo & Brand Assets (SVG, PNG and vector) - Brandfetch](https://brandfetch.com/brandnewtelly.com)
+27. [Onze merken. - Talpa Network.](https://talpanetwork.com/adverteren/onze-merken/)
+28. [Wie we zijn - NPO](https://npo.nl/overnpo/wie-we-zijn)
+29. [Wat doet de Nederlandse Publieke Omroep (NPO)? - Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/media-en-publieke-omroep/vraag-en-antwoord/nederlandse-publieke-omroep)
+30. [Mediaconcentratie - Vlaamse Regulator voor de Media](https://www.vlaamseregulatormedia.be/nl/mediaconcentratie)
+31. [Digital News Report Nederland 2024 - Commissariaat voor de Media](https://www.cvdm.nl/wp-content/uploads/2024/06/2031086-CvdM-DigitalNewsReport-2024_def.pdf)
+32. [Rapport Mediawijsheid Onderzoek 2023](https://netwerkmediawijsheid.nl/onderzoek/rapport-mediawijsheid-onderzoek-2023/)
 
