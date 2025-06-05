@@ -1,3 +1,4 @@
+
 # Media-eigendom in Nederland Onderzocht
 
 ## De Eigendomsstructuur van de Nederlandse Media: Een Analyse van Macht en Concentratie
