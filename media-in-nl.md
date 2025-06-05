@@ -87,6 +87,7 @@ Tabel 3: Vereenvoudigde Aandeelhoudersstructuur Mediahuis NV (Moederbedrijf Medi
 | VP Capital | ~16,3% | Familie Van Puijenbroek |
 | Overige | ~0,8% |  |
 | Bron: Gebaseerd op [21]. |  |  |
+
 Sleutelmerken in Nederland
 Mediahuis Nederland beheert een breed scala aan mediamerken [19, 22, 23, 24]:
  * Nationale Dagbladen: De Telegraaf (de grootste krant van Nederland), NRC Handelsblad (sinds 2015 eigendom van Mediahuis NV).
