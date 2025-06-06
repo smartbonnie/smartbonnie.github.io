@@ -8,6 +8,7 @@ title: Welkom bij Bonnies Info!
 ## Personen
 
 * [Berg_vd_Max](Berg_vd_Max.md)
+* [Dilan_Yeşilgöz-Zegerius](Dilan_Yeşilgöz-Zegerius.md)
 
 ## Organisaties
 
