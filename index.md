@@ -18,3 +18,9 @@ title: Welkom bij Bonnies Info!
 ## Vraagstukken
 
 * [Asielprobleem Nederland en buurlanden](Asielprobleem.md)
+* [Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders](10_punten_plan.md)
+
+## Uitleg
+
+* [Wat is ethiek](Wat_is_ethiek.md)
+
