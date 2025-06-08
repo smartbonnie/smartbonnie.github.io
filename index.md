@@ -14,6 +14,7 @@ title: Welkom bij Bonnies Info!
 
 * [Heritage Foundation_in Europa](Heritage_foundation_Europa.md)
 * [Media in Nederland](media-in-nl.md)
+* [RAIR Foundation en Wilders](RAIR_Foundation.md)
 
 ## Vraagstukken
 

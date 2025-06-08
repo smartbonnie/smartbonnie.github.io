@@ -1,8 +1,6 @@
 #!/bin/sh
 
-
-
-cp -f ../Mijn\ Data/Onderzoeken/*.md .
+cp -f ~/storage/shared/Documents/Mijn\ Data/Onderzoeken/*.md .
 
 git add .
 git commit -a
