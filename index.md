@@ -21,6 +21,10 @@ title: Welkom bij Bonnies Info!
 * [Asielprobleem Nederland en buurlanden](Asielprobleem.md) - [kort](Asielprobleem-b1.md)
 * [Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders](10_punten_plan.md)
 
+
+## Muizenissen
+* [Jan Huzen is een racist](Jan%20Huzen%20is%20een%20racist.md)
+
 ## Uitleg
 
 * [Wat is ethiek](Wat_is_ethiek.md)
