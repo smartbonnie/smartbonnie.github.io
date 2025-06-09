@@ -23,7 +23,7 @@ title: Welkom bij Bonnies Info!
 
 
 ## Muizenissen
-* [Jan Huzen is een racist](Jan%20Huzen%20is%20een%20racist.md)
+* [Jan Huzen is een racist](Jan_Huzen_is_een_racist.md)
 
 ## Uitleg
 
