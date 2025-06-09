@@ -1,6 +1,8 @@
 #!/bin/sh
 
-cp -f ~/storage/shared/Documents/Mijn\ Data/Onderzoeken/*.md .
+rm -f *.md
+
+cp -f /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/*.md .
 cp -fr /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/img .
 
 git add .
