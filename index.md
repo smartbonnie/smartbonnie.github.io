@@ -7,8 +7,9 @@ title: Welkom bij Bonnies Info!
 
 ## Personen
 
-* [Berg_vd_Max](Berg_vd_Max.md)
-* [Dilan_Yeşilgöz-Zegerius](Dilan_Yeşilgöz-Zegerius.md)
+* [Berg, Max vd](Berg_vd_Max.md)
+* [Huzen, Jan](Jan_Huzen.md)
+* [Yeşilgöz-Zegerius, Dilan](Dilan_Yeşilgöz-Zegerius.md)
 
 ## Organisaties
 

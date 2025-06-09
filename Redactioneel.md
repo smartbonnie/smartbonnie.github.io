@@ -17,3 +17,16 @@ Over dit proces wil ik ook nog iets kwijt. Het is namelijk zo dat in de toekomst
 
 Het gevaar schuilt hem in de makers van de betreffende Ai, in hoe ver heeft een model een bias. Daarom blijft de redactie en kennis van de redacteur cruciaal.
 
+## Mijn toolkit
+
+* Obsidian
+* Github en git
+* Google Gemini 2.5 Pro
+* Flipboard
+* Opera browser
+* Termux
+* Samsung Galaxy S24 Ultra
+* Goed stel hersens
+
+Reacties via mijn [github repo](https://github.com/smartbonnie/smartbonnie.github.io)
+
