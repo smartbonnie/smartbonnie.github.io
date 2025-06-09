@@ -1,8 +1,10 @@
+# Jan Huzen is een racist
+
 ![jhuzentext.png](img/jhuzentext.png)
 
 Deze tekst, gepost op 9 juni 2025 door "Jan Huzen", bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht:
 
-1. Discriminerende en racistische uitlatingen
+### 1. Discriminerende en racistische uitlatingen
 
 "Wij blanke en rasechte Nederlanders worden gezien als uitschot."
 
@@ -13,12 +15,11 @@ Deze bewoording is xenofoob en racistisch, omdat:
 Het een vijandbeeld schetst van ‘gelukzoekers’ (vaak bedoeld als synoniem voor migranten of vluchtelingen) zonder bewijs.
 
 Het etnisch profileren van “blanke” versus “gelukzoekers” impliceert een hiërarchie van waarde tussen bevolkingsgroepen.
-
-2. Suggestie van etnische superioriteit
+### 2. Suggestie van etnische superioriteit
 
 De term "rasechte Nederlanders" roept associaties op met etnisch nationalisme, wat historisch gevoelig ligt en discriminerend kan overkomen.
 
-3. Factuele en logische fouten
+### 3. Factuele en logische fouten
 
 "Dan kwam er nooit geen gelukzoeker hier de grens nog over!" 
 
@@ -28,7 +29,7 @@ Dubbele ontkenning → grammaticaal incorrect; zou eigenlijk betekenen dat geluk
 
 Deze klacht over de politie is vaag, zonder context. Is dit standaardprocedure? Wat was de aanleiding?
 
-4. Polarisatie en slachtofferschap
+### 4. Polarisatie en slachtofferschap
 
 Er wordt een wij-zij-denken gecreëerd: 
 
@@ -37,8 +38,7 @@ Er wordt een wij-zij-denken gecreëerd:
 "Gelukzoekers" als criminelen.
 
 Dit versterkt polarisatie en ondermijnt het maatschappelijke debat.
-
-5. Taalgebruik en stijl
+### 5. Taalgebruik en stijl
 
 Zinnen zijn onsamenhangend of slordig opgebouwd.
 
@@ -46,7 +46,7 @@ Voorbeeld: "En ja wij hebben gelachen omdat het lachwekkend was" is een cirkelre
 
 De toon is emotioneel, beschuldigend en ongericht.
 
-Samenvatting:
+## Samenvatting:
 
 De tekst bevat:
 
@@ -55,7 +55,7 @@ De tekst bevat:
 * Foutieve redeneringen
 * Grammaticale fouten
 
-Advies:
+## Advies:
 
 * Vermijd veralgemeningen over bevolkingsgroepen.
 * Voer kritiek op beleid of politie optreden feitelijk, concreet en zonder haatdragende taal.
