@@ -4,7 +4,8 @@
 
 ## I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen  
 
-**A. Overzicht van de Burgergrenscontroles** 
+**A. Overzicht van de Burgergrenscontroles**
+
 In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen nam het recht in eigen hand door het uitvoeren van wat zij beschouwden als grenscontroles. Deze individuen, in sommige media omschreven als "rechtsextremisten" en door anderen, of henzelf, als "bezorgde burgers", hielden voertuigen staande om te controleren op de aanwezigheid van asielzoekers. De actie riep onmiddellijk scherpe veroordeling op van lokale autoriteiten. De gemeente Westerwolde, waartoe Ter Apel behoort, bestempelde het optreden als "levensgevaarlijk en verboden". Het feit dat Ter Apel een groot aanmeldcentrum voor asielzoekers huisvest, maakt de locatie significant en vaak het brandpunt van het Nederlandse migratiedebat. Deze gebeurtenis vormt een directe uitdaging aan het staatsgezag en voedt de bezorgdheid over eigenrichting en de openbare orde.  
 
 **B. Introductie van Jan Huzen als Organisator** 
@@ -209,11 +210,11 @@ De kans op voortzetting of navolging van dergelijke acties lijkt reëel, mede ge
 16. [Dit zijn de plannen van het nieuwe kabinet - Metronieuws](https://www.metronieuws.nl/in-het-nieuws/binnenland/2024/05/dit-staat-er-in-het-kabinetsakkoord-plannen-nieuw-kabinet/)
 17. [Plenair verslag Tweede Kamer, 21e vergadering Donderdag 7 november 2024](https://www.tweedekamer.nl/kamerstukken/plenaire_verslagen/detail/2024-2025/21)
 18. [Burgers houden eigen 'grenscontrole' bij Ter Apel, Van Weel roept op te stoppen](https://www.headliner.nl/item/burgers-houden-eigen-grenscontrole-bij-ter-apel-van-weel-roept-op-te-stoppen-rtlnieuws-972246)
-19. [Conflict leidt tot zeer ernstige aanrijding en vermoedelijk steekincident op de Zonnelaan (video) | 112Groningen](https://112groningen.nl/409932/groningen/mogelijk-conflict-leidt-tot-ernstige-aanrijding-en-vermoedelijk-steekincident-op-de-zonnelaan-in-groningen/)
+19. [Conflict leidt tot zeer ernstige aanrijding en vermoedelijk steekincident op de Zonnelaan (video) \| 112Groningen](https://112groningen.nl/409932/groningen/mogelijk-conflict-leidt-tot-ernstige-aanrijding-en-vermoedelijk-steekincident-op-de-zonnelaan-in-groningen/)
 20. [Wet op de weerkorpsen - BWBR0001980 - Wetten.nl - Overheid.nl](https://wetten.overheid.nl/jci1.3:c:BWBR0001980&g=2025-05-20&z=2025-05-20)
 21. [Grenscontroles en de Wet op de weerkorpsen : r/nederlands - Reddit](https://www.reddit.com/r/nederlands/comments/1l6j10v/grenscontroles_en_de_wet_op_de_weerkorpsen/)
 22. [Mag ik als burger een verdachte aanhouden? - Politie.nl](https://www.politie.nl/informatie/mag-ik-als-burger-een-verdachte-aanhouden.html)
 23. [Nederland gaat tijdelijk grenscontroles uitvoeren - RefugeeHelp](https://www.refugeehelp.nl/nl/status-holder/news/100479-nederland-gaat-tijdelijk-grenscontroles-uitvoeren-dit-moet-je-weten?reroute=ti)
 24. [Dit is wat je moet weten over de invoering van de tijdelijke grenscontroles](https://www.marechausseecontact.nl/12651-dit-is-wat-je-moet-weten-over-de-invoering-van-de-tijdelijke-grenscontroles)
 25. [Coronaprotesten lopen uit op rellen - Joop - BNNVARA](https://www.bnnvara.nl/joop/artikelen/coronaprotesten-lopen-uit-op-rellen)
-26. [Complotdenken in tijden van corona: Iedereen heeft recht op eigen mening, maar niet op eigen feiten | Klimaatverandering](https://klimaatveranda.nl/2020/08/13/complotdenken-in-tijden-van-corona-iedereen-heeft-recht-op-eigen-mening)
+26. [Complotdenken in tijden van corona: Iedereen heeft recht op eigen mening, maar niet op eigen feiten \| Klimaatverandering](https://klimaatveranda.nl/2020/08/13/complotdenken-in-tijden-van-corona-iedereen-heeft-recht-op-eigen-mening)
