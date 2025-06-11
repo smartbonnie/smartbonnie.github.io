@@ -1,7 +1,7 @@
 ---
 title: Welkom bij Bonnies Info!
 toc: true
-layout: home
+layout: splash
 ---
 # Info Blog
 
