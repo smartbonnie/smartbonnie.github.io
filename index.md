@@ -2,6 +2,8 @@
 title: Welkom bij Bonnies Info!
 toc: true
 layout: splash
+header:
+  image: /assets/images/banner.png
 ---
 # Info Blog
 
