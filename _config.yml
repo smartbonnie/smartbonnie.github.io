@@ -43,4 +43,9 @@ masthead_title: "SmartBonnie"
 breadcrumbs: true
 date_format: "%Y-%m-%d"
 search: true
+url: "https://smartbonnie.github.io"
+repository: "smartbonnie/smartbonnie.github.io"
 
+# Header Scrips
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
