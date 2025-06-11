@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /data/data/com.termux/files/home/git/smartbonnie.github.io
+cd ~/git/smartbonnie.github.io
 
 rm -f *.md
 
