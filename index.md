@@ -1,7 +1,5 @@
 ---
 title: Welkom bij Bonnies Info!
-layout: single
-classes: wide
 ---
 # Info Blog
 
