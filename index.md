@@ -1,6 +1,6 @@
 ---
 title: Welkom bij Bonnies Info!
-layout: home
+toc: "true"
 ---
 # Info Blog
 
