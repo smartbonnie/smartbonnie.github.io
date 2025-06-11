@@ -12,3 +12,4 @@ defaults:
       comments: true
       share: true
       related: true
+minimalist-skin: "dark"
