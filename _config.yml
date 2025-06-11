@@ -1,3 +1,14 @@
 plugins:
   - jekyll-include-cache
 theme: mmistakes/minimal-mistakes@4.27.1
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
