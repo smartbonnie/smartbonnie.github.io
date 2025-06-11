@@ -1,6 +1,6 @@
 ---
 title: "Welkom bij Bonnies Info!"
-layout: simple
+layout: splash
 header:
   image: /assets/images/banner.png
 sidebar:
