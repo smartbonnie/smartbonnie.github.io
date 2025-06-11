@@ -1,6 +1,29 @@
-plugins:
-  - jekyll-include-cache
+# Theme en skin
 remote-theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark"
+
+# Auteur
+author:
+  name     : "Smartbonnie"
+  bio      : "Informatief, woke, verzet."
+  location : "Den Haag"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  
 defaults:
   # _posts
   - scope:
@@ -12,7 +35,7 @@ defaults:
       comments: true
       share: true
       related: true
-minimal_mistakes_skin: "air"
+
 locale: "nl-Nl"
 title: "Bonnies Smarties"
 description: "Een site vol met woke feitelijke infornatie."
@@ -20,8 +43,4 @@ masthead_title: "SmartBonnie"
 breadcrumbs: true
 date_format: "%Y-%m-%d"
 search: true
-author:
-  name     : "Smartbonnie"
-  bio      : "Informatief, woke, verzet."
-  location : "Den Haag"
 
