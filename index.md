@@ -1,9 +1,15 @@
 ---
-title: Welkom bij Bonnies Info!
-toc: true
-layout: splash
+title: "Welkom bij Bonnies Info!"
+layout: simple
 header:
   image: /assets/images/banner.png
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 ---
 # Info Blog
 
