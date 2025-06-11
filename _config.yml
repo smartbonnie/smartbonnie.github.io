@@ -1,6 +1,6 @@
 plugins:
   - jekyll-include-cache
-theme: "mmistakes/minimal-mistakes"
+remote-theme: "mmistakes/minimal-mistakes"
 defaults:
   # _posts
   - scope:
