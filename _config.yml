@@ -12,7 +12,7 @@ defaults:
       comments: true
       share: true
       related: true
-minimalist-skin: "dark"
+minimal-mistakes-skin: "dark"
 locale: "nl-Nl"
 title: "Bonnies Smarties"
 description: "Een site vol met woke feitelijke infornatie."
