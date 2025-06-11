@@ -1,6 +1,7 @@
 ---
-title: "Welkom bij Bonnies Info!"
+title: Welkom bij Bonnies Info!
 toc: true
+layout: home
 ---
 # Info Blog
 

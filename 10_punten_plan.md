@@ -1,6 +1,7 @@
 ---
-title: "10 punten plan"
-toc: true
+title: 10 punten plan
+toc: "true"
+layout:
 ---
 
 # **Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse**
