@@ -13,3 +13,15 @@ defaults:
       share: true
       related: true
 minimalist-skin: "dark"
+locale: "nl-Nl"
+title: "Bonnies Smarties"
+description: "Een site vol met woke feitelijke infornatie."
+masthead_title: "SmartBonnie"
+breadcrumbs: true
+date_format: "%Y-%m-%d"
+search: true
+author:
+  name     : "Smartbonnie"
+  bio      : "Informatief, woke, verzet."
+  location : "Den Haag"
+
