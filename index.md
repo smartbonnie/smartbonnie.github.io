@@ -1,6 +1,7 @@
 ---
 title: Welkom bij Bonnies Info!
 toc: "true"
+layout: single
 ---
 # Info Blog
 
