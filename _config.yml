@@ -1,5 +1,5 @@
 # Theme en skin
-remote-theme: "mmistakes/minimal-mistakes"
+#remote-theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
 # Auteur
@@ -35,7 +35,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _portfolio
+  # _personen
   - scope:
       path: ""
       type: personen
@@ -43,6 +43,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
 
 locale: "nl-Nl"
 title: "Bonnies Smarties"
