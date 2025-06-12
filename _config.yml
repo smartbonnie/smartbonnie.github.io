@@ -1,5 +1,5 @@
 # Theme en skin
-#remote-theme: "mmistakes/minimal-mistakes"
+remote-theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
 # Auteur
