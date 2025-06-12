@@ -4,7 +4,7 @@ toc: "true"
 toc_label: "Rubrieken."
 layout: single
 header:
-  image: /assets/images/banner.png
+  image: /img/banner.png
 ---
 ## Info
 
