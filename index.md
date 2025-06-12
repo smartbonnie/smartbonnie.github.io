@@ -1,6 +1,7 @@
 ---
 title: Welkom bij Bonnie's Smarties!
 toc: "true"
+toc_label: "Rubrieken."
 layout: single
 header:
   image: /assets/images/banner.png
