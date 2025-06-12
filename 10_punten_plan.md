@@ -4,7 +4,7 @@ toc: "true"
 layout: single
 ---
 
-<figure style="width: 20%; float: left;">
+<figure style="width: 20%; float: left;margin-right: 10px;">
   <img src="/assets/images/10puntenplan.png" alt="god geeft geert 10 punten">
   <figcaption>10 punten plan</figcaption>
 </figure> 
