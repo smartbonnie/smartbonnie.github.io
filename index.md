@@ -1,5 +1,5 @@
 ---
-title: Welkom bij Bonnies Info!
+title: Welkom bij Bonnie's Smarties!
 toc: "true"
 layout: single
 header:

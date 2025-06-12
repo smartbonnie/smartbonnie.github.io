@@ -6,6 +6,9 @@ rm -f *.md
 
 cp -f /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/*.md .
 cp -fr /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/img .
+
+# Assets schoonmaken en ophalen dit voorkomt wezen
+rm -fr assets
 cp -fr /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/assets .
 
 git add .
