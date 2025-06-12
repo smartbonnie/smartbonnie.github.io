@@ -1,9 +1,10 @@
 ---
-title: 10 punten plan
+title: "Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse"
 toc: "true"
 layout: single
 ---
 
+![10 punten plan](/assets/images/10puntenplan.png){: .align-left}
 # **Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse**
 
 ## **I. Introductie: Geert Wilders' Tienpunten Migratieplan en de Noodzaak van Juridische en Ethische Toetsing**
