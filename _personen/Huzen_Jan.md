@@ -3,7 +3,7 @@ title: "Jan Huzen en de Burgergrenscontroles."
 toc: true
 ---
 
-![jan huzen](img/jan_huzen.png)
+![jan huzen](/img/jan_huzen.png)
 
 ## I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen  
 

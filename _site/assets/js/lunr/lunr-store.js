@@ -14,7 +14,19 @@ var store = [{
         "title": "Jan Huzen en de Burgergrenscontroles.",
         "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
         "tags": [],
+        "url": "/personen/Huzen_Jan/",
+        "teaser": null
+      },{
+        "title": "Jan Huzen en de Burgergrenscontroles.",
+        "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
+        "tags": [],
         "url": "/personen/Jan_Huzen/",
+        "teaser": null
+      },{
+        "title": "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider",
+        "excerpt":"Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het roer...","categories": [],
+        "tags": [],
+        "url": "/personen/Ye%C5%9Filg%C3%B6z-Zegerius_Dilan/",
         "teaser": null
       },{
         "title": "Personen",
