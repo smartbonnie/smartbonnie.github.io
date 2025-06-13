@@ -5,7 +5,7 @@ header:
   teaser: /img/Berg_vd_Max.jpeg
 excerpt: Kleine biografie van de Fakkeldrager
 ---
-![max](/img/Berg_vd_Max.jpeg)
+![max](/img/Berg_vd_Max_320.png)
 ## 1. Introductie: De Ontmaskering van "De Fakkeldrager"
 
 Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias "de fakkeldrager," representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van den Berg met een brandende fakkel verscheen bij de privéwoning van een vooraanstaand Nederlands politica. Deze gebeurtenis katapulteerde hem naar nationale bekendheid en markeerde hem als een symbool van een confronterende en intimiderende vorm van protest.
