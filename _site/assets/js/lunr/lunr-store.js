@@ -1,5 +1,5 @@
 var store = [{
-        "title": "Max van den Berg: Profiel van De Fakkeldrager",
+        "title": "Max van den Berg",
         "excerpt":"1. Introductie: De Ontmaskering van “De Fakkeldrager” Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias “de fakkeldrager,” representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van...","categories": [],
         "tags": [],
         "url": "/personen/Berg_vd_Max/",
