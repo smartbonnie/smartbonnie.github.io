@@ -1,8 +1,6 @@
 ---
 title: "Max van den Berg"
 toc: true
-header:
-  teaser: /img/Berg_vd_Max_320.png
 excerpt: Kleine biografie van de Fakkeldrager
 ---
 ![max](/img/Berg_vd_Max.jpeg)
