@@ -1,5 +1,5 @@
 # Theme en skin
-remote-theme: "mmistakes/minimal-mistakes"
+theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark"
 
 # Auteur

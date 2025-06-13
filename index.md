@@ -12,9 +12,9 @@ header:
 
 ## Personen
 
-* [Berg, Max vd](Berg_vd_Max.md)
+* [Berg, Max vd](---Berg_vd_Max.md)
 * [Huzen, Jan](Jan_Huzen.md)
-* [Yeşilgöz-Zegerius, Dilan](Dilan_Yeşilgöz-Zegerius.md)
+* [Yeşilgöz-Zegerius, Dilan](Onderzoeken/Dilan_Yeşilgöz-Zegerius.md)
 
 ## Organisaties
 

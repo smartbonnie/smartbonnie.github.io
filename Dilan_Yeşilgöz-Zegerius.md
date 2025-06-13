@@ -1,3 +1,8 @@
+---
+title: "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider"
+toc: true
+---
+
 [Redactioneel](https://smartbonnie.github.io/Redactioneel.html) [Index](https://smartbonnie.github.io/index.html#personen)
 # **Dilan Yeşilgöz-Zegerius: Een Portret van een Politiek Leider**
 

@@ -1,4 +1,7 @@
-# **Jan Huzen en de Burgergrenscontroles in Ter Apel: Een Analyse van Vigilantisme en Maatschappelijke Onrust**
+---
+title: "Jan Huzen en de Burgergrenscontroles."
+toc: true
+---
 
 ![jan huzen](img/jan_huzen.png)
 

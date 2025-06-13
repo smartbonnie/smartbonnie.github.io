@@ -1,4 +1,7 @@
-# Max van den Berg: Profiel van "De Fakkeldrager" - Activisme, Ideologie en Juridische Repercussies
+---
+title: "Max van den Berg: Profiel van De Fakkeldrager"
+toc: true
+---
 
 ## 1. Introductie: De Ontmaskering van "De Fakkeldrager"
 
