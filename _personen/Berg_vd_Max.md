@@ -1,7 +1,7 @@
 ---
 title: "Max van den Berg"
 toc: true
-excerpt: Kleine biografie van de Fakkeldrager
+excerpt: "Kleine biografie van de Fakkeldrager"
 ---
 ![max](/img/Berg_vd_Max.jpeg)
 ## 1. Introductie: De Ontmaskering van "De Fakkeldrager"
