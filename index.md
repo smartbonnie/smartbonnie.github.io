@@ -12,9 +12,7 @@ header:
 
 ## Personen
 
-* [Berg, Max vd](---Berg_vd_Max.md)
-* [Huzen, Jan](Jan_Huzen.md)
-* [Yeşilgöz-Zegerius, Dilan](Onderzoeken/Dilan_Yeşilgöz-Zegerius.md)
+In [deze rubriek](personen) vind artikelen die ik tot nu toe over personen heb gepubliceerd. Waarom? We hebben toch Wikipedia? Ja klopt helaas is het een hoop werk om de daar geplaatste info op bias of leugen te controleren.
 
 ## Organisaties
 
