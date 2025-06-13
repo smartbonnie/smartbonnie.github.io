@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
 
@@ -36,4 +36,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "faraday-retry"
 end
