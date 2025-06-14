@@ -30,4 +30,3 @@ Meer info [over organisaties en verbanden](organisaties) die soms moeilijk te ov
 ## Uitleg
 
 * [Wat is ethiek](Wat_is_ethiek.md)
-
