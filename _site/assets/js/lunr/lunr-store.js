@@ -11,10 +11,16 @@ var store = [{
         "url": "/organisaties/Heritage_foundation_Europa/",
         "teaser": null
       },{
-        "title": "Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders**",
+        "title": "Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders",
         "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
         "url": "/organisaties/RAIR_Foundation/",
+        "teaser": null
+      },{
+        "title": "De Heritage Foundation: Analyse van een Ideologische Macht",
+        "excerpt":"Inleiding: Meer dan een Denkfabriek De Heritage Foundation, opgericht op 16 februari 1973, presenteert zichzelf als een conservatieve denktank gevestigd in Washington D.C., gewijd aan beleidsonderzoek. Echter, een diepgaande analyse onthult een organisatie die de traditionele definitie van een denktank ver overstijgt. Het is een uiterst invloedrijke, geïntegreerde politieke onderneming...","categories": [],
+        "tags": [],
+        "url": "/organisaties/de_heritage_foundatation/",
         "teaser": null
       },{
         "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",

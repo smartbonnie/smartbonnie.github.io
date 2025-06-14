@@ -1,5 +1,5 @@
 ---
-title: Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders**
+title: "Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders"
 toc: true
 excerpt: Dit rapport presenteert een gedetailleerd onderzoek naar de financieringsbronnen van de RAIR Foundation USA, diens oprichtster Amy Mekelburg, en de Nederlandse politicus Geert Wilders en zijn Partij voor de Vrijheid (PVV).
 ---
