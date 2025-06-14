@@ -30,6 +30,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       read_time: true
       comments: true
@@ -40,8 +41,20 @@ defaults:
       path: ""
       type: personen
     values:
+      show_date: true
+      read_time: true
       layout: single
-      author_profile: false
+      author_profile: true
+      share: true
+  # _organisaties
+  - scope:
+      path: ""
+      type: organisaties
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
       share: true
 
 
@@ -62,6 +75,9 @@ head_scripts:
 
 collections:
   personen:
+    output: true
+    permalink: /:collection/:path/
+  organisaties:
     output: true
     permalink: /:collection/:path/
 

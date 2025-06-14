@@ -2,9 +2,6 @@
 
 cd ~/git/smartbonnie.github.io
 
-rm -f *.md
-
-cp -fr /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/* .
 #cp -fr /storage/emulated/0/Documents/Mijn\ Data/Onderzoeken/img .
 
 # Assets schoonmaken en ophalen dit voorkomt wezen

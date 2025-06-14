@@ -16,9 +16,7 @@ In [deze rubriek](personen) vind artikelen die ik tot nu toe over personen heb g
 
 ## Organisaties
 
-* [Heritage Foundation_in Europa](Heritage_foundation_Europa.md)
-* [Media in Nederland](media-in-nl.md)
-* [RAIR Foundation en Wilders](RAIR_Foundation.md)
+Meer info [over organisaties en verbanden](organisaties) die soms moeilijk te overzien zijn. Deze smarties pogen een tipje van de sluier op te lichten.
 
 ## Vraagstukken
 

@@ -1,26 +1,44 @@
 var store = [{
+        "title": "Een Architectuur van Invloed: De Heritage Foundation en het Conflict tussen Israël en Iran",
+        "excerpt":"Hoofdstuk 1: De Heritage Foundation: Een Machtscentrum in Washington 1.1 Missie en Ideologische Grondslagen De Heritage Foundation, opgericht in 1973, definieert haar missie als het formuleren en promoten van conservatief overheidsbeleid gebaseerd op de principes van vrije ondernemerschap, beperkte overheid, individuele vrijheid, traditionele Amerikaanse waarden en een sterke nationale defensie....","categories": [],
+        "tags": [],
+        "url": "/organisaties/Heritage%20Foundation_%20Isra%C3%ABl-Iran%20Aanval/",
+        "teaser": null
+      },{
+        "title": "De Verbinding tussen de Heritage Foundation en Europees Extreemrechts.",
+        "excerpt":"Inleiding: Contextualisering van de Vraag Dit rapport beantwoordt de vraag naar het bestaan en de aard van een verbinding tussen de Heritage Foundation en extreemrechts in Europa. De toenemende prominentie van populistische en extreemrechtse bewegingen op het Europese continent, in combinatie met de groeiende internationale betrokkenheid van invloedrijke Amerikaanse conservatieve...","categories": [],
+        "tags": [],
+        "url": "/organisaties/Heritage_foundation_Europa/",
+        "teaser": null
+      },{
+        "title": "Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders**",
+        "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
+        "tags": [],
+        "url": "/organisaties/RAIR_Foundation/",
+        "teaser": null
+      },{
+        "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
+        "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
+        "tags": [],
+        "url": "/organisaties/media-in-nl/",
+        "teaser": null
+      },{
+        "title": "Organisaties",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/organisaties/",
+        "teaser": null
+      },{
         "title": "Max van den Berg",
         "excerpt":"1. Introductie: De Ontmaskering van “De Fakkeldrager” Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias “de fakkeldrager,” representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van...","categories": [],
         "tags": [],
         "url": "/personen/Berg_vd_Max/",
         "teaser": null
       },{
-        "title": "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider",
-        "excerpt":"Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het roer...","categories": [],
-        "tags": [],
-        "url": "/personen/Dilan_Ye%C5%9Filg%C3%B6z-Zegerius/",
-        "teaser": null
-      },{
         "title": "Jan Huzen en de Burgergrenscontroles.",
         "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
         "tags": [],
         "url": "/personen/Huzen_Jan/",
-        "teaser": null
-      },{
-        "title": "Jan Huzen en de Burgergrenscontroles.",
-        "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
-        "tags": [],
-        "url": "/personen/Jan_Huzen/",
         "teaser": null
       },{
         "title": "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider",
