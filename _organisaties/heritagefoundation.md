@@ -1,5 +1,5 @@
 ---
-title: "De Heritage Foundation: Analyse van een Ideologische Macht"
+title: "De Heritage Foundation"
 toc: true
 excerpt: Een uitgebreide analyse over de denktank Heritage Foundation."
 ---

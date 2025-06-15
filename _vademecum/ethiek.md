@@ -1,9 +1,14 @@
-### **Ethiek: Een Gids voor Morele Keuzes**
+---
+title: "Ethiek: Een Gids voor Morele Keuzes"
+toc: true
+excerpt: Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. 
+---
 
+## Inleiding
 **Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: "Wat is de juiste manier om te handelen?"**  
 Hoewel de termen 'ethiek' en 'moraal' in het dagelijks taalgebruik vaak door elkaar worden gehaald, is er een belangrijk onderscheid. **Moraal** verwijst naar de verzameling van handelingen en gedragingen die in een maatschappelijke context als wenselijk worden gezien. **Ethiek** is het diepgaand nadenken over die moraal. Een ethicus bestudeert de rechtvaardiging van morele regels en probeert vast te stellen welke principes ten grondslag liggen aan ons oordeel over goed en kwaad.
 
-#### **De Hoofdstromingen in de Ethiek**
+### **De Hoofdstromingen in de Ethiek**
 
 Binnen de ethiek zijn er verschillende theorieën die elk een ander uitgangspunt hebben om te bepalen wat een handeling goed of fout maakt. De drie bekendste stromingen zijn:
 
@@ -14,7 +19,7 @@ Binnen de ethiek zijn er verschillende theorieën die elk een ander uitgangspunt
 * **Deugdethiek:** Deze benadering, die zijn oorsprong vindt bij Griekse filosofen als Aristoteles, richt zich niet primair op de handeling of de gevolgen, maar op het karakter en de deugden van de persoon die handelt. De centrale vraag is: "Wat voor persoon moet ik zijn?" Het doel is het ontwikkelen van een goed karakter door deugden als eerlijkheid, moed, rechtvaardigheid en mededogen te cultiveren.  
   * **Voorbeeld:** Een deugdethicus zou bij een dilemma niet alleen vragen "Wat moet ik doen?", maar ook "Wat zou een wijs, eerlijk en moedig persoon in deze situatie doen?".
 
-#### **Ethiek in de Praktijk**
+### **Ethiek in de Praktijk**
 
 Ethiek is geen abstracte, academische bezigheid, maar speelt een cruciale rol in vele aspecten van het dagelijks leven en de samenleving. Enkele voorbeelden van ethische vraagstukken zijn:
 

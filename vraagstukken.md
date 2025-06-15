@@ -1,0 +1,14 @@
+---
+title: Vraagstukken
+layout: collection
+permalink: /vraagstukken/
+collection: vraagstukken
+entries_layout: grid
+classes: wide
+author_profile: true
+sort_by: date
+#sort_order: reverse
+show_excepts: true
+---
+
+Deze tijd kent veel vraagstukken. Deze smarties belichten ze en proberen objectieve antwoorden te vinden.

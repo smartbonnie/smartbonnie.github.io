@@ -1,17 +1,10 @@
-# **Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders**
+---
+title: "De RAIR foundation"
+toc: true
+excerpt: Dit rapport presenteert een gedetailleerd onderzoek naar de financieringsbronnen van de RAIR Foundation USA, diens oprichtster Amy Mekelburg, en de Nederlandse politicus Geert Wilders en zijn Partij voor de Vrijheid (PVV).
+---
 
-## **1\. Samenvatting**
-
-Dit rapport presenteert een gedetailleerd onderzoek naar de financieringsbronnen van de RAIR Foundation USA, diens oprichtster Amy Mekelburg, en de Nederlandse politicus Geert Wilders en zijn Partij voor de Vrijheid (PVV).
-
-Daarnaast wordt de relevantie van Amy Mekelburgs Joodse identiteit geanalyseerd in de context van haar activisme en de ideologie van de counter-jihadbeweging.  
-
-De belangrijkste bevindingen tonen aan dat Geert Wilders' PVV aanzienlijke en gedocumenteerde financiële steun heeft ontvangen uit Amerikaanse bronnen, met name van het David Horowitz Freedom Center (DHFC). Deze geldstromen liepen vaak via de Stichting Vrienden van de PVV en werden openbaar gemaakt conform de Nederlandse wetgeving. In schril contrast hiermee staat de financiering van Amy Mekelburgs RAIR Foundation USA, waarvan de directe, publiekelijk verifieerbare geldbronnen en de specifieke juridische of non-profitstatus opvallend ondoorzichtig blijven binnen het beschikbare onderzoeksmateriaal. Deze observatie wordt versterkt door het feit dat zoekopdrachten naar "RAIR Foundation" vaak leiden naar niet-gerelateerde organisaties met een focus op kunst.  
-Amy Mekelburgs Joodse identiteit is een bekend aspect van haar publieke persona. De relevantie hiervan wordt onderzocht in de context van de "Joods-Christelijke" framing die RAIR Foundation USA hanteert, en de bredere strategische inzet van filosemitisme en pro-Israëlische standpunten door de counter-jihadbeweging. Deze strategieën lijken bedoeld om anti-islamitische narratieven te legitimeren en beschuldigingen van racisme te pareren. Er doet zich echter een potentiële contradictie voor: Mekelburg, die zich als Joods identificeert en wier stichting pro-Israëlische content promoot, is tevens beschuldigd van het verspreiden van antisemitische tropen, bijvoorbeeld met betrekkingrekking tot George Soros.  
-
-Alle drie de onderzochte entiteiten – RAIR Foundation USA, Mekelburg en Wilders – zijn diep verankerd in het internationale counter-jihadnetwerk. Ze delen ideologische overeenkomsten en, in sommige gevallen, financiële banden via organisaties zoals het DHFC. Dit rapport beoogt de complexe verwevenheid van financiering, ideologie en identiteit binnen dit netwerk te ontleden.
-
-## **2\. Inleiding: Profielen en Ideologisch Landschap**
+## Inleiding: Profielen en Ideologisch Landschap
 
 Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal.  
 **RAIR Foundation USA** De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was "Resistance Against Islamic Radicals," later gewijzigd in "Rise Align Ignite Reclaim". De organisatie wordt door diverse bronnen omschreven als een "haatgroep en website" , een "extreemrechts complottheorieplatform" , en een "extremistische, door complotten gedreven website". De stichting publiceert anti-immigratie en anti-moslim complottheorieën, waaronder de "omvolkingstheorie" (Great Replacement) en "islamiseringstheorieën". De missie van RAIR is omschreven als "het stoppen van de jihadistische infiltratie van onze Amerikaanse gemeenschappen" en "Amerika terugwinnen van het netwerk van individuen en organisaties die oorlog voeren tegen onze Grondwet, grenzen en Joods-Christelijke waarden". Zowel het Southern Poverty Law Center (SPLC) als de Council on American-Islamic Relations (CAIR) classificeren RAIR Foundation USA als een anti-moslim haatgroep. 
@@ -26,11 +19,11 @@ Geert Wilders is een Nederlandse extreemrechtse, populistische politicus en leid
 
 Het langdurige, consistente anti-islamplatform van Geert Wilders heeft niet alleen zijn politieke carrière gedefinieerd, maar hem ook tot een centrale figuur gemaakt voor internationale anti-islamnetwerken. Dit heeft waarschijnlijk buitenlandse interesse en financiering aangetrokken, zoals later in dit rapport zal worden gedetailleerd. Zijn politieke succes, ondanks of juist vanwege deze controversiële opvattingen, duidt op een significant electoraat voor dergelijke ideeën in Nederland en mogelijk een model voor soortgelijke bewegingen elders. De prominente rol die Wilders speelt en zijn duidelijke ideologische standpunt maken hem een natuurlijke bondgenoot en potentiële ontvanger van steun van internationale groepen die vergelijkbare anti-islamagenda's delen. Het feit dat hij meerdere regeringscrises heeft veroorzaakt vanwege zijn eisen onderstreept zijn toewijding aan deze extreme posities, wat zijn imago binnen deze netwerken verder verstevigt.
 
-## **3\. Financieringsnetwerken onder de Loep**
+## Financieringsnetwerken onder de Loep
 
 Dit hoofdstuk detailleert de bekende en vermoede financiële ondersteuning van RAIR Foundation USA, Amy Mekelburg en Geert Wilders/PVV, waarbij onderscheid wordt gemaakt waar informatie schaars is of naar niet-gerelateerde entiteiten wijst.
 
-### **3.1. RAIR Foundation USA**
+### RAIR Foundation USA
 
 **Operationele Structuur en Leiderschap:** RAIR Foundation USA is opgericht door Amy Mekelburg. Chris Gaubatz, bekend van eerdere anti-moslimactiviteiten, waaronder het infiltreren van CAIR , fungeert als president van de stichting.  
 
@@ -46,7 +39,7 @@ De "Support Us"-pagina van de website van RAIR Foundation USA en andere zoekopdr
 **Implicaties van Ondoorzichtige Financiering:** 
 Het gebrek aan transparantie met betrekking tot de financiering en juridische status van een organisatie als RAIR Foundation USA, die actief betrokken is bij politieke belangenbehartiging en vaak controversiële inhoud verspreidt , is een significante bevinding. Deze ondoorzichtigheid verhindert publieke controle op potentiële donoren en hun agenda's.
 
-### **3.2. Geert Wilders en de Partij voor de Vrijheid (PVV)**
+### Geert Wilders en de Partij voor de Vrijheid (PVV)
 
 **Gedocumenteerde Amerikaanse Financiële Bijdragen:** 
 De PVV heeft aantoonbaar financiële steun ontvangen uit de Verenigde Staten, met name van het David Horowitz Freedom Center (DHFC).
@@ -83,7 +76,7 @@ Deze tabel consolideert verschillende financiële datapunten in een duidelijk, v
 * Wilders' PVV heeft de aspiratie van Steve Bannon voor een pan-Europese extreemrechtse beweging onderschreven.  
 * Wilders heeft een nauwe relatie met de Hongaarse premier Viktor Orbán, waarbij Hongarije veiligheidsdiensten levert voor Wilders' bezoeken. Dit duidt op politieke en mogelijk materiële steun op hoog niveau, hoewel directe financiële overdrachten in deze specifieke context niet worden gedetailleerd.
 
-### **3.3. Amy Mekelburg (Persoonlijke Financiering voor Activisme)**
+### Amy Mekelburg (Persoonlijke Financiering voor Activisme)
 
 Het beschikbare onderzoeksmateriaal **bevat geen specifieke informatie over Amy Mekelburgs persoonlijke financieringsbronnen** met betrekking tot haar activisme of de exploitatie van RAIR Foundation USA. Haar echtgenoot werd ontslagen bij WWE als gevolg van de onthulling van haar online activiteiten , wat financiële implicaties kan hebben gehad, maar dit detailleert geen financiering *voor* haar activisme.  
 Het schrille contrast in transparantie tussen de financiering van Geert Wilders/PVV (gedeeltelijk zichtbaar dankzij Nederlandse openbaarmakingswetten en onderzoeksjournalistiek) en RAIR Foundation USA (zeer ondoorzichtig in het verstrekte materiaal) is een kritische bevinding. Terwijl de buitenlandse financiering van Wilders uit Amerikaanse counter-jihadbronnen gedocumenteerd is, blijven de financiële fundamenten van een in de VS gevestigd counter-jihadplatform zoals RAIR Foundation USA obscuur. 
@@ -96,11 +89,11 @@ Het David Horowitz Freedom Center (DHFC) komt naar voren als een cruciaal financ
 
 Dit wijst op een gecoördineerde inspanning van ten minste enkele Amerikaanse counter-jihad organisaties om de Europese politiek te beïnvloeden en ideologisch gelijkgestemde bewegingen in het buitenland te ondersteunen. De verandering in de Nederlandse wetgeving die buitenlandse donaties vanaf 2023 beperkt , zou dergelijke directe financieringskanalen in de toekomst kunnen beïnvloeden, wat mogelijk leidt tot minder transparante methoden als de steun aanhoudt.
 
-## **4\. De Counter-Jihad Nexus: Ideologische en Financiële Verbanden**
+## De Counter-Jihad Nexus: Ideologische en Financiële Verbanden
 
 Dit hoofdstuk onderzoekt de bredere counter-jihadbeweging, haar kerndoelstellingen, financieringsmechanismen en hoe RAIR, Mekelburg en Wilders binnen dit internationale netwerk passen.
 
-### **4.1. Overzicht van de Counter-Jihadbeweging (CJM)**
+### Overzicht van de Counter-Jihadbeweging (CJM)
 
 **Definitie en Ideologie:** 
 De counter-jihadbeweging (CJM) is een zelfbenoemde anti-moslim politieke beweging die de islam beschouwt als een existentiële bedreiging voor de Westerse beschaving. Ze wordt gekarakteriseerd als anti-islamitisch, islamofoob en haatzaaiend. De beweging promoot "Eurabië"-complottheorieën, die een vermeende islamitische overname van Europa voorspellen , en framet Westerse moslims vaak als een "vijfde colonne".  
@@ -111,7 +104,7 @@ Prominente figuren zijn onder meer Pamela Geller en Robert Spencer in de VS, en 
 **Tactieken:** 
 De CJM maakt gebruik van blogs, websites, denktanks en demonstraties. Ze richt zich op het genereren van verontwaardiging over vermeende misdaden door moslims en het aanvallen van gematigde moslimorganisaties.
 
-### **4.2. Financiering binnen het Counter-Jihad Netwerk**
+### Financiering binnen het Counter-Jihad Netwerk
 
 **Rol van Denktanks:** 
 Organisaties zoals het David Horowitz Freedom Center (DHFC) en het Center for Security Policy (CSP) spelen een belangrijke rol in de financiering en het leggen van internationale verbanden. De International Free Press Society wordt ook genoemd.  
@@ -125,7 +118,7 @@ Analyse toont aan dat Amerikaanse financiering "extreem belangrijk" is voor de E
 
 Deze financiële steun is instrumenteel in het onderhouden van de infrastructuur van de beweging (denktanks, blogs, reizen van activisten). De "pro-Israëlische" component van deze donoren sluit aan bij het strategische gebruik van pro-Israëlische retoriek door de CJM (zie Hoofdstuk 5). Deze financiële steun is niet enkel voor algemene conservatieve doelen, maar specifiek voor die met een anti-islamfocus.
 
-### **4.3. RAIR, Mekelburg en Wilders binnen het Netwerk**
+### RAIR, Mekelburg en Wilders binnen het Netwerk
 
 **Geert Wilders:** 
 Wilders wordt erkend als een Europese sleutelfiguur. Zijn PVV ontving financiering van het DHFC (zie 3.2). Hij heeft evenementen bijgewoond van Amerikaanse anti-moslimgroepen zoals AFDI (hoofdspreker op Pamela Geller's "Muhammad Art Exhibit") en ontving een prijs van het DHFC. 
@@ -141,15 +134,15 @@ Amerikaanse denktanks en financiers zoals het DHFC lijken een cruciale rol te sp
 
 Amerikaanse denktanks zoals het DHFC financieren Europese actoren zoals Wilders (zie 3.2), terwijl Amerikaanse platforms zoals RAIR Foundation USA (van Mekelburg) actief Europese figuren zoals Wilders promoten en ondersteunen. Gedeelde narratieven ("islamisering," "Joods-Christelijke waarden," pro-Israël/anti-islam) zijn evident in de output van zowel Amerikaanse (RAIR, DHFC) als Europese (Wilders) entiteiten. Dit duidt op een symbiotische relatie: Europese politieke figuren bieden een platform voor CJM-ideeën in de politieke arena, terwijl Amerikaanse entiteiten financiële en ideologische steun bieden, wat een feedbackloop creëert die de beweging aan beide zijden van de Atlantische Oceaan versterkt.
 
-## **5\. De Relevantie van Amy Mekelburgs Joodse Identiteit**
+## De Relevantie van Amy Mekelburgs Joodse Identiteit
 
 Dit hoofdstuk analyseert hoe Amy Mekelburgs Joodse identiteit kruist met haar activisme, de berichtgeving van RAIR Foundation USA, en de bredere strategieën van de counter-jihadbeweging.
 
-### **5.1. Publieke Identiteit en RAIR's "Joods-Christelijke" Framing**
+### Publieke Identiteit en RAIR's "Joods-Christelijke" Framing
 
 Amy Mekelburg wordt geïdentificeerd als Joods. De missieverklaring van RAIR Foundation USA omvat het terugwinnen van Amerika van degenen die "oorlog voeren tegen onze Grondwet, grenzen en Joods-Christelijke waarden". Deze framing is gebruikelijk binnen de counter-jihadbeweging. Artikelen van RAIR Foundation USA, zoals het stuk over Wilders die waarschuwt voor de val van Jeruzalem , benadrukken een "Joods-Christelijk erfgoed van het Westen" dat zogenaamd bedreigd wordt door de islam. Wilders wordt geciteerd: "als Israël valt, valt het Joods-Christelijke erfgoed van het Westen mee".
 
-### **5.2. Counter-Jihadbeweging, Filosemitisme en Pro-Israëlische Standpunten**
+### Counter-Jihadbeweging, Filosemitisme en Pro-Israëlische Standpunten
 
 De counter-jihadbeweging is vaak sterk pro-Israël en beschouwt Israël als een bastion van de Westerse cultuur tegenover moslimlanden. Academische analyse suggereert dat extreemrechts, inclusief de CJM, "filosemitisme" (beweerde bewondering of affiniteit voor Joodse mensen/cultuur/Israël) strategisch gebruikt. Deze "nieuwe golf van filosemitisme" is vaak niet oprecht, maar een instrument om extreemrechts als liberaal/mainstream te presenteren, steun te verwerven en beschuldigingen van racisme te pareren. 
 
@@ -167,7 +160,7 @@ Het verleent potentieel een schijn van legitimiteit aan hun anti-islamstandpunt,
 
 Dit kan de anti-islamboodschap voor bepaalde doelgroepen acceptabeler maken en het voor critici moeilijker maken om deze ronduit te veroordelen, omdat het het narratief van extreemrechts extremisme, dat vaak met antisemitisme wordt geassocieerd, compliceert. De "Joods-Christelijke" framing probeert een verenigd "wij" (Joden en Christenen) te creëren tegenover een gemeenschappelijk "zij" (moslims/islam).
 
-### **5.3. Beschuldigingen van Antisemitische Tropen**
+### Beschuldigingen van Antisemitische Tropen
 
 Ondanks haar Joodse identiteit en de pro-Israëlische content van RAIR, is Mekelburg beschuldigd van het verspreiden van antisemitische haat en het zich associëren met individuen/groepen die antisemitisme promoten. Specifiek heeft ze de Hongaarse premier Viktor Orbán geprezen, "die antisemitisme heeft gebruikt voor politiek gewin door de Hongaars-Amerikaanse Joodse miljardair George Soros af te schilderen als een kwade, globalistische poppenspeler". Het narratief van "Soros als globalistische poppenspeler" is een bekende antisemitische trope. Ze heeft ook lezers aangemoedigd om individuen zoals Jared Wyand te volgen, omschreven als "een witte supremacist en antisemiet die openlijk Adolf Hitler prijst en de Holocaust ontkent".  
 
@@ -177,11 +170,11 @@ Dit zou ook interne tegenstrijdigheden of verschillende ideologische stromingen 
 
 Deze complexiteit suggereert dat de "pro-Israëlische" en "filosemitische" standpunten binnen de CJM niet monolithisch zijn en kunnen samengaan met, of zelfs gebruikt kunnen worden om, andere problematische associaties te maskeren, met als overkoepelend doel de promotie van een anti-islamagenda.
 
-## **6\. Onderlinge Verbondenheid en Invloed: Een Analytisch Overzicht**
+## Onderlinge Verbondenheid en Invloed: Een Analytisch Overzicht
 
 Dit hoofdstuk synthetiseert de bevindingen en brengt de relaties in kaart tussen RAIR Foundation USA, Mekelburg, Wilders en het bredere counter-jihadnetwerk, en beoordeelt hun collectieve invloed.
 
-### **6.1. In Kaart Brengen van Relaties**
+### In Kaart Brengen van Relaties
 
 * **RAIR/Mekelburg en Wilders:** RAIR promoot actief Wilders en zijn anti-islam, pro-Israël (in CJM-context) narratieven. Wilders' acties (zoals het laten vallen van de Nederlandse regering) worden geprezen door RAIR. Dit duidt op een sterke ideologische afstemming en wederzijdse steun.  
 * **Wilders en het Amerikaanse Counter-Jihad Netwerk:** Wilders heeft directe financiële banden met het DHFC (zie 3.2) en heeft contact gehad met andere Amerikaanse anti-moslimfiguren zoals Pamela Geller.  
@@ -192,7 +185,7 @@ De relatie tussen deze entiteiten is niet louter een toevallige ideologische ove
 
 Dit creëert een veerkrachtiger en invloedrijker beweging dan wanneer elk geïsoleerd zou opereren. Wilders onderneemt politieke acties (bijv. 10-punten migratieplan, laten vallen van de regering). RAIR/Mekelburg rapporteert over en ondersteunt deze acties, en framet ze positief binnen het CJM-narratief. DHFC en andere Amerikaanse groepen bieden financiering en ideologische steun aan figuren als Wilders en de bredere CJM (zie 3.2 en 4.2). Mekelburgs online activisme, versterkt door spraakmakende steunbetuigingen, kan de publieke perceptie vormen en zelfs reacties van politieke figuren uitlokken , wat mogelijk een klimaat creëert dat bevorderlijk is voor beleid dat Wilders bepleit, of vice versa. Deze onderlinge verbondenheid suggereert een arbeidsverdeling binnen een breder strategisch kader gericht op het bevorderen van anti-islam, nationalistische en populistische agenda's in Westerse landen.
 
-### **6.2. Beoordeling van Invloed**
+### Beoordeling van Invloed
 
 * **Wilders:** Bewezen politieke invloed in Nederland, in staat om significant aantal stemmen te winnen en regeringen te destabiliseren. Zijn internationale profiel maakt hem een prominente stem voor de wereldwijde extreemrechtse beweging.  
 * **Mekelburg/RAIR:** Invloed voornamelijk in de online sfeer, door het verspreiden van narratieven aan een grote groep volgers op sociale media en via het RAIR-platform. Steunbetuigingen van spraakmakende figuren zoals Trump en versterking door politieke figuren zoals gouverneur Abbott suggereren een bereik tot in mainstream conservatieve en extreemrechtse kringen. RAIR's campagne tegen een door moslims geleid ontwikkelingsproject in Texas toont een poging om online activisme om te zetten in reële impact.  
@@ -202,7 +195,7 @@ De invloed van deze actoren, met name Mekelburg/RAIR, wordt aanzienlijk vergroot
 
 Deze versterking door mainstream politieke actoren verleent geloofwaardigheid aan wat anders als marginale, extremistische content zou kunnen worden beschouwd. Het toont een route waarlangs online desinformatie en haatzaaiende taal het reële politieke debat en zelfs beleidsbeslissingen kunnen beïnvloeden (bijv. de onderzoeken naar het ontwikkelingsproject in Texas ). De macht van deze platforms, gecombineerd met invloedrijke steunbetuigingen, stelt relatief kleine organisaties of individuen in staat een buitenproportionele impact op het publieke discours te hebben.
 
-## **7\. Conclusie**
+## Conclusie
 
 Dit onderzoek heeft de financieringsstructuren, ideologische positionering en onderlinge verbondenheid van RAIR Foundation USA, Amy Mekelburg en Geert Wilders binnen het bredere counter-jihadnetwerk geanalyseerd. 
 
@@ -223,7 +216,7 @@ De activiteiten van dergelijke netwerken hebben potentieel verstrekkende gevolge
 **Potentiële Gebieden voor Nader Onderzoek:** 
 Verdere diepgang zou gebaat zijn bij een grondiger onderzoek naar de specifieke financieringsbronnen en de juridische structuur van online politieke belangengroepen zoals RAIR Foundation USA. Een bredere analyse van het volledige spectrum van internationale financiering voor Europese extreemrechtse partijen, voorbij de specifiek in dit rapport behandelde entiteiten, blijft relevant, vooral gezien de recente wijzigingen in de Nederlandse wetgeving. Daarnaast zou een diepgaandere analyse van de psychologische en sociologische impact van strategisch filosemitisme binnen extremistische bewegingen waardevolle inzichten kunnen opleveren. De mate waarin dergelijke strategieën daadwerkelijk bijdragen aan het legitimeren van haatdragende ideologieën en het aantrekken van een breder publiek verdient voortdurende aandacht van onderzoekers en beleidsmakers.
 
-#### **Geciteerd werk**
+#### Geciteerd werk
 
 1. [Amy Mek - Wikipedia](https://en.wikipedia.org/wiki/Amy_Mek)
 2. [RAIR Foundation USA – Page 4 - Islamophobia.org](https://islamophobia.org/islamophobic-organizations/rair-foundation-usa/4/)
@@ -242,10 +235,10 @@ Verdere diepgang zou gebaat zijn bij een grondiger onderzoek naar de specifieke 
 15. [Who is Geert Wilders? The populist right-wing hardliner behind the collapse of Dutch government - The Economic Times](https://m.economictimes.com/news/international/us/who-is-geert-wilders-the-populist-right-wing-hardliner-behind-the-collapse-of-dutch-government/articleshow/121615997.cms)
 16. [Geert Wilders - Wikipedia](https://en.wikipedia.org/wiki/Geert_Wilders)
 17. [Dutch government collapses as Wilders' far-right party leaves coalition - Yahoo](https://www.yahoo.com/news/dutch-government-collapses-wilders-far-090646534.html)
-18. [Anti-Islam lawmaker Geert Wilders unveils a 10-point plan to slash migration in the Netherlands | AP News](https://apnews.com/article/netherlands-wilders-asylum-seekers-government-980e3d47fa57ed490ae71609b4afd642)
+18. [Anti-Islam lawmaker Geert Wilders unveils a 10-point plan to slash migration in the Netherlands \| AP News](https://apnews.com/article/netherlands-wilders-asylum-seekers-government-980e3d47fa57ed490ae71609b4afd642)
 19. [Far-right leader Geert Wilders throws Dutch politics into turmoil by pulling party from ruling coalition - PBS](https://www.pbs.org/newshour/world/far-right-leader-geert-wilders-throws-dutch-politics-into-turmoil-by-pulling-party-from-ruling-coalition)
 20. [Dutch far-right leader Geert Wilders quits coalition, likely leading to elections](https://www.timesofisrael.com/liveblog_entry/dutch-far-right-leader-geert-wilders-quits-coalition-likely-leading-to-elections/)
-21. [Russia and Ukraine Agree to Prisoner Swap | Council on Foreign Relations](https://www.cfr.org/article/russia-and-ukraine-agree-prisoner-swap)
+21. [Russia and Ukraine Agree to Prisoner Swap \| Council on Foreign Relations](https://www.cfr.org/article/russia-and-ukraine-agree-prisoner-swap)
 22. [Dutch government faces collapse as Wilders threatens to exit coalition](https://apnews.com/article/netherlands-politics-wilders-migration-61aa76550cb47705067c57f666cf7bf0)
 23. [When, not if: the fall of the Dutch cabinet - UK in a changing Europe](https://ukandeu.ac.uk/when-not-if-the-fall-of-the-dutch-cabinet/)
 24. [Party for Freedom - Wikipedia](https://en.wikipedia.org/wiki/Party_for_Freedom)
@@ -257,7 +250,7 @@ Verdere diepgang zou gebaat zijn bij een grondiger onderzoek naar de specifieke 
 30. [Geert Wilders' Dutch anti-Muslim party forced to reveal US donor ...](https://electronicintifada.net/blogs/ali-abunimah/geert-wilders-dutch-anti-muslim-party-forced-reveal-us-donor)
 31. [Inzicht in Samenhang - Eerste Kamer](https://repository.wodc.nl/bitstream/handle/20.500.12832/3298/3232-inzicht-in-samenhang-evaluatie-contraterrorismewetgeving-volledige-tekst.pdf)
 32. [Counter-jihad - Wikipedia](https://en.wikipedia.org/wiki/Counter-jihad)
-33. [What to know about the Dutch government in turmoil and what happens next | PBS News](https://www.pbs.org/newshour/world/what-to-know-about-the-dutch-government-in-turmoil-and-what-happens-next)
+33. [What to know about the Dutch government in turmoil and what happens next \| PBS News](https://www.pbs.org/newshour/world/what-to-know-about-the-dutch-government-in-turmoil-and-what-happens-next)
 34. [UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA COUNCIL ON AMERICAN-ISLAMIC RELATIONS ACTION NETWORK, INC., et al., Pl - GovInfo](https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_09-cv-02030/pdf/USCOURTS-dcd-1_09-cv-02030-2.pdf)
 35. [Chris Gaubatz - Wikipedia](https://en.wikipedia.org/wiki/Chris_Gaubatz)
 36. [Roswell Artist-in-Residence Foundation - Groundworks New Mexico](https://www.groundworksnm.org/nonprofit-directory/nonprofit/11070)
@@ -268,15 +261,15 @@ Verdere diepgang zou gebaat zijn bij een grondiger onderzoek naar de specifieke 
 41. [RAIR Foundation: RIse Align Ignite Reclaim.](https://rairfoundation.com/)
 42. [List of miscellaneous fake news websites - Wikipedia](https://en.wikipedia.org/wiki/List_of_miscellaneous_fake_news_websites)
 43. [Misrepresenting Scientific Consensus on COVID-19: The Amplification of Dissenting Scientists on Twitter - ResearchGate](https://www.researchgate.net/publication/356457999_Misrepresenting_Scientific_Consensus_on_COVID-19_The_Amplification_of_Dissenting_Scientists_on_Twitter)
-44. [It started as an idea for a Muslim community. It's now the center of Texas' toughest political fight | KERA News](https://www.keranews.org/politics/2025-05-29/epic-city-muslim-community-john-cornyn-ken-paxton-republican-senate-primary)
+44. [It started as an idea for a Muslim community. It's now the center of Texas' toughest political fight \| KERA News](https://www.keranews.org/politics/2025-05-29/epic-city-muslim-community-john-cornyn-ken-paxton-republican-senate-primary)
 45. [Misrepresenting Scientific Consensus on COVID-19: The Amplification of Dissenting Scientists on Twitter - arXiv](https://arxiv.org/pdf/2111.10594)
 46. [David Horowitz Freedom Center - Wikipedia](https://en.wikipedia.org/wiki/David_Horowitz_Freedom_Center)
-47. [Authoritarian right: Netherlands | Corporate Europe Observatory](https://corporateeurope.org/en/2019/05/authoritarian-right-netherlands)
-48. [Geert Wilders | Factsheet: Islamophobia | The Bridge Initiative - Georgetown University](https://bridge.georgetown.edu/research/factsheet-geert-wilders/)
-49. [Rapport inzake de jaarrekening 2022 | Vereniging Partij voor de Vrijheid te Den Haag - Rijksoverheid](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/jaarverslagen/2023/09/25/financiele-verslagen-politieke-partijen-over-2022-van-politieke-partijen-deel-1/PVV+2022.pdf)
+47. [Authoritarian right: Netherlands \| Corporate Europe Observatory](https://corporateeurope.org/en/2019/05/authoritarian-right-netherlands)
+48. [Geert Wilders \| Factsheet: Islamophobia \| The Bridge Initiative - Georgetown University](https://bridge.georgetown.edu/research/factsheet-geert-wilders/)
+49. [Rapport inzake de jaarrekening 2022 \| Vereniging Partij voor de Vrijheid te Den Haag - Rijksoverheid](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/jaarverslagen/2023/09/25/financiele-verslagen-politieke-partijen-over-2022-van-politieke-partijen-deel-1/PVV+2022.pdf)
 50. [Wie betalen Wilders? - Vrij Nederland](https://www.vn.nl/wie-betalen-wilders/)
 51. [debat over het bericht dat volgens de Tsjechische geheime dienst Rusland cash betaalde aan Nederlandse en Europese politici - Eerste Kamer](https://www.eerstekamer.nl/behandeling/20240402/debat_over_het_bericht_dat_volgens/document3/f=/vmdvqssdqaz1.pdf)
-52. [Onderwerpen | Democratie | Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/democratie/documenten)
+52. [Onderwerpen \| Democratie \| Rijksoverheid.nl](https://www.rijksoverheid.nl/onderwerpen/democratie/documenten)
 53. [Rapport - : - Verslag van de Parlementaire ondervragingscommissie ongewenste beïnvloeding uit onvrije landen (POCOB) "(On)zichtbare invloed" - Tweede Kamer](https://www.tweedekamer.nl/kamerstukken/detail?id=2020Z12034&did=2020D25817)
 54. [TIN - Transparency International Nederland](https://www.transparency.nl/wp-content/uploads/2016/12/TI-NL-NIS-report.pdf)
 55. [Wilders verzweeg buitenlandse financiering - Joop - BNNVARA](https://www.bnnvara.nl/joop/artikelen/wilders-verzweeg-buitenlandse-financiering)
@@ -284,7 +277,7 @@ Verdere diepgang zou gebaat zijn bij een grondiger onderzoek naar de specifieke 
 57. [en.wikipedia.org](https://en.wikipedia.org/wiki/Counter-jihad#:~:text=Notable%20figures%20include%20the%20editors,or,%20David%20Horowitz%20and%20Fjordman.)
 58. [Islamophobia in Europe: How governments are enabling the far-right 'counter-jihad' movement - Powerbase.info](https://powerbase.info/images/6/6c/Aked-Jones-Miller-Counterjihad_report-2019.pdf)
 59. [Pamela Geller - Wikipedia](https://en.wikipedia.org/wiki/Pamela_Geller)
-60. [XXX Report | SGI Sustainable Governance Indicators 2019](https://www.sgi-network.org/docs/2019/thematic/SGI2019_Electoral_Processes.pdf)
+60. [XXX Report \| SGI Sustainable Governance Indicators 2019](https://www.sgi-network.org/docs/2019/thematic/SGI2019_Electoral_Processes.pdf)
 61. [The New Philosemitism: Exploring a Changing Relationship ... - ICSR](https://icsr.info/wp-content/uploads/2020/11/ICSR-Report-The-New-Philosemitism-Exploring-a-Changing-Relationship-Between-Jews-and-the-Far-Right.pdf)
 62. [April 22, 2025 - Bridge Initiative](https://bridge.georgetown.edu/today_islamophobia/april-22-2025/)
 63. [How a Muslim housing plan in Texas became the target of right-wing hysteria](https://www.middleeasteye.net/opinion/us-muslim-texas-housing-plan-became-target-right-wing-hysteria-how)

@@ -5,34 +5,28 @@ var store = [{
         "url": "/muizenissen/Jan_Huzen_is_een_racist/",
         "teaser": null
       },{
-        "title": "Een Architectuur van Invloed: De Heritage Foundation en het Conflict tussen Israël en Iran",
-        "excerpt":"Hoofdstuk 1: De Heritage Foundation: Een Machtscentrum in Washington 1.1 Missie en Ideologische Grondslagen De Heritage Foundation, opgericht in 1973, definieert haar missie als het formuleren en promoten van conservatief overheidsbeleid gebaseerd op de principes van vrije ondernemerschap, beperkte overheid, individuele vrijheid, traditionele Amerikaanse waarden en een sterke nationale defensie....","categories": [],
-        "tags": [],
-        "url": "/organisaties/Heritage%20Foundation_%20Isra%C3%ABl-Iran%20Aanval/",
-        "teaser": null
-      },{
-        "title": "De Verbinding tussen de Heritage Foundation en Europees Extreemrechts.",
-        "excerpt":"Inleiding: Contextualisering van de Vraag Dit rapport beantwoordt de vraag naar het bestaan en de aard van een verbinding tussen de Heritage Foundation en extreemrechts in Europa. De toenemende prominentie van populistische en extreemrechtse bewegingen op het Europese continent, in combinatie met de groeiende internationale betrokkenheid van invloedrijke Amerikaanse conservatieve...","categories": [],
-        "tags": [],
-        "url": "/organisaties/Heritage_foundation_Europa/",
-        "teaser": null
-      },{
-        "title": "Financiële Netwerken en Ideologische Positionering van RAIR Foundation, Amy Mekelburg en Geert Wilders",
-        "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
-        "tags": [],
-        "url": "/organisaties/RAIR_Foundation/",
-        "teaser": null
-      },{
-        "title": "De Heritage Foundation: Analyse van een Ideologische Macht",
+        "title": "De Heritage Foundation",
         "excerpt":"Inleiding: Meer dan een Denkfabriek De Heritage Foundation, opgericht op 16 februari 1973, presenteert zichzelf als een conservatieve denktank gevestigd in Washington D.C., gewijd aan beleidsonderzoek. Echter, een diepgaande analyse onthult een organisatie die de traditionele definitie van een denktank ver overstijgt. Het is een uiterst invloedrijke, geïntegreerde politieke onderneming...","categories": [],
         "tags": [],
-        "url": "/organisaties/de_heritage_foundatation/",
+        "url": "/organisaties/heritagefoundation/",
         "teaser": null
       },{
-        "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
-        "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
+        "title": "De Heritage Foundation - Europa",
+        "excerpt":"Inleiding: Contextualisering van de Vraag Dit rapport beantwoordt de vraag naar het bestaan en de aard van een verbinding tussen de Heritage Foundation en extreemrechts in Europa. De toenemende prominentie van populistische en extreemrechtse bewegingen op het Europese continent, in combinatie met de groeiende internationale betrokkenheid van invloedrijke Amerikaanse conservatieve...","categories": [],
         "tags": [],
-        "url": "/organisaties/media-in-nl/",
+        "url": "/organisaties/heritagefoundationeuropa/",
+        "teaser": null
+      },{
+        "title": "De Heritage Foundation - Iran oorlog.",
+        "excerpt":"Hoofdstuk 1: De Heritage Foundation: Een Machtscentrum in Washington 1.1 Missie en Ideologische Grondslagen De Heritage Foundation, opgericht in 1973, definieert haar missie als het formuleren en promoten van conservatief overheidsbeleid gebaseerd op de principes van vrije ondernemerschap, beperkte overheid, individuele vrijheid, traditionele Amerikaanse waarden en een sterke nationale defensie....","categories": [],
+        "tags": [],
+        "url": "/organisaties/heritagefoundationiranwar/",
+        "teaser": null
+      },{
+        "title": "De RAIR foundation",
+        "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
+        "tags": [],
+        "url": "/organisaties/rairfoundation/",
         "teaser": null
       },{
         "title": "Max van den Berg",
@@ -849,5 +843,35 @@ var store = [{
         "excerpt":"This post should display a header with a responsive video, if the theme supports it. Settings Parameter Required Description id Required ID of the video provider Required Hosting provider of the video, either youtube or vimeo YouTube To embed the following YouTube video at url https://www.youtube.com/watch?v=-PVofD2A9t8 (long version) or https://youtu.be/-PVofD2A9t8...","categories": ["test","Layout","Uncategorized"],
         "tags": ["video","layout"],
         "url": "/test/layout/uncategorized/2017/01/23/layout-header-video.html",
+        "teaser": null
+      },{
+        "title": "Ethiek: Een Gids voor Morele Keuzes",
+        "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
+        "tags": [],
+        "url": "/vademecum/ethiek/",
+        "teaser": null
+      },{
+        "title": "Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse",
+        "excerpt":"I. Introductie: Geert Wilders’ Tienpunten Migratieplan en de Noodzaak van Juridische en Ethische Toetsing Wat is ethiek Recentelijk heeft Geert Wilders, leider van de Partij voor de Vrijheid (PVV), een tienpuntenplan gepresenteerd dat gericht is op het radicaal terugdringen van migratie naar Nederland. Dit plan, vaak met een zekere urgentie...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/10puntenplanpvv/",
+        "teaser": null
+      },{
+        "title": "De Nederlandse Asielsituatie in Europees Perspectief: Een Analyse van Uitdagingen en Beleidsreacties",
+        "excerpt":"I. Inleiding Contextualisering van de asielproblematiek De thema’s asiel en migratie staan de laatste jaren prominent op de politieke en maatschappelijke agenda in Nederland en breder binnen Europa. Een toegenomen instroom van asielzoekers, deels als gevolg van conflicten en instabiliteit in diverse regio’s wereldwijd, heeft geleid tot aanzienlijke druk op...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/asielprobleem/",
+        "teaser": null
+      },{
+        "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
+        "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/mediainnederland/",
+        "teaser": null
+      },{
+        "title": "Woonfraude in Nederland - Een Analyse van Feiten, Framing en Beleid voorbij de Headlines",
+        "excerpt":"Introductie: De Vonk van een Nationaal Debat – Deconstructie van het Nieuws Een recent, landelijk debat over woonfraude werd niet ontstoken door een omvangrijk statistisch rapport, maar door een gerichte journalistieke onthulling die een gevoelige maatschappelijke zenuw raakte. De kern van deze discussie vindt zijn oorsprong in een undercoveronderzoek van...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/woonfraudestatushouders/",
         "teaser": null
       }]

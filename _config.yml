@@ -66,6 +66,26 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _vraagstukken
+  - scope:
+      path: ""
+      type: vraagstukken
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
+  # _vademecum
+  - scope:
+      path: ""
+      type: vademecum
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
 
 
 locale: "nl-Nl"
@@ -91,6 +111,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   muizenissen:
+    output: true
+    permalink: /:collection/:path/
+  vraagstukken:
+    output: true
+    permalink: /:collection/:path/
+  vademecum:
     output: true
     permalink: /:collection/:path/
 

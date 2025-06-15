@@ -20,15 +20,13 @@ Meer info [over organisaties en verbanden](organisaties) die soms moeilijk te ov
 
 ## Vraagstukken
 
-* [Asielprobleem Nederland en buurlanden](Asielprobleem.md) - [kort](Asielprobleem-b1.md)
-* [Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders](10_punten_plan.md)
-
+Deze tijd kent [veel vraagstukken](vraagstukken). Deze smarties belichten ze en proberen objectieve antwoorden te vinden.
 
 ## Muizenissen
 
 De rubriek [muizenissen](muizenissen) bevat korte artikelen "ter lering en vermaake" om maar eens wat te noemen.
 
 
-## Uitleg
+## Vademecum
 
-* [Wat is ethiek](Wat_is_ethiek.md)
+In [mijn vademecum](vademecum) komen smarties te staan met extra uitleg over moeilijk termen.
