@@ -56,6 +56,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _muizenissen
+  - scope:
+      path: ""
+      type: muizenissen
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
 
 
 locale: "nl-Nl"
@@ -78,6 +88,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   organisaties:
+    output: true
+    permalink: /:collection/:path/
+  muizenissen:
     output: true
     permalink: /:collection/:path/
 

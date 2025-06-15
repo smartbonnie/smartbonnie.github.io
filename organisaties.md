@@ -10,3 +10,5 @@ sort_by: date
 #sort_order: reverse
 show_excepts: true
 ---
+
+Meer info over organisaties en verbanden die soms moeilijk te overzien zijn. Deze smarties pogen een tipje van de sluier op te lichten.

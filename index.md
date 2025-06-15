@@ -25,7 +25,9 @@ Meer info [over organisaties en verbanden](organisaties) die soms moeilijk te ov
 
 
 ## Muizenissen
-* [Jan Huzen is een racist](Jan_Huzen_is_een_racist.md)
+
+De rubriek [muizenissen](muizenissen) bevat korte artikelen "ter lering en vermaake" om maar eens wat te noemen.
+
 
 ## Uitleg
 

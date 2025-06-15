@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Jan Huzen is een racist",
+        "excerpt":"Deze tekst, gepost op 9 juni 2025 door “Jan Huzen”, bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht: 1. Discriminerende en racistische uitlatingen “Wij blanke en rasechte Nederlanders worden gezien als uitschot.” “Gelukzoekers die hier kunnen roven, stelen etc en vrij uitgaan!” Deze bewoording...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/Jan_Huzen_is_een_racist/",
+        "teaser": null
+      },{
         "title": "Een Architectuur van Invloed: De Heritage Foundation en het Conflict tussen Israël en Iran",
         "excerpt":"Hoofdstuk 1: De Heritage Foundation: Een Machtscentrum in Washington 1.1 Missie en Ideologische Grondslagen De Heritage Foundation, opgericht in 1973, definieert haar missie als het formuleren en promoten van conservatief overheidsbeleid gebaseerd op de principes van vrije ondernemerschap, beperkte overheid, individuele vrijheid, traditionele Amerikaanse waarden en een sterke nationale defensie....","categories": [],
         "tags": [],
@@ -29,12 +35,6 @@ var store = [{
         "url": "/organisaties/media-in-nl/",
         "teaser": null
       },{
-        "title": "Organisaties",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/organisaties/",
-        "teaser": null
-      },{
         "title": "Max van den Berg",
         "excerpt":"1. Introductie: De Ontmaskering van “De Fakkeldrager” Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias “de fakkeldrager,” representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van...","categories": [],
         "tags": [],
@@ -51,12 +51,6 @@ var store = [{
         "excerpt":"Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het roer...","categories": [],
         "tags": [],
         "url": "/personen/Ye%C5%9Filg%C3%B6z-Zegerius_Dilan/",
-        "teaser": null
-      },{
-        "title": "Personen",
-        "excerpt":" ","categories": [],
-        "tags": [],
-        "url": "/personen/",
         "teaser": null
       },{
         "title": "Edge Case: Nested and Mixed Lists",
