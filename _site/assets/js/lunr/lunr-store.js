@@ -863,6 +863,12 @@ var store = [{
         "url": "/vraagstukken/asielprobleem/",
         "teaser": null
       },{
+        "title": "De Monsanto-Gok: Een Analyse van Strategie, Risico en Waardevernietiging bij de Overname door Bayer",
+        "excerpt":"Introductie: De Paradox van een Megadeal De overname van Monsanto door Bayer in 2018, ter waarde van circa $63 miljard, staat te boek als een van de meest transformerende en tegelijkertijd meest destructieve transacties in de recente geschiedenis van het bedrijfsleven. Dit rapport analyseert de centrale paradox die aan deze...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/bayerglyfosaat/",
+        "teaser": null
+      },{
         "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
         "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
         "tags": [],
