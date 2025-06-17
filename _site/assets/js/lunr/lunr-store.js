@@ -5,6 +5,12 @@ var store = [{
         "url": "/muizenissen/Jan_Huzen_is_een_racist/",
         "teaser": null
       },{
+        "title": "NAVO en leger krijgen de macht over ons land",
+        "excerpt":"Inleiding Een grondige analyse van het artikel op indepen.eu met de titel “NAVO en leger krijgen de macht over ons land” toont aan dat het artikel onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft. Het artikel mengt bestaande wetgeving en internationale verdragen, maar ontdoet deze...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/navomachtoverland/",
+        "teaser": null
+      },{
         "title": "De Heritage Foundation",
         "excerpt":"Inleiding: Meer dan een Denkfabriek De Heritage Foundation, opgericht op 16 februari 1973, presenteert zichzelf als een conservatieve denktank gevestigd in Washington D.C., gewijd aan beleidsonderzoek. Echter, een diepgaande analyse onthult een organisatie die de traditionele definitie van een denktank ver overstijgt. Het is een uiterst invloedrijke, geïntegreerde politieke onderneming...","categories": [],
         "tags": [],
