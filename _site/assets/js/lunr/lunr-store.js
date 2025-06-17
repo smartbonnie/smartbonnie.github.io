@@ -875,6 +875,12 @@ var store = [{
         "url": "/vraagstukken/mediainnederland/",
         "teaser": null
       },{
+        "title": "Systematisch Racistisch Profileren door de Nederlandse Politie: Een Juridische en Maatschappelijke Analyse",
+        "excerpt":"Inleiding: De Contouren van een Hardnekkig Debat De vraag of de Nederlandse politie zich schuldig maakt aan systematisch racistisch profileren is een van de meest pregnante en polariserende kwesties in het hedendaagse maatschappelijke en politieke debat. Het raakt aan de fundamenten van de rechtsstaat: de belofte van gelijkheid voor de...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/politieetnischprofileren/",
+        "teaser": null
+      },{
         "title": "Woonfraude in Nederland - Een Analyse van Feiten, Framing en Beleid voorbij de Headlines",
         "excerpt":"Introductie: De Vonk van een Nationaal Debat – Deconstructie van het Nieuws Een recent, landelijk debat over woonfraude werd niet ontstoken door een omvangrijk statistisch rapport, maar door een gerichte journalistieke onthulling die een gevoelige maatschappelijke zenuw raakte. De kern van deze discussie vindt zijn oorsprong in een undercoveronderzoek van...","categories": [],
         "tags": [],
