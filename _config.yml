@@ -86,6 +86,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _feitenchecker
+  - scope:
+      path: ""
+      type: feitenchecker
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
 
 
 locale: "nl-Nl"
@@ -117,6 +127,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   vademecum:
+    output: true
+    permalink: /:collection/:path/
+  feitenchecker:
     output: true
     permalink: /:collection/:path/
 

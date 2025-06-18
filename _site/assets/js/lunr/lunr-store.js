@@ -1,4 +1,10 @@
 var store = [{
+        "title": "NAVO en leger krijgen de macht over ons land",
+        "excerpt":"Inleiding Een grondige analyse van het artikel op indepen.eu met de titel “NAVO en leger krijgen de macht over ons land” toont aan dat het artikel onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft. Het artikel mengt bestaande wetgeving en internationale verdragen, maar ontdoet deze...","categories": [],
+        "tags": [],
+        "url": "/feitenchecker/navomachtoverland/",
+        "teaser": null
+      },{
         "title": "Jan Huzen is een racist",
         "excerpt":"Deze tekst, gepost op 9 juni 2025 door “Jan Huzen”, bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht: 1. Discriminerende en racistische uitlatingen “Wij blanke en rasechte Nederlanders worden gezien als uitschot.” “Gelukzoekers die hier kunnen roven, stelen etc en vrij uitgaan!” Deze bewoording...","categories": [],
         "tags": [],
@@ -9,6 +15,12 @@ var store = [{
         "excerpt":"Inleiding Een grondige analyse van het artikel op indepen.eu met de titel “NAVO en leger krijgen de macht over ons land” toont aan dat het artikel onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft. Het artikel mengt bestaande wetgeving en internationale verdragen, maar ontdoet deze...","categories": [],
         "tags": [],
         "url": "/muizenissen/navomachtoverland/",
+        "teaser": null
+      },{
+        "title": "De Oorsprong van Hamas: Een Diepgaande Analyse van Haar Ontstaan en Vroege Ontwikkeling",
+        "excerpt":"1. Inleiding: De Vraag naar Hamas’ Ontstaan Hamas, een acroniem voor Harakat al-Muqawamah al-Islamiyyah (Islamitische Verzetsbeweging), is een Palestijnse nationalistische soennitisch-islamistische politieke organisatie met een militaire vleugel, de Qassam Brigades. De naam “Hamas” zelf draagt een dubbele betekenis, aangezien het ook het Arabische woord is voor “ijver”, “kracht” of “moed”....","categories": [],
+        "tags": [],
+        "url": "/organisaties/hamas/",
         "teaser": null
       },{
         "title": "De Heritage Foundation",

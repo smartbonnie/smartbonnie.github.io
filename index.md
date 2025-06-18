@@ -22,6 +22,10 @@ Meer info [over organisaties en verbanden](organisaties) die soms moeilijk te ov
 
 Deze tijd kent [veel vraagstukken](vraagstukken). Deze smarties belichten ze en proberen objectieve antwoorden te vinden.
 
+## Feiten checker
+
+[De feitenchecker](feitenchecker) behandelt en analyseert desinformatie uit verschillende bronnen.
+
 ## Muizenissen
 
 De rubriek [muizenissen](muizenissen) bevat korte artikelen "ter lering en vermaake" om maar eens wat te noemen.
