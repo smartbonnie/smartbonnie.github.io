@@ -1,0 +1,747 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.27.1 by Michael Rose
+  Copyright 2013-2025 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="nl-Nl" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Een Diepgaande Analyse van Google’s Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties - Bonnies Smarties</title>
+<meta name="description" content="De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini">
+
+
+  <meta name="author" content="Smartbonnie">
+  
+  <meta property="article:author" content="Smartbonnie">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="nl_Nl">
+<meta property="og:site_name" content="Bonnies Smarties">
+<meta property="og:title" content="Een Diepgaande Analyse van Google’s Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties">
+<meta property="og:url" content="http://localhost:4000/vraagstukken/gemini/">
+
+
+  <meta property="og:description" content="De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/img/vraagstukken/gemini.png">
+
+
+
+
+
+  <meta property="article:published_time" content="2025-06-19T15:01:09+02:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/vraagstukken/gemini/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Bonnies Smarties Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+  
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          SmartBonnie
+          
+        </a>
+        <ul class="visible-links"></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <i class="fas fa-search"></i>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+  
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" background-image: url('');"
+>
+  
+    <img src="/img/vraagstukken/gemini.png" alt="Een Diepgaande Analyse van Google’s Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties" class="page__hero-image">
+  
+  
+</div>
+
+
+
+
+
+
+  
+    
+
+
+
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    
+    
+    
+      
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+
+          <meta itemprop="position" content="1" />
+        </li>
+        <span class="sep">/</span>
+      
+      
+        
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/vraagstukken" itemprop="item"><span itemprop="name">Vraagstukken</span></a>
+          <meta itemprop="position" content="2" />
+        </li>
+        <span class="sep">/</span>
+      
+    
+      
+      
+        <li class="current">Een Diepgaande Analyse van Google's Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties</li>
+      
+    
+  </ol>
+</nav>
+
+  
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">Smartbonnie</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>Informatief, woke, verzet.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Den Haag</span>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Een Diepgaande Analyse van Google’s Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties">
+    <meta itemprop="description" content="De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">
+            <a href="http://localhost:4000/vraagstukken/gemini/" itemprop="url">Een Diepgaande Analyse van Google’s Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties
+</a>
+          </h1>
+          
+
+  <p class="page__meta">
+    
+
+    <span class="page__meta-sep"></span>
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          22 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right ">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#de-fundamentele-werking-van-een-large-language-model-een-blik-onder-de-motorkap-van-gemini">De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini</a><ul><li><a href="#inleiding-tot-large-language-models-llms-en-de-unieke-positie-van-gemini">Inleiding tot Large Language Models (LLM’s) en de Unieke Positie van Gemini</a></li><li><a href="#de-transformer-architectuur-het-technologische-hart-van-gemini">De Transformer-Architectuur: Het Technologische Hart van Gemini</a><ul><li><a href="#stap-1-inputverwerking---van-tekst-naar-vectoren-embedding">Stap 1: Inputverwerking - Van Tekst naar Vectoren (Embedding)</a></li><li><a href="#stap-2-de-transformer-block---de-verwerkingsmotor">Stap 2: De Transformer Block - De Verwerkingsmotor</a></li><li><a href="#stap-3-outputgeneratie">Stap 3: Outputgeneratie</a></li></ul></li><li><a href="#het-trainingsproces-hoe-een-llm-leert">Het Trainingsproces: Hoe een LLM Leert</a><ul><li><a href="#fase-1-pre-training-self-supervised-learning">Fase 1: Pre-training (Self-Supervised Learning)</a></li><li><a href="#fase-2-post-training-alignment">Fase 2: Post-training (Alignment)</a></li></ul></li><li><a href="#tekstgeneratie-in-de-praktijk-van-waarschijnlijkheid-naar-coherente-antwoorden">Tekstgeneratie in de Praktijk: Van Waarschijnlijkheid naar Coherente Antwoorden</a></li><li><a href="#de-multimodale-kern-van-gemini">De Multimodale Kern van Gemini</a></li></ul></li><li><a href="#gemini-in-de-praktijk-vergelijking-van-de-standaard--en-pro-versies">Gemini in de Praktijk: Vergelijking van de Standaard- en Pro-versies</a><ul><li><a href="#het-gemini-ecosysteem-een-overzicht-van-de-modellenfamilie">Het Gemini Ecosysteem: Een Overzicht van de Modellenfamilie</a></li><li><a href="#de-gratis-versie-van-gemini-toegankelijke-ai-voor-dagelijks-gebruik">De Gratis Versie van Gemini: Toegankelijke AI voor Dagelijks Gebruik</a></li><li><a href="#gemini-advanced-google-one-ai-premium-plan-een-investering-in-geavanceerde-capaciteiten">Gemini Advanced (Google One AI Premium Plan): Een Investering in Geavanceerde Capaciteiten</a></li><li><a href="#prijs-kwaliteit-analyse-en-vergelijkende-tabel">Prijs-Kwaliteit Analyse en Vergelijkende Tabel</a></li></ul></li><li><a href="#de-achilleshiel-van-llms-hallucinaties-begrijpen-en-beheersen">De Achilleshiel van LLM’s: Hallucinaties Begrijpen en Beheersen</a><ul><li><a href="#wat-zijn-hallucinaties-definitie-en-categorisering">Wat zijn Hallucinaties? Definitie en Categorisering</a></li><li><a href="#de-oorzaken-van-hallucinaties-een-multifactorieel-probleem">De Oorzaken van Hallucinaties: Een Multifactorieel Probleem</a></li><li><a href="#gevolgen-in-de-praktijk-voorbeelden-van-ai-misstappen">Gevolgen in de Praktijk: Voorbeelden van AI-misstappen</a></li><li><a href="#strategieën-voor-mitigatie-hoe-hallucinaties-te-voorkomen-en-te-beheren">Strategieën voor Mitigatie: Hoe Hallucinaties te Voorkomen en te Beheren</a><ul><li><a href="#gebruikersstrategieën-controle-en-verificatie">Gebruikersstrategieën (Controle en Verificatie)</a></li><li><a href="#systeem--en-ontwikkelaarsstrategieën">Systeem- en Ontwikkelaarsstrategieën</a></li></ul></li><li><a href="#conclusie-verantwoord-omgaan-met-een-imperfecte-technologie">Conclusie: Verantwoord omgaan met een Imperfecte Technologie</a><ul><li><a href="#geciteerd-werk">Geciteerd werk</a></li></ul></li></ul></li></ul>
+            </nav>
+          </aside>
+        
+        <h2 id="de-fundamentele-werking-van-een-large-language-model-een-blik-onder-de-motorkap-van-gemini"><strong>De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini</strong></h2>
+
+<p>Om de capaciteiten en beperkingen van een geavanceerd systeem als Google’s Gemini te doorgronden, is een fundamenteel begrip van de onderliggende technologie essentieel. Dit deel deconstrueert het concept van een Large Language Model (LLM), duikt in de revolutionaire architectuur die het mogelijk maakt, en legt het trainingsproces bloot dat deze modellen vormgeeft.</p>
+
+<h3 id="inleiding-tot-large-language-models-llms-en-de-unieke-positie-van-gemini"><strong>Inleiding tot Large Language Models (LLM’s) en de Unieke Positie van Gemini</strong></h3>
+
+<p>Een Large Language Model is, in zijn kern, een geavanceerd statistisch model dat is gebouwd op een deep learning-architectuur. Getraind op een onvoorstelbaar grote hoeveelheid data—variërend van boeken en websites tot code en afbeeldingen—is een LLM in staat om een breed scala aan natuurlijke taalverwerkingstaken (NLP) uit te voeren, zoals het genereren van mensachtige tekst, het vertalen van talen, het samenvatten van documenten en het voeren van coherente gesprekken.<br />
+De ontwikkeling van LLM’s heeft een enorme sprong voorwaarts gemaakt met de introductie van de Transformer-architectuur door Google-onderzoekers in 2017. Voorafgaand aan de Transformer waren modellen zoals Recurrent Neural Networks (RNNs) de standaard. Deze modellen verwerkten informatie sequentieel, token voor token, wat een significant knelpunt vormde. Ze hadden moeite met het onthouden van context over lange afstanden in een tekst, een fenomeen bekend als het “vanishing gradient problem”. De Transformer-architectuur doorbrak deze beperking door een mechanisme genaamd “self-attention” te introduceren, dat het model in staat stelt om de gehele inputsequentie in één keer parallel te verwerken. Deze parallelle verwerkingscapaciteit is perfect afgestemd op moderne computerhardware zoals Graphics Processing Units (GPUs) en Tensor Processing Units (TPUs), wat de schaalvergroting naar modellen met honderden miljarden parameters mogelijk heeft gemaakt. De architectuur zelf is dus de fundamentele enabler van de “Large” in Large Language Model.<br />
+Binnen dit technologische landschap positioneert Google Gemini zich als een familie van LLM’s die een cruciale stap verder gaat. Ontwikkeld door Google DeepMind, is Gemini vanaf de basis ontworpen om <strong>natief multimodaal</strong> te zijn. Dit is een fundamenteel onderscheid. Waar veel andere systemen afzonderlijke modellen voor tekst, beeld en geluid aan elkaar koppelen, is Gemini één verenigd model dat naadloos kan redeneren over en informatie kan combineren uit diverse datatypes, waaronder tekst, afbeeldingen, audio, video en code. Deze natieve multimodaliteit is geen toevoeging, maar een kernonderdeel van zijn architectuur, wat leidt tot een dieper en meer genuanceerd begrip van de wereld.</p>
+
+<h3 id="de-transformer-architectuur-het-technologische-hart-van-gemini"><strong>De Transformer-Architectuur: Het Technologische Hart van Gemini</strong></h3>
+
+<p>De Gemini-modellen zijn gebaseerd op een “decoder-only” variant van de Transformer-architectuur. Het proces waarmee dit type model input verwerkt en output genereert, kan worden opgesplitst in drie fundamentele stappen.</p>
+
+<h4 id="stap-1-inputverwerking---van-tekst-naar-vectoren-embedding"><strong>Stap 1: Inputverwerking - Van Tekst naar Vectoren (Embedding)</strong></h4>
+
+<p>Voordat het model tekst kan verwerken, moet deze worden omgezet in een numerieke vorm die een computer begrijpt. Dit gebeurt via een proces genaamd embedding.</p>
+
+<ul>
+  <li><strong>Tokenization:</strong> De inputtekst wordt opgedeeld in kleinere, beheersbare eenheden die “tokens” worden genoemd. Dit kunnen hele woorden, delen van woorden (subwoorden) of leestekens zijn. Een model als GPT-2 had bijvoorbeeld een vastgesteld vocabulaire van 50.257 unieke tokens.</li>
+  <li><strong>Token Embedding:</strong> Elk uniek token in het vocabulaire wordt vervolgens gekoppeld aan een hoogdimensionale numerieke vector, een “embedding” genaamd. Deze vector, die honderden of duizenden getallen kan bevatten, vangt de semantische betekenis van het token. Woorden met vergelijkbare betekenissen zullen vectoren hebben die dicht bij elkaar liggen in deze wiskundige ruimte.</li>
+  <li><strong>Positional Encoding:</strong> Omdat de Transformer de hele input parallel verwerkt, heeft het geen inherent besef van de woordvolgorde. Om dit op te lossen, wordt aan elke token-embedding een unieke “positionele encoding” vector toegevoegd. Deze vector geeft het model informatie over de positie van het token in de zin, wat cruciaal is voor het begrijpen van grammatica en context.</li>
+</ul>
+
+<h4 id="stap-2-de-transformer-block---de-verwerkingsmotor"><strong>Stap 2: De Transformer Block - De Verwerkingsmotor</strong></h4>
+
+<p>De resulterende vectoren worden vervolgens door een reeks identieke, op elkaar gestapelde “Transformer Blocks” geleid. Een model als GPT-2 (small) had bijvoorbeeld 12 van zulke blokken. Elk blok verfijnt de representatie van de tokens en bestaat uit twee hoofdcomponenten.</p>
+
+<ul>
+  <li><strong>Multi-Head Self-Attention:</strong> Dit is de kerninnovatie van de Transformer. Het stelt het model in staat om voor elk token te bepalen welke andere tokens in de input het meest relevant zijn, en om de representatie van het token dienovereenkomstig aan te passen. Dit proces werkt met drie afgeleide vectoren voor elke input-token:
+    <ul>
+      <li><strong>Query (Q):</strong> Vertegenwoordigt de huidige token die op zoek is naar context. Het is als een zoekopdracht: “Welke andere woorden zijn relevant voor mij?”</li>
+      <li><strong>Key (K):</strong> Vertegenwoordigt de inhoud van andere tokens in de zin. Het is als een trefwoord dat beschrijft: “Dit is de informatie die ik bevat.”</li>
+      <li><strong>Value (V):</strong> Vertegenwoordigt de daadwerkelijke, inhoudelijke informatie van de andere tokens. Het model berekent een “attention score” door de Query-vector van de huidige token te vergelijken met de Key-vectoren van alle andere tokens. Deze scores worden omgezet in gewichten die bepalen hoeveel van de Value-vector van elke andere token moet worden meegenomen in de nieuwe representatie van de huidige token. Dit gebeurt niet één keer, maar in parallel in meerdere “aandachtskoppen” (multi-head). Elke kop kan zich specialiseren in het detecteren van verschillende soorten relaties (bijvoorbeeld syntactische structuren of semantische verbanden), wat leidt tot een zeer rijk en gelaagd contextueel begrip.</li>
+    </ul>
+  </li>
+  <li><strong>Feed-Forward Neural Network (MLP):</strong> Na de self-attention laag wordt de nieuw gevormde, contextueel verrijkte vector van elke token onafhankelijk door een standaard neuraal netwerk (een Multi-Layer Perceptron) geleid. Terwijl de attention-laag informatie <em>tussen</em> tokens uitwisselt, dient de MLP om de informatie <em>binnen</em> elke token-representatie verder te verwerken en te verfijnen.</li>
+</ul>
+
+<h4 id="stap-3-outputgeneratie"><strong>Stap 3: Outputgeneratie</strong></h4>
+
+<p>Nadat de input door alle Transformer-blokken is gegaan, wordt de finale, diep verwerkte vector van de laatste token gebruikt om een voorspelling te doen. Deze vector wordt door een laatste lineaire laag en een softmax-functie geleid, wat resulteert in een waarschijnlijkheidsverdeling over het gehele vocabulaire van het model. Deze verdeling geeft voor elk mogelijk token de waarschijnlijkheid aan dat het het volgende token in de reeks is.</p>
+
+<h3 id="het-trainingsproces-hoe-een-llm-leert"><strong>Het Trainingsproces: Hoe een LLM Leert</strong></h3>
+
+<p>Het creëren van een capabel LLM is een proces in meerdere fasen, waarbij het model eerst een brede kennis van de wereld opdoet en vervolgens wordt verfijnd om nuttig en veilig te zijn.</p>
+
+<h4 id="fase-1-pre-training-self-supervised-learning"><strong>Fase 1: Pre-training (Self-Supervised Learning)</strong></h4>
+
+<p>In de pre-trainingsfase wordt het model blootgesteld aan een gigantische dataset van ongestructureerde tekst en andere data. Het fundamentele doel van deze fase is verrassend eenvoudig: het voorspellen van het volgende woord (of token) in een reeks. Gegeven de zin “De kat zat op de…”, leert het model een hoge waarschijnlijkheid toe te kennen aan het woord “mat”. Dit proces wordt “self-supervised” genoemd omdat de trainingsdata zelf de “juiste antwoorden” (de daadwerkelijke volgende woorden in de tekst) levert, zonder dat er menselijke annotatie nodig is. Door deze taak miljarden keren te herhalen op een diverse dataset, leert het model impliciet de regels van grammatica, feitelijke kennis, redeneerstructuren en de complexe statistische patronen die ten grondslag liggen aan menselijke taal.</p>
+
+<h4 id="fase-2-post-training-alignment"><strong>Fase 2: Post-training (Alignment)</strong></h4>
+
+<p>Een “kaal” voorgetraind model is een krachtige taalvoorspeller, maar niet noodzakelijkerwijs een behulpzame of veilige AI-assistent. De post-trainingsfase heeft als doel het gedrag van het model “uit te lijnen” (alignment) met menselijke waarden en verwachtingen. Dit gebeurt via twee belangrijke technieken:</p>
+
+<ul>
+  <li><strong>Supervised Fine-Tuning (SFT):</strong> Het model wordt verder getraind op een kleinere, zorgvuldig samengestelde dataset van hoogwaardige voorbeelden. Deze dataset bestaat uit paren van prompts (instructies) en ideale antwoorden, vaak geschreven door menselijke experts. Dit leert het model hoe het moet reageren op specifieke vragen en opdrachten in de gewenste stijl en formaat.</li>
+  <li><strong>Reinforcement Learning from Human Feedback (RLHF):</strong> Dit is een meer geavanceerde stap. Menselijke reviewers krijgen meerdere door het model gegenereerde antwoorden op dezelfde prompt en rangschikken deze van best naar slechtst. Deze voorkeursdata wordt gebruikt om een apart “Reward Model” te trainen, dat leert welk type antwoorden mensen prefereren. Vervolgens wordt het LLM via reinforcement learning-technieken getraind om antwoorden te genereren die een zo hoog mogelijke score krijgen van dit Reward Model. Dit proces optimaliseert het model voor eigenschappen als behulpzaamheid, eerlijkheid en onschadelijkheid.</li>
+</ul>
+
+<p>Er bestaat een inherente spanning tussen deze twee trainingsfasen. De pre-training optimaliseert voor statistische plausibiliteit, terwijl de post-training optimaliseert voor menselijke voorkeuren zoals feitelijkheid en behulpzaamheid. Wanneer een prompt een sterk statistisch patroon uit de pre-training triggert (bijvoorbeeld een wijdverbreide misvatting op het internet), kan de drang van het model om een “plausibel” klinkend antwoord te geven de aangeleerde regel om “feitelijk correct” te zijn, overstemmen. Dit is een fundamentele oorzaak van onvoorspelbaar gedrag en het fenomeen van hallucinaties.</p>
+
+<h3 id="tekstgeneratie-in-de-praktijk-van-waarschijnlijkheid-naar-coherente-antwoorden"><strong>Tekstgeneratie in de Praktijk: Van Waarschijnlijkheid naar Coherente Antwoorden</strong></h3>
+
+<p>Wanneer een gebruiker een prompt invoert, is de kerntaak van het LLM het iteratief voorspellen van het volgende token, gebaseerd op de prompt en de reeds gegenereerde tekst. Dit proces wordt echter niet overgelaten aan puur toeval.</p>
+
+<ul>
+  <li><strong>Decoding Strategies:</strong> In plaats van altijd het statistisch meest waarschijnlijke woord te kiezen (een aanpak genaamd <strong>Greedy Search</strong>), gebruiken modellen vaak geavanceerdere strategieën zoals <strong>Beam Search</strong>, waarbij meerdere waarschijnlijke zinsconstructies tegelijk worden overwogen om een meer coherente en natuurlijke output te produceren.</li>
+  <li><strong>Creativiteit en Controle:</strong> De gebruiker of ontwikkelaar kan de output van het model sturen met zogenaamde “sampling parameters”. De <strong>Temperature</strong> parameter beïnvloedt de willekeur van de output. Een lage temperatuur maakt de output voorspelbaarder en meer gefocust, terwijl een hoge temperatuur de waarschijnlijkheidsverdeling afvlakt, waardoor het model meer “creatieve” en onverwachte keuzes kan maken. Parameters als <strong>Top-k</strong> en <strong>Top-p</strong> sampling beperken de pool van mogelijke volgende tokens tot de meest waarschijnlijke kandidaten, wat een balans creëert tussen coherentie en diversiteit.</li>
+</ul>
+
+<h3 id="de-multimodale-kern-van-gemini"><strong>De Multimodale Kern van Gemini</strong></h3>
+
+<p>Zoals eerder vermeld, is de natieve multimodaliteit van Gemini zijn meest onderscheidende kenmerk. Dit is geen oppervlakkige functie, maar een fundamentele architecturale keuze die diepgaande implicaties heeft.</p>
+
+<ul>
+  <li><strong>Beeldverwerking:</strong> Gemini kan niet alleen afbeeldingen beschrijven, maar ook objecten daarin detecteren en segmenteren, technische diagrammen interpreteren, visuele verschillen en overeenkomsten tussen afbeeldingen analyseren, en zelfs afbeeldingen genereren en bewerken als onderdeel van een lopend gesprek.</li>
+  <li><strong>Audioverwerking:</strong> Gemini excelleert in audioverwerking. Het kan extreem lange audiobestanden (tot 11 uur met het 1.5 Flash model) transcriberen, samenvatten en analyseren. Een belangrijke capaciteit is <strong>speaker diarization</strong>, het automatisch onderscheiden van verschillende sprekers in een opname. Daarnaast beschikt het over geavanceerde <strong>Text-to-Speech (TTS)</strong>-mogelijkheden, waarbij de stijl, toon, en zelfs meerdere sprekers via natuurlijke taalinstructies kunnen worden gestuurd. Een unieke functie is “Audio Overview”, die een document kan omzetten in een podcast-achtige discussie tussen twee AI-hosts.</li>
+  <li><strong>Video- en Code-Verwerking:</strong> Het model verwerkt video door het te analyseren als een reeks van afzonderlijke beelden, waardoor het de inhoud en context van videoclips kan begrijpen. Daarnaast is het zeer bedreven in het begrijpen, uitleggen en genereren van hoogwaardige code in populaire programmeertalen zoals Python, Java en C++.</li>
+</ul>
+
+<p>Deze geïntegreerde aanpak, waarbij beeld-, audio- en tekstinformatie in een gedeelde wiskundige ruimte leven, stelt Gemini in staat om complexe, cross-modale redeneertaken uit te voeren die voorheen ondenkbaar waren. Het kan bijvoorbeeld de fysica in een videoclip uitleggen, een recept genereren op basis van een foto van ingrediënten, of code schrijven om een visueel diagram te implementeren. Dit legt de basis voor een nieuwe generatie van meer holistische en capabele AI-assistenten.</p>
+
+<h2 id="gemini-in-de-praktijk-vergelijking-van-de-standaard--en-pro-versies"><strong>Gemini in de Praktijk: Vergelijking van de Standaard- en Pro-versies</strong></h2>
+
+<p>Nadat de technologische fundamenten zijn gelegd, verschuift de focus naar de concrete producten die Google aanbiedt. Het Gemini-ecosysteem is geen monolithisch geheel, maar een familie van modellen en diensten die zijn afgestemd op verschillende gebruikers en behoeften. De keuze tussen de gratis en betaalde versie is in wezen een afweging tussen toegankelijkheid en geavanceerde capaciteit.</p>
+
+<h3 id="het-gemini-ecosysteem-een-overzicht-van-de-modellenfamilie"><strong>Het Gemini Ecosysteem: Een Overzicht van de Modellenfamilie</strong></h3>
+
+<p>Google heeft een gedifferentieerde strategie voor zijn Gemini-modellen, waarbij elk model is geoptimaliseerd voor een specifieke toepassing en schaal.</p>
+
+<ul>
+  <li><strong>Gemini Ultra:</strong> Het vlaggenschipmodel, ontworpen voor de meest complexe en veeleisende taken die een diepgaand redeneervermogen vereisen.</li>
+  <li><strong>Gemini Pro:</strong> Een zeer capabel allround-model dat een uitstekende balans biedt tussen prestaties en efficiëntie. Dit model vormt vaak de basis voor de betaalde consumentenproducten.</li>
+  <li><strong>Gemini Flash:</strong> Een lichter en sneller model, geoptimaliseerd voor taken waarbij snelheid en schaalbaarheid van het grootste belang zijn, zoals het bedienen van een groot aantal gebruikers in een chatbot-applicatie.</li>
+  <li><strong>Gemini Nano:</strong> Het kleinste model in de familie, specifiek ontworpen om efficiënt en lokaal te draaien op apparaten zoals smartphones (“on-device”), voor taken die snelle, offline reacties vereisen.</li>
+</ul>
+
+<p>De versienummers (bijv. 1.0, 1.5, 2.5) markeren significante evolutionaire stappen in de architectuur en capaciteiten. De introductie van versie 1.5 was bijvoorbeeld een “step change” door de implementatie van een efficiëntere Mixture-of-Experts (MoE) architectuur en een drastische vergroting van het “context window” naar 1 miljoen tokens. Versie 2.5 bouwt hierop voort met nog geavanceerdere redeneer- en multimodale vaardigheden.</p>
+
+<h3 id="de-gratis-versie-van-gemini-toegankelijke-ai-voor-dagelijks-gebruik"><strong>De Gratis Versie van Gemini: Toegankelijke AI voor Dagelijks Gebruik</strong></h3>
+
+<p>De gratis versie van de Gemini-chatbot is ontworpen om een breed publiek toegang te geven tot de kernmogelijkheden van generatieve AI.</p>
+
+<ul>
+  <li><strong>Onderliggend Model:</strong> Deze versie maakt doorgaans gebruik van een capabel, maar niet het absolute topmodel uit de familie, zoals Gemini 1.5 Flash of een eerdere versie van Gemini Pro. Dit zorgt voor een goede gebruikerservaring zonder de hoge computationele kosten van het meest geavanceerde model.</li>
+  <li><strong>Functionaliteiten:</strong> Gebruikers krijgen toegang tot de fundamentele functies van een AI-chatbot: het beantwoorden van vragen, genereren van tekst, samenvatten van informatie en uitvoeren van eenvoudige creatieve taken. Het is een uitstekend startpunt voor iedereen die de technologie wil verkennen.</li>
+  <li><strong>Beperkingen:</strong> De gratis versie heeft inherente beperkingen. De complexiteit van de taken die het aankan is lager, en de lengte van zowel de input (context) als de output is beperkt. Geavanceerde functies, zoals diepgaande analyse van grote documenten of naadloze integratie in Google Workspace-applicaties, zijn doorgaans niet beschikbaar.</li>
+</ul>
+
+<h3 id="gemini-advanced-google-one-ai-premium-plan-een-investering-in-geavanceerde-capaciteiten"><strong>Gemini Advanced (Google One AI Premium Plan): Een Investering in Geavanceerde Capaciteiten</strong></h3>
+
+<p>Voor gebruikers die de grenzen van de gratis versie bereiken, biedt Google een betaald abonnement aan, meestal gebundeld als onderdeel van het “Google One AI Premium” plan. Dit abonnement kost doorgaans rond de $19.99 per maand. De waarde van dit abonnement ligt niet zozeer in een lijst van extra functies, maar in de toegang tot superieure computationele kracht en context.</p>
+
+<ul>
+  <li><strong>Toegang tot de Beste Modellen:</strong> Het fundamentele en belangrijkste voordeel van het abonnement is de prioriteitstoegang tot Google’s meest capabele en geavanceerde AI-modellen, zoals het state-of-the-art Gemini 2.5 Pro model.</li>
+  <li><strong>Gevolgen van een Beter Model:</strong>
+    <ul>
+      <li><strong>Superieur Redeneervermogen:</strong> Deze topmodellen zijn significant beter in complexe, meerstaps logische redeneringen, diepgaande data-analyse, het schrijven van geavanceerde code en creatieve samenwerking.</li>
+      <li><strong>Massief Context Window:</strong> Gemini Advanced biedt een “context window” van 1 miljoen tokens of meer. Dit is een transformationele capaciteit, geen incrementele verbetering. Het stelt een gebruiker in staat om enorme hoeveelheden informatie tegelijk te verwerken. Men kan bijvoorbeeld een volledig boek (tot 1.500 pagina’s), een uitgebreid financieel rapport, of een grote codebase (30.000 regels code) in één enkele prompt invoeren en het model vragen om hierover analyses uit te voeren of vragen te beantwoorden. De rol van de AI verschuift hiermee van een simpele vraag-antwoord machine naar een krachtige analyse-engine.</li>
+    </ul>
+  </li>
+  <li><strong>Exclusieve Functies en Integraties:</strong> De kracht van het superieure model maakt een reeks exclusieve functies mogelijk:
+    <ul>
+      <li><strong>Integratie in Google Workspace:</strong> Het abonnement ontgrendelt diepe AI-integratie in applicaties die miljoenen mensen dagelijks gebruiken, zoals Gmail, Docs en Sheets. Gemini kan dan direct e-mails samenvatten en opstellen, data in spreadsheets analyseren en visualiseren, of helpen bij het creëren van presentaties.</li>
+      <li><strong>Deep Research:</strong> Een geavanceerde functie die het grote context window benut om diepgaande, genuanceerde analyses uit te voeren op basis van grote hoeveelheden verstrekte informatie.</li>
+      <li><strong>Extra Voordelen:</strong> Het abonnement wordt vaak gecombineerd met andere Google-diensten, zoals een aanzienlijke hoeveelheid cloudopslag (bijvoorbeeld 2 TB) via Google One.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Deze strategie illustreert hoe Google AI niet als een losstaand product positioneert, maar als een upgrade voor zijn gehele, wijdverbreide ecosysteem. De waardepropositie voor de miljoenen bestaande Google-gebruikers is niet simpelweg “een betere chatbot”, maar “een slimmere, krachtigere versie van alle tools die ik al dagelijks gebruik”.</p>
+
+<h3 id="prijs-kwaliteit-analyse-en-vergelijkende-tabel"><strong>Prijs-Kwaliteit Analyse en Vergelijkende Tabel</strong></h3>
+
+<p>Om de verschillen en de afweging voor de gebruiker te verduidelijken, biedt de volgende tabel een directe vergelijking van de twee productniveaus.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Kenmerk</th>
+      <th style="text-align: left">Gemini Standaard (Gratis)</th>
+      <th style="text-align: left">Gemini Advanced (Google One AI Premium)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>Onderliggend AI-Model</strong></td>
+      <td style="text-align: left">Capabel model (bv. Gemini 1.5 Flash)</td>
+      <td style="text-align: left">Toegang tot topmodel (bv. Gemini 2.5 Pro)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Redeneervermogen</strong></td>
+      <td style="text-align: left">Goed voor dagelijkse en standaard taken</td>
+      <td style="text-align: left">Zeer hoog; geschikt voor complexe, professionele taken</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Context Window</strong></td>
+      <td style="text-align: left">Standaard (bv. 32.768 tokens)</td>
+      <td style="text-align: left">Zeer groot (1.000.000+ tokens)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Integratie Google Workspace</strong></td>
+      <td style="text-align: left">Geen of zeer beperkt</td>
+      <td style="text-align: left">Diep en uitgebreid (Gmail, Docs, Sheets, etc.)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Exclusieve Functies</strong></td>
+      <td style="text-align: left">Nee</td>
+      <td style="text-align: left">Ja (bv. Deep Research, geavanceerde multimodale input)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Google One Opslag</strong></td>
+      <td style="text-align: left">Standaard (15 GB)</td>
+      <td style="text-align: left">Uitgebreid (bv. 2 TB)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Maandelijkse Kosten</strong></td>
+      <td style="text-align: left">€0</td>
+      <td style="text-align: left">Circa €20 / $19.99</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Ideale Gebruiker</strong></td>
+      <td style="text-align: left">Casual gebruiker, student, verkenner van AI</td>
+      <td style="text-align: left">Professional, ontwikkelaar, onderzoeker, power user</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>De tabel maakt duidelijk dat de keuze voor het “Pro” abonnement een bewuste investering is in geavanceerde computationele capaciteiten. De ideale gebruiker voor de gratis versie is iemand die snelle antwoorden zoekt of creatieve tekst wil genereren voor alledaagse doeleinden. De upgrade naar Gemini Advanced is gerechtvaardigd voor professionals, onderzoekers, ontwikkelaars en power users die de AI willen inzetten als een serieuze productiviteits- en analysetool, met name degenen die diep verankerd zijn in het Google-ecosysteem.</p>
+
+<h2 id="de-achilleshiel-van-llms-hallucinaties-begrijpen-en-beheersen"><strong>De Achilleshiel van LLM’s: Hallucinaties Begrijpen en Beheersen</strong></h2>
+
+<p>Ondanks hun indrukwekkende capaciteiten hebben Large Language Models een fundamentele zwakte die cruciaal is om te begrijpen voor verantwoord gebruik: de neiging tot “hallucineren”. Dit laatste deel definieert dit fenomeen, onderzoekt de diepere oorzaken, illustreert de potentieel ernstige gevolgen en biedt concrete strategieën om hallucinaties te beheersen.</p>
+
+<h3 id="wat-zijn-hallucinaties-definitie-en-categorisering"><strong>Wat zijn Hallucinaties? Definitie en Categorisering</strong></h3>
+
+<p>Een AI-hallucinatie wordt gedefinieerd als een output van een LLM die feitelijk onjuist, volledig verzonnen, onzinnig of niet gegrond is in de verstrekte context, maar die vaak met een plausibele en zelfverzekerde toon wordt gepresenteerd. Het is van cruciaal belang te beseffen dat hallucinaties geen monolithisch probleem zijn. Ze kunnen worden gecategoriseerd in verschillende types:</p>
+
+<ul>
+  <li><strong>Feitelijke Onjuistheden (Factual Inaccuracies):</strong> Het model presenteert verifieerbare informatie op een incorrecte wijze. Een bekend voorbeeld is Google’s eigen Bard (nu Gemini) die tijdens een demo incorrect claimde dat de James Webb Space Telescope de allereerste foto’s van een exoplaneet had gemaakt.</li>
+  <li><strong>Gefabriceerde Informatie (Fabrication):</strong> Dit is een ernstiger vorm waarbij het model informatie verzint die simpelweg niet bestaat. Het meest beruchte voorbeeld hiervan is een Amerikaanse advocaat die ChatGPT gebruikte voor juridisch onderzoek en een document indiende bij de rechtbank met citaten van volledig verzonnen rechtszaken.</li>
+  <li><strong>Contextuele Inconsistentie (Faithfulness Hallucination):</strong> Het antwoord van het model is in directe tegenspraak met de broninformatie die in de prompt is verstrekt of met de instructies van de gebruiker zelf.</li>
+  <li><strong>Logische Inconsistentie:</strong> Het model maakt een fout in een logische redeneerketen. Het kan bijvoorbeeld een wiskundig probleem stap voor stap proberen op te lossen, maar onderweg een simpele rekenfout maken.</li>
+</ul>
+
+<h3 id="de-oorzaken-van-hallucinaties-een-multifactorieel-probleem"><strong>De Oorzaken van Hallucinaties: Een Multifactorieel Probleem</strong></h3>
+
+<p>Hallucinaties zijn geen simpele ‘bug’ die kan worden opgelost, maar een inherent kenmerk dat voortkomt uit de fundamentele aard van de technologie. De oorzaken zijn complex en multifactorieel.</p>
+
+<ul>
+  <li><strong>Data-gerelateerde Oorzaken:</strong> Een LLM is een spiegel van de data waarop het is getraind. Als deze data—die grotendeels van het open internet afkomstig is—onvolledig, verouderd, bevooroordeeld of feitelijk onjuist is, zal het model deze fouten leren en reproduceren. Elk model heeft een “knowledge cut-off date”, wat betekent dat het geen kennis heeft van gebeurtenissen na die datum.</li>
+  <li><strong>Model-gerelateerde Oorzaken:</strong> De kern van het probleem ligt in het ontwerpdoel van een LLM. Zoals besproken in Deel 1, is een LLM een probabilistisch model dat is geoptimaliseerd om de meest <em>plausibele</em> opeenvolging van woorden te genereren, niet noodzakelijkerwijs de meest <em>ware</em>. Een hallucinerend antwoord kan, vanuit een statistisch oogpunt, een zeer waarschijnlijke en coherent klinkende tekst zijn, ook al is de inhoud onzin. Dit staat in schril contrast met een traditionele database, die is ontworpen voor 100% accurate retrieval. De generatieve kracht van een LLM is tegelijkertijd de bron van zijn onbetrouwbaarheid.</li>
+  <li><strong>Prompt-gerelateerde Oorzaken:</strong> Vage, ambigue of onvoldoende gedetailleerde prompts dwingen het model om “de gaten in te vullen” op basis van de geleerde patronen. Dit leidt vaak tot giswerk en het fabriceren van details om een compleet antwoord te kunnen geven.</li>
+</ul>
+
+<h3 id="gevolgen-in-de-praktijk-voorbeelden-van-ai-misstappen"><strong>Gevolgen in de Praktijk: Voorbeelden van AI-misstappen</strong></h3>
+
+<p>De gevolgen van het blindelings vertrouwen op AI-output kunnen ernstig zijn en variëren van gênant tot juridisch en financieel catastrofaal.</p>
+
+<ul>
+  <li><strong>Juridische Gevolgen:</strong> De eerdergenoemde advocaat en zijn kantoor kregen een boete van $5.000 opgelegd door de rechtbank voor het indienen van een document met verzonnen jurisprudentie.</li>
+  <li><strong>Financiële Gevolgen:</strong> Een enkele feitelijke fout van Bard in zijn eerste publieke demo leidde tot een daling van de beurswaarde van Google met maar liefst $100 miljard.</li>
+  <li><strong>Reputatieschade en Desinformatie:</strong> Microsoft’s Bing Chat presenteerde onjuiste financiële data van beursgenoteerde bedrijven, en zowel Bard als Bing claimden valselijk dat er een staakt-het-vuren was in een lopend conflict, waarschijnlijk gebaseerd op verouderde nieuwsberichten in hun trainingsdata.</li>
+  <li><strong>Persoonlijke Schade:</strong> In een alarmerend geval fabriceerde ChatGPT een volledig verhaal waarin een echte, met naam genoemde professor valselijk werd beschuldigd van seksuele intimidatie. De professor had in werkelijkheid werk verricht om seksuele intimidatie tegen te gaan, waardoor zijn naam in een bepaalde context in de trainingsdata voorkwam, die het model vervolgens op een schadelijke en onjuiste manier combineerde.</li>
+</ul>
+
+<p>Deze voorbeelden zijn geen mislukkingen van de technologie alleen; het zijn ook mislukkingen in het menselijk begrip en de toepassing ervan. Ze onderstrepen de absolute noodzaak van menselijke supervisie.</p>
+
+<h3 id="strategieën-voor-mitigatie-hoe-hallucinaties-te-voorkomen-en-te-beheren"><strong>Strategieën voor Mitigatie: Hoe Hallucinaties te Voorkomen en te Beheren</strong></h3>
+
+<p>Aangezien het volledig elimineren van hallucinaties met de huidige technologie onmogelijk is, verschuift de focus naar mitigatie en beheer. Zowel gebruikers als ontwikkelaars hebben hierin een rol te spelen.</p>
+
+<h4 id="gebruikersstrategieën-controle-en-verificatie"><strong>Gebruikersstrategieën (Controle en Verificatie)</strong></h4>
+
+<p>Een kritische en sceptische houding is de belangrijkste verdediging van een gebruiker.</p>
+
+<ul>
+  <li><strong>Geavanceerde Prompt Engineering:</strong>
+    <ul>
+      <li><strong>Wees Specifiek:</strong> Formuleer prompts zo helder en gedetailleerd mogelijk. Geef maximale context om de ruimte voor giswerk te minimaliseren.</li>
+      <li><strong>Geef Expliciete Instructies:</strong> Instrueer het model om geen informatie te verzinnen en om aan te geven wanneer het een antwoord niet weet. Een prompt kan eindigen met: “Als je het antwoord niet met zekerheid weet, zeg dan ‘Ik weet het niet’.”.</li>
+      <li><strong>Chain-of-Thought (CoT) Prompting:</strong> Vraag het model expliciet om “stap voor stap te denken” voordat het een definitief antwoord geeft. Dit dwingt het model tot een meer gestructureerd en traceerbaar redeneerproces, wat de kans op fouten verkleint.</li>
+    </ul>
+  </li>
+  <li><strong>Rigoureuze Fact-Checking Methodologie:</strong>
+    <ul>
+      <li><strong>Lateraal Lezen:</strong> De gouden standaard. Verlaat de AI-interface onmiddellijk na het ontvangen van een feitelijke claim en open nieuwe browsertabbladen om de informatie te verifiëren bij meerdere, onafhankelijke en betrouwbare bronnen.</li>
+      <li><strong>Verifieer Bronnen:</strong> Vraag de AI om zijn bronnen, maar vertrouw deze nooit blindelings. Verifieer of de genoemde artikelen, studies of websites daadwerkelijk bestaan en de geclaimde informatie bevatten.</li>
+      <li><strong>Consulteer Experts:</strong> Voor hoog-risico onderwerpen zoals medisch, financieel of juridisch advies, is de output van een LLM hooguit een startpunt. Consultatie met een gekwalificeerde menselijke expert is onvervangbaar.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="systeem--en-ontwikkelaarsstrategieën"><strong>Systeem- en Ontwikkelaarsstrategieën</strong></h4>
+
+<p>Op systeemniveau is de meest veelbelovende techniek <strong>Retrieval-Augmented Generation (RAG)</strong>. In een RAG-systeem vertrouwt het LLM niet primair op zijn interne, statische kennis. In plaats daarvan wordt het gekoppeld aan een externe, gecontroleerde en actuele kennisbank (bijvoorbeeld de interne documentatie van een bedrijf of een specifieke wetenschappelijke database). Wanneer een vraag wordt gesteld, haalt het systeem eerst de relevante informatie op uit deze betrouwbare bron en geeft deze vervolgens, samen met de oorspronkelijke vraag, aan het LLM met de instructie: “Beantwoord de vraag uitsluitend op basis van de hier verstrekte informatie.”<br />
+Deze aanpak verandert de rol van het LLM fundamenteel: het evolueert van een onbetrouwbaar “orakel” naar een “intelligente, conversationele interface” bovenop een betrouwbare datalaag. Dit vermindert de kans op feitelijke hallucinaties drastisch en is een veel veiligere methode voor de inzet van LLM’s in professionele en kritieke toepassingen.</p>
+
+<h3 id="conclusie-verantwoord-omgaan-met-een-imperfecte-technologie"><strong>Conclusie: Verantwoord omgaan met een Imperfecte Technologie</strong></h3>
+
+<p>De analyse van Gemini en de onderliggende LLM-technologie leidt tot een genuanceerde conclusie. Aan de ene kant staan we voor een buitengewoon krachtige technologie met het potentieel om productiviteit en creativiteit te transformeren. De geavanceerde multimodale en redeneercapaciteiten van modellen als Gemini Pro openen deuren naar toepassingen die voorheen tot het domein van sciencefiction behoorden.<br />
+Aan de andere kant is het fenomeen van hallucinaties geen tijdelijke kinderziekte, maar een fundamentele en onvermijdelijke eigenschap van het probabilistische ontwerp van de huidige generatie LLM’s. De drang van het model om statistisch plausibele output te genereren zal altijd op gespannen voet staan met de eis van absolute feitelijke waarheid.<br />
+De weg voorwaarts ligt daarom niet in de hoop op een spoedige, volledige eliminatie van hallucinaties, maar in het <strong>beheer</strong> ervan. Dit vereist een tweeledige aanpak. Ten eerste, de verdere ontwikkeling van technische mitigatiestrategieën zoals Retrieval-Augmented Generation (RAG), die de afhankelijkheid van de ondoorzichtige interne kennis van het model verminderen. Ten tweede, en misschien nog wel belangrijker, een verhoogd bewustzijn en een kritische houding bij de gebruiker. Het effectief en verantwoord inzetten van een tool als Gemini vereist het besef dat men interacteert met een geavanceerde patroonherkenningsmachine, niet met een alwetend bewustzijn. Een onwrikbare toewijding aan menselijke supervisie, kritische evaluatie en rigoureuze fact-checking is en blijft de onmisbare voorwaarde om de enorme potentie van deze technologie veilig en productief te benutten.</p>
+
+<h4 id="geciteerd-werk"><strong>Geciteerd werk</strong></h4>
+
+<ol>
+  <li><a href="https://cloud.google.com/ai/llms">Large Language Models (LLMs) with Google AI</a></li>
+  <li><a href="https://www.geeksforgeeks.org/artificial-intelligence/gemma-vs-gemini-vs-llm-large-language-model/">Gemma vs. Gemini vs. LLM (Large Language Model) - GeeksforGeeks</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)">Transformer (deep learning architecture) - Wikipedia</a></li>
+  <li><a href="https://blog.mlq.ai/llm-transformer-architecture/">Understanding Transformers &amp; the Architecture of LLMs - MLQ.ai</a></li>
+  <li><a href="https://www.truefoundry.com/blog/transformer-architecture">Demystifying Transformer Architecture in Large Language Models - TrueFoundry</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Gemini_(language_model)">Gemini (language model) - Wikipedia</a></li>
+  <li><a href="https://arxiv.org/html/2401.02038v1">Understanding LLMs: A Comprehensive Overview from Training to Inference - arXiv</a></li>
+  <li><a href="https://cloud.google.com/use-cases/multimodal-ai">Multimodal AI | Google Cloud</a></li>
+  <li><a href="https://zapier.com/blog/google-gemini/">What is Google Gemini? What you need to know - Zapier</a></li>
+  <li><a href="https://richsanger.com/google-ai-overviews-the-role-of-large-language-models-and-google-gemini/">Google AI Overviews: The Role of Large Language Models and Google Gemini</a></li>
+  <li><a href="https://poloclub.github.io/transformer-explainer/">Transformer Explainer: LLM Transformer Model Visually Explained</a></li>
+  <li><a href="https://tensorwave.com/blog/learn-how-to-train-a-large-language-model">Learn How to Train a Large Language Model in 5 Steps - TensorWave</a></li>
+  <li><a href="https://gemini.google/overview/">What is Gemini and how it works - Google Gemini</a></li>
+  <li><a href="https://cset.georgetown.edu/article/the-surprising-power-of-next-word-prediction-large-language-models-explained-part-1/">The Surprising Power of Next Word Prediction: Large Language Models Explained, Part 1 | Center for Security and Emerging Technology</a></li>
+  <li><a href="https://codesignal.com/learn/courses/understanding-llms-and-basic-prompting-techniques/lessons/llms-are-next-word-prediction-machines">LLMs are next word prediction machines | CodeSignal Learn</a></li>
+  <li><a href="https://snorkel.ai/blog/large-language-model-training-three-phases-shape-llm-training/#:~:text=Training%20of%20LLMs%20is%20a,understand%20language%20and%20specific%20domains.">snorkel.ai</a></li>
+  <li><a href="https://huggingface.co/learn/llm-course/chapter1/4">How do Transformers work? - Hugging Face LLM Course</a></li>
+  <li><a href="https://www.assemblyai.com/blog/decoding-strategies-how-llms-choose-the-next-word">Decoding Strategies: How LLMs Choose The Next Word - AssemblyAI</a></li>
+  <li><a href="https://ai.google.dev/gemini-api/docs/image-understanding">Image understanding | Gemini API | Google AI for Developers</a></li>
+  <li><a href="https://www.cloudskillsboost.google/focuses/83263?parent=catalog">Multimodality with Gemini | Google Cloud Skills Boost</a></li>
+  <li><a href="https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/image-generation">Generate images with Gemini | Generative AI on Vertex AI - Google Cloud</a></li>
+  <li><a href="https://cloud.google.com/blog/topics/partners/how-partners-unlock-scalable-audio-transcription-with-gemini">How partners unlock scalable audio transcription with Gemini | Google Cloud Blog</a></li>
+  <li><a href="https://ai.google.dev/gemini-api/docs/speech-generation">Speech generation (text-to-speech) | Gemini API | Google AI for Developers</a></li>
+  <li><a href="https://blog.google/technology/google-deepmind/gemini-2-5-native-audio/">Gemini 2.5’s native audio capabilities - Google Blog</a></li>
+  <li><a href="https://blog.google/products/gemini/gemini-collaboration-features/">New Gemini features: Canvas and Audio Overview - Google Blog</a></li>
+  <li><a href="https://www.instituteofaistudies.com/insights/google-gemini-free-vs-paid">Google Gemini Free vs Paid: Is it Worth Upgrading? - Institute of Ai Studies</a></li>
+  <li><a href="https://www.godofprompt.ai/blog/google-gemini-pricing">Google Gemini Pricing Explained: How Much Does it Cost? - AI Tools</a></li>
+  <li><a href="https://one.google.com/about/google-ai-plans/">Google AI Plans and Features</a></li>
+  <li><a href="https://gemini.google/subscriptions/">Google AI Pro &amp; Ultra — get access to Gemini 2.5 Pro &amp; more</a></li>
+  <li><a href="https://store.google.com/intl/en_au/ideas/articles/gemini-advanced-features/">Gemini vs. Gemini Advanced: What’s the Difference? - Google Store</a></li>
+  <li><a href="https://circleci.com/blog/llm-hallucinations-ci/#:~:text=Michael%20Webster,disconnected%20from%20the%20input%20prompt.">circleci.com</a></li>
+  <li><a href="https://aws.amazon.com/blogs/machine-learning/reducing-hallucinations-in-large-language-models-with-custom-intervention-using-amazon-bedrock-agents/">Reducing hallucinations in large language models with custom intervention using Amazon Bedrock Agents | Artificial Intelligence and Machine Learning</a></li>
+  <li><a href="https://cloud.google.com/discover/what-are-ai-hallucinations">What are AI hallucinations? - Google Cloud</a></li>
+  <li><a href="https://originality.ai/blog/ai-hallucination-factual-error-problems">8 Times AI Hallucinations or Factual Errors Caused Serious …</a></li>
+  <li><a href="https://builtin.com/artificial-intelligence/ai-hallucination">What Are AI Hallucinations? - Built In</a></li>
+  <li><a href="https://www.techtarget.com/searchenterpriseai/feature/LLM-hallucinations-What-you-need-to-know-before-integration">LLM Hallucinations: What You Need to Know Before Integration</a></li>
+</ol>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+      </footer>
+
+      <section class="page__share">
+  <h4 class="page__share-title">Share on</h4>
+
+  <a href="https://x.com/intent/tweet?text=Een+Diepgaande+Analyse+van+Google%27s+Gemini%3A+Architectuur%2C+Productniveaus+en+de+Uitdaging+van+Hallucinaties%20http%3A%2F%2Flocalhost%3A4000%2Fvraagstukken%2Fgemini%2F" class="btn btn--x" aria-label="Share on X" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on X">
+    <i class="fab fa-fw fa-x-twitter" aria-hidden="true"></i><span> X</span>
+  </a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fvraagstukken%2Fgemini%2F" class="btn btn--facebook" aria-label="Share on Facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook">
+    <i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span>
+  </a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/vraagstukken/gemini/" class="btn btn--linkedin" aria-label="Share on LinkedIn" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn">
+    <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+  </a>
+
+  <a href="https://bsky.app/intent/compose?text=Een+Diepgaande+Analyse+van+Google%27s+Gemini%3A+Architectuur%2C+Productniveaus+en+de+Uitdaging+van+Hallucinaties%20http%3A%2F%2Flocalhost%3A4000%2Fvraagstukken%2Fgemini%2F" class="btn btn--bluesky" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Bluesky">
+    <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i><span> Bluesky</span>
+  </a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/vraagstukken/bayerglyfosaat/" class="pagination--pager" title="De Monsanto-Gok: Een Analyse van Strategie, Risico en Waardevernietiging bij de Overname door Bayer">Previous</a>
+    
+    
+      <a href="/vraagstukken/mediainnederland/" class="pagination--pager" title="Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit">Next</a>
+    
+  </nav>
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+      
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';" role="search">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2025 <a href="http://localhost:4000">Bonnies Smarties</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+  </body>
+</html>

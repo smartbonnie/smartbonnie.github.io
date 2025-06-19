@@ -89,6 +89,12 @@ var store = [{
         "url": "/vraagstukken/bayerglyfosaat/",
         "teaser": null
       },{
+        "title": "Een Diepgaande Analyse van Google's Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties",
+        "excerpt":"De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini Om de capaciteiten en beperkingen van een geavanceerd systeem als Google’s Gemini te doorgronden, is een fundamenteel begrip van de onderliggende technologie essentieel. Dit deel deconstrueert het concept van een Large Language Model (LLM), duikt...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/gemini/",
+        "teaser": null
+      },{
         "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
         "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
         "tags": [],
