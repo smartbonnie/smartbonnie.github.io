@@ -193,6 +193,8 @@ Jan Huzen profileert zich als een centrale organisator die zijn achtergrond in c
 
 De kans op voortzetting of navolging van dergelijke acties lijkt reëel, mede gezien politieke steunbetuigingen en de onderliggende maatschappelijke spanningen. Een heldere en consequente reactie van de autoriteiten is cruciaal om de rechtsstaat te handhaven en tegelijkertijd legitieme publieke zorgen via democratische weg aan te pakken. Het bestrijden van desinformatie en complotnarratieven die dergelijke buitenwettelijke activiteiten voeden, blijft een voortdurende uitdaging. De situatie is volatiel; de geplande nieuwe 'controle' op zondagavond en de toegenomen opkomst , ook al leidde dit niet tot daadwerkelijke controles, suggereren dat de beweging enige tractie heeft en potentieel voor verdere polarisatie of zelfs confrontatie aanwezig is indien niet zorgvuldig beheerd.
 
+2025-06-20 Jan Huzen [weer opgepakt](https://www.politie.nl/nieuws/2025/juni/20/01-aanhouding-op-verdenking-van-poging-tot-ambtsdwang-na-burgergrenscontroles.html) dit keer wegens ambtsdwang.
+
 #### **Geciteerd werk**
 
 1. [Rechtsextremisten jagen op asielzoekers bij grensovergang met Duitsland - Joop - bnnvara](https://www.bnnvara.nl/joop/artikelen/rechtsextremisten-jagen-op-asielzoekers-bij-grensovergang-met-duitsland)
