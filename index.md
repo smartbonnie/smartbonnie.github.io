@@ -26,6 +26,10 @@ Deze tijd kent [veel vraagstukken](vraagstukken). Deze smarties belichten ze en 
 
 [De feitenchecker](feitenchecker) behandelt en analyseert desinformatie uit verschillende bronnen.
 
+## Follow the money
+
+Geen media outlet is meer compleet zonder een [Follow the Money rubriek](ftm). Een van oorsprong Amerikaanse term waaronder financiele spinnewebben worden blootgelegd.
+
 ## Muizenissen
 
 De rubriek [muizenissen](muizenissen) bevat korte artikelen "ter lering en vermaake" om maar eens wat te noemen.

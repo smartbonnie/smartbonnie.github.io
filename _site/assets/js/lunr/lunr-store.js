@@ -5,6 +5,12 @@ var store = [{
         "url": "/feitenchecker/navomachtoverland/",
         "teaser": null
       },{
+        "title": "De Financiële Verwevenheid van Nederland en Israël: Een Analyse van Handel, Investeringen en Geopolitieke Context",
+        "excerpt":"Inleiding De financieel-economische relatie tussen Nederland en Israël is diepgeworteld en veelzijdig. Deze relatie overstijgt de eenvoudige uitwisseling van goederen en omvat complexe kapitaalstromen, strategische bedrijfsinvesteringen en een gedeelde focus op technologische innovatie. Nederland fungeert als een belangrijke economische poort voor Israël naar Europa, terwijl Israël voor Nederland een cruciale...","categories": [],
+        "tags": [],
+        "url": "/ftm/israelftm/",
+        "teaser": null
+      },{
         "title": "Jan Huzen is een racist",
         "excerpt":"Deze tekst, gepost op 9 juni 2025 door “Jan Huzen”, bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht: 1. Discriminerende en racistische uitlatingen “Wij blanke en rasechte Nederlanders worden gezien als uitschot.” “Gelukzoekers die hier kunnen roven, stelen etc en vrij uitgaan!” Deze bewoording...","categories": [],
         "tags": [],
