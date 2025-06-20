@@ -59,6 +59,12 @@ var store = [{
         "url": "/personen/Huzen_Jan/",
         "teaser": null
       },{
+        "title": "De Toevallige Opstandeling: De Vuurproef van Ingrid Coenradie.",
+        "excerpt":"Inleiding Het politieke verhaal van Ingrid Coenradie wordt onlosmakelijk bepaald door haar bepalende moment: het spraakmakende conflict met PVV-leider Geert Wilders. Deze botsing was niet louter een beleidsgeschil, maar een vuurproef die haar nationale identiteit smeedde en een fundamentele spanning binnen de rechtse politieke beweging in Nederland blootlegde: de botsing...","categories": [],
+        "tags": [],
+        "url": "/personen/Ingrid_Coenradie/",
+        "teaser": null
+      },{
         "title": "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider",
         "excerpt":"Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het roer...","categories": [],
         "tags": [],
