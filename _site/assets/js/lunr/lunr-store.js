@@ -11,6 +11,12 @@ var store = [{
         "url": "/ftm/israelftm/",
         "teaser": null
       },{
+        "title": "De Nederlandse Defensie- en Veiligheidsindustrie: Een Analyse van Economische Omvang, Strategisch Belang en Toekomstperspectief",
+        "excerpt":"Inleiding De Nederlandse defensie- en veiligheidsindustrie (DVI) is een significante en snelgroeiende sector van de nationale economie, gekenmerkt door hoogtechnologische specialisatie, een sterke exportoriëntatie en een dynamisch ecosysteem van bedrijven. De sector heeft een defensie- en veiligheidsgerelateerde omzet van €7,7 miljard in 2023, biedt werk aan meer dan 22.000 voltijdsequivalenten...","categories": [],
+        "tags": [],
+        "url": "/ftm/wapenindustrie/",
+        "teaser": null
+      },{
         "title": "Jan Huzen is een racist",
         "excerpt":"Deze tekst, gepost op 9 juni 2025 door “Jan Huzen”, bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht: 1. Discriminerende en racistische uitlatingen “Wij blanke en rasechte Nederlanders worden gezien als uitschot.” “Gelukzoekers die hier kunnen roven, stelen etc en vrij uitgaan!” Deze bewoording...","categories": [],
         "tags": [],
