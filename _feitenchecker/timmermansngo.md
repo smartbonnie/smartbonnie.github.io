@@ -3,7 +3,7 @@ title: "Feit, Fictie en de Financiering van Invloed: Een Diepgaande Analyse van 
 toc: true
 exerpt: "Begin juni 2025 bracht de Duitse krant *Welt am Sonntag* een verhaal dat onmiddellijk politieke schokgolven door Brussel en daarbuiten stuurde. De krant onthulde wat het beschreef als \"geheime contracten\" waaruit zou blijken dat de Europese Commissie, het uitvoerend orgaan van de Europese Unie, miljoenen euro's aan belastinggeld had betaald aan milieuorganisaties, oftewel Non-Governmental Organizations (NGO's)."
 header:
-  img: /img/feitenchecker/brusseleu.png
+  image: /img/feitenchecker/brusseleu.png
 ---
 
 ## **Inleiding: Anatomie van een Brusselse Controverse**
