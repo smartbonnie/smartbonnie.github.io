@@ -5,6 +5,12 @@ var store = [{
         "url": "/feitenchecker/navomachtoverland/",
         "teaser": null
       },{
+        "title": "Feit, Fictie en de Financiering van Invloed: Een Diepgaande Analyse van de Controverse rond de EU-Commissie en NGO's",
+        "excerpt":"Inleiding: Anatomie van een Brusselse Controverse Begin juni 2025 bracht de Duitse krant Welt am Sonntag een verhaal dat onmiddellijk politieke schokgolven door Brussel en daarbuiten stuurde. De krant onthulde wat het beschreef als “geheime contracten” waaruit zou blijken dat de Europese Commissie, het uitvoerend orgaan van de Europese Unie,...","categories": [],
+        "tags": [],
+        "url": "/feitenchecker/timmermansngo/",
+        "teaser": null
+      },{
         "title": "De Financiële Verwevenheid van Nederland en Israël: Een Analyse van Handel, Investeringen en Geopolitieke Context",
         "excerpt":"Inleiding De financieel-economische relatie tussen Nederland en Israël is diepgeworteld en veelzijdig. Deze relatie overstijgt de eenvoudige uitwisseling van goederen en omvat complexe kapitaalstromen, strategische bedrijfsinvesteringen en een gedeelde focus op technologische innovatie. Nederland fungeert als een belangrijke economische poort voor Israël naar Europa, terwijl Israël voor Nederland een cruciale...","categories": [],
         "tags": [],
