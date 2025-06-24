@@ -35,6 +35,12 @@ var store = [{
         "url": "/muizenissen/navomachtoverland/",
         "teaser": null
       },{
+        "title": "Waarom posten mensen hun verjaardag op social media?",
+        "excerpt":"Inleiding Mensen posten om verschillende redenen op sociale media dat ze jarig zijn. Het is een fenomeen dat voortkomt uit een mix van psychologische behoeften, sociale gewoonten en de functionaliteit van de platforms zelf. Hier zijn de belangrijkste redenen: 1. Zoeken naar Verbinding en Sociale Bevestiging De kern van de...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/socialverjaardag/",
+        "teaser": null
+      },{
         "title": "De Oorsprong van Hamas: Een Diepgaande Analyse van Haar Ontstaan en Vroege Ontwikkeling",
         "excerpt":"1. Inleiding: De Vraag naar Hamas’ Ontstaan Hamas, een acroniem voor Harakat al-Muqawamah al-Islamiyyah (Islamitische Verzetsbeweging), is een Palestijnse nationalistische soennitisch-islamistische politieke organisatie met een militaire vleugel, de Qassam Brigades. De naam “Hamas” zelf draagt een dubbele betekenis, aangezien het ook het Arabische woord is voor “ijver”, “kracht” of “moed”....","categories": [],
         "tags": [],
