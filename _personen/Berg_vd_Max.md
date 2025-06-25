@@ -2,8 +2,10 @@
 title: "Max van den Berg"
 toc: true
 excerpt: "Kleine biografie van de Fakkeldrager"
+header:
+  image: /img/personen/maxvdberg.png
 ---
-![max](/img/Berg_vd_Max.jpeg)
+
 ## 1. Introductie: De Ontmaskering van "De Fakkeldrager"
 
 Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias "de fakkeldrager," representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van den Berg met een brandende fakkel verscheen bij de privéwoning van een vooraanstaand Nederlands politica. Deze gebeurtenis katapulteerde hem naar nationale bekendheid en markeerde hem als een symbool van een confronterende en intimiderende vorm van protest.
@@ -100,3 +102,4 @@ De zaak Van den Berg werpt licht op de bredere maatschappelijke uitdagingen die 
 13. Model | 4 - Proces-verbaal over geldigheid en nummering kandidatenlijsten Met dit formulier doet het centraal stembureau verslag van de zitting waarin is besloten over Kiesraad.nl, [link](https://www.kiesraad.nl/binaries/kiesraad/documenten/proces-verbalen/2023/2/14/definitieve-kandidatenlijst-provincie-zuid-holland/Zuid-Holland+Model+I+4.pdf)
 14. ECLI:NL:GHDHA:2023:216, Gerechtshof Den Haag, 2200024422 - Uitspraken, [link](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:216)
 15. Man die met brandende fakkel bij huis van Kaag stond opnieuw opgepakt - NOS, [link](https://nos.nl/artikel/2440772-man-die-met-brandende-fakkel-bij-huis-van-kaag-stond-opnieuw-opgepakt)
+t)

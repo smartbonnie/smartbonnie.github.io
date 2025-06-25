@@ -141,6 +141,10 @@ De analyse leidt tot de volgende strategische conclusies voor de toekomst van de
 * **Beperk Risico's in de Toeleveringsketen:** Er is een nationale en Europese strategie nodig om de afhankelijkheid van niet-EU-landen voor kritieke componenten, met name in de elektronica, te verminderen.  
 * **Koester het Ecosysteem:** Voortdurende investeringen in het "gouden ecosysteem" van startups, MKB, kennisinstellingen en grote bedrijven zijn cruciaal voor het behoud van de technologische voorsprong. De toekomst van de Nederlandse defensie-industrie ligt niet in het streven naar onrealistische autonomie, maar in het pragmatische doel om een onmisbare partner te worden.
 
+### **Wapen export**
+
+[Export Rijksoverheid](https://www.rijksoverheid.nl/onderwerpen/exportcontrole-strategische-goederen/wetten-en-regels-export-strategische-goederen)
+
 #### **Geciteerd werk**
 
 1. [Nederlandse defensie- en veiligheid gerelateerde technologische industriële basis - Berenschot](https://www.berenschot.nl/media/qjnnh2tb/berenschot-rapport-nederlandse-defensie-en-veiligheid-gerelateerde-technologische-industri%C3%ABle-basis-2024.pdf)

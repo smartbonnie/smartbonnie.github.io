@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider",
-        "excerpt":"Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het roer...","categories": [],
+        "excerpt":"Inleiding Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het...","categories": [],
         "tags": [],
         "url": "/personen/Ye%C5%9Filg%C3%B6z-Zegerius_Dilan/",
         "teaser": null
