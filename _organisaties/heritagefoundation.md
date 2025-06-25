@@ -2,6 +2,8 @@
 title: "De Heritage Foundation"
 toc: true
 excerpt: Een uitgebreide analyse over de denktank Heritage Foundation."
+header:
+  image: /img/organisaties/heritage.png
 ---
 
 ## **Inleiding: Meer dan een Denkfabriek**

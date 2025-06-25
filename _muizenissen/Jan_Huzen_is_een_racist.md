@@ -2,7 +2,7 @@
 title: "Jan Huzen is een racist"
 toc: true
 header:
-  image: /img/jhuzentext.png
+  image: /img/muizenissen/jhuzentext.png
 excerpt: "Analyse van een simpele post."
 ---
 

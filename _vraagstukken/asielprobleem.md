@@ -2,6 +2,8 @@
 title: "De Nederlandse Asielsituatie in Europees Perspectief: Een Analyse van Uitdagingen en Beleidsreacties"
 toc: true
 excerpt: "De thema's asiel en migratie staan de laatste jaren prominent op de politieke en maatschappelijke agenda in Nederland en breder binnen Europa. Een toegenomen instroom van asielzoekers, deels als gevolg van conflicten en instabiliteit in diverse regio's wereldwijd, heeft geleid tot aanzienlijke druk op de opvangsystemen en asielprocedures in veel Europese landen. In Nederland is deze druk manifest geworden door knelpunten in de opvang, met name in het aanmeldcentrum Ter Apel."
+header:
+  image: /img/vraagstukken/systeemcrisis.png
 ---
 
 ## **I. Inleiding**
