@@ -8,22 +8,20 @@ header:
 
 ## **Inleiding**
 
-De onderzoeken die ik publiceer worden gemaakt in samenwerking met Google Gemini. Ik gebruik hierbij de diep Research functie. Mijn workflow is als volgt:
+De artikelen op deze website komen tot stand via een samenwerking tussen mens en kunstmatige intelligentie. Ik gebruik Google Gemini Pro om onderwerpen diepgaand te onderzoeken. Mijn workflow is als volgt:
 
-1. Ik bedenk een onderzoeksthema.
-2. Gemini antwoord met een concept.
-3. Ik redigeer het concept en vul aan waar nodig.
-4. Start van het onderzoek door de AI.
-5. Redactie en waar nodig herhaal vanaf punt 3.
-6. Formateren en publiceren.
+1. Ik kies een relevant onderzoeksthema.  
+2. De AI genereert een eerste concept op basis van mijn instructies.  
+3. Ik voer een grondige redactie uit, waarbij ik de tekst controleer, corrigeer en aanvul met eigen inzichten.  
+4. Indien nodig wordt de onderzoeksvraag verder verfijnd en herhaalt het proces zich.  
+5. Na de definitieve redactie wordt het artikel geformatteerd en gepubliceerd.
 
-Het leuke van dit proces is dat je zo uiteindelijk tot een objectief onderzoek komt. Ik richt me vooral op vragen die ik vaak zie opduiken.
+Deze methode stelt mij in staat om complexe vragen efficiënt te beantwoorden en een zo compleet mogelijk beeld te schetsen.
 
 ## **Verantwoording**
 
-De onderzoeken bestaan dus niet uit mijn mening maar uit objectieve feiten. Dat kan soms confronterend zijn.
-
-Uiteindelijk liggen de redactie en verantwoordelijkheid voor het onderzoek bij mij, want vooralsnog is een AI niets anders dan een veredelde evolutie van de klassieke typemachine.
+Het doel is om artikelen te publiceren die gebaseerd zijn op een brede synthese van feitelijke informatie, in plaats van een persoonlijke mening. Hoewel absolute objectiviteit een uitdaging blijft, wordt dit nagestreefd door een zorgvuldig en kritisch redactieproces.  
+De uiteindelijke redactionele verantwoordelijkheid ligt daarom altijd bij mij. Een AI is een krachtig hulpmiddel, maar de menselijke expertise en het ethisch kompas van de redacteur blijven onmisbaar.
 
 ## **Waarschuwing**
 
