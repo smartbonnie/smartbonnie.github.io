@@ -107,6 +107,18 @@ var store = [{
         "url": "/vademecum/ethiek/",
         "teaser": null
       },{
+        "title": "Gaslighting",
+        "excerpt":"Inleiding Gaslighting is een vorm van psychologische manipulatie waarbij een persoon, de ‘gaslighter’, een ander doelbewust aan zijn of haar eigen verstand, geheugen of waarneming van de realiteit laat twijfelen. Deze manipulatieve tactiek kan subtiel beginnen, maar heeft op de lange termijn vaak verwoestende gevolgen voor het slachtoffer. De term...","categories": [],
+        "tags": [],
+        "url": "/vademecum/gaslighting/",
+        "teaser": null
+      },{
+        "title": "Populisme.",
+        "excerpt":"Inleiding Populisme is een politieke stijl en ideologie die een centrale tegenstelling creëert tussen “het gewone volk” en “de corrupte elite”. Populistische leiders en bewegingen claimen de ware stem van het volk te vertegenwoordigen en verzetten zich tegen de gevestigde orde, die zij als onbetrouwbaar en uitsluitend uit op eigenbelang...","categories": [],
+        "tags": [],
+        "url": "/vademecum/populisme/",
+        "teaser": null
+      },{
         "title": "Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse",
         "excerpt":"I. Introductie: Geert Wilders’ Tienpunten Migratieplan en de Noodzaak van Juridische en Ethische Toetsing Wat is ethiek Recentelijk heeft Geert Wilders, leider van de Partij voor de Vrijheid (PVV), een tienpuntenplan gepresenteerd dat gericht is op het radicaal terugdringen van migratie naar Nederland. Dit plan, vaak met een zekere urgentie...","categories": [],
         "tags": [],
