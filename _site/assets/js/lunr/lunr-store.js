@@ -71,6 +71,12 @@ var store = [{
         "url": "/organisaties/rairfoundation/",
         "teaser": null
       },{
+        "title": "Europa's Defensieve Wederopbouw: Een Analyse van het ReArm Europe Initiative en de Trans-Atlantische Industriële Competitie",
+        "excerpt":"Samenvatting Dit rapport biedt een diepgaande analyse van het “ReArm Europe” initiatief (ook bekend als “Readiness 2030”), een historisch keerpunt in het Europese defensiebeleid. Aangespoord door de Russische agressie in Oekraïne en de toenemende onzekerheid over Amerikaanse veiligheidsgaranties, poogt de Europese Unie haar militaire paraatheid en industriële basis fundamenteel te...","categories": [],
+        "tags": [],
+        "url": "/organisaties/rearmeurope/",
+        "teaser": null
+      },{
         "title": "Max van den Berg",
         "excerpt":"1. Introductie: De Ontmaskering van “De Fakkeldrager” Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias “de fakkeldrager,” representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van...","categories": [],
         "tags": [],
