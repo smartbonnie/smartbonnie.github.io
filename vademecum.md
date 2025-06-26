@@ -9,6 +9,8 @@ author_profile: true
 sort_by: title
 #sort_order: reverse
 show_excepts: true
+header:
+  image: /img/vademecum.png
 ---
 
-In [mijn vademecum](vademecum) komen smarties te staan met extra uitleg over moeilijk termen.
+In [mijn vademecum](vademecum) komen verklarende smarties te staan met extra uitleg over moeilijk termen.

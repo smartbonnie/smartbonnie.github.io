@@ -1,3 +1,13 @@
+---
+title: Colofon
+toc: true
+layout: single
+header:
+  image: /img/redactie.png
+---
+
+## **Inleiding**
+
 De onderzoeken die ik publiceer worden gemaakt in samenwerking met Google Gemini. Ik gebruik hierbij de diep Research functie. Mijn workflow is als volgt:
 
 1. Ik bedenk een onderzoeksthema.
@@ -9,9 +19,13 @@ De onderzoeken die ik publiceer worden gemaakt in samenwerking met Google Gemini
 
 Het leuke van dit proces is dat je zo uiteindelijk tot een objectief onderzoek komt. Ik richt me vooral op vragen die ik vaak zie opduiken.
 
+## **Verantwoording**
+
 De onderzoeken bestaan dus niet uit mijn mening maar uit objectieve feiten. Dat kan soms confronterend zijn.
 
-Uiteindelijk liggen de redactie en verantwoordelijkheid voor het onderzoek bij mij. Vooralsnog is een Ai niets anders dan een veredelde evolutie van de klassieke typemachine.
+Uiteindelijk liggen de redactie en verantwoordelijkheid voor het onderzoek bij mij, want vooralsnog is een AI niets anders dan een veredelde evolutie van de klassieke typemachine.
+
+## **Waarschuwing**
 
 Over dit proces wil ik ook nog iets kwijt. Het is namelijk zo dat in de toekomst iedereen op deze manier zijn nieuws kan vergaren. Dit is dus wat men bedoelt als men het heeft over Ai die het internet vervangt. 
 
@@ -28,5 +42,7 @@ Het gevaar schuilt hem in de makers van de betreffende Ai, in hoe ver heeft een 
 * Samsung Galaxy S24 Ultra
 * Goed stel hersens
 
-Reacties via mijn [github repo](https://github.com/smartbonnie/smartbonnie.github.io)
+## Reacties via Email
+
+Reacties via mijn email: reakties@smartbonnie.eu
 
