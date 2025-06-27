@@ -29,6 +29,8 @@ DPG Media is een Belgische mediagroep met het hoofdkantoor in Antwerpen en wordt
 
 DPG Media profileert zich als het grootste mediabedrijf in Nederland.13 Het uitgebreide portfolio omvat toonaangevende landelijke kranten zoals het *AD*, *de Volkskrant*, *Trouw* en *Het Parool*, populaire digitale platforms zoals *NU.nl*, diverse tijdschriften waaronder *Libelle*, *Donald Duck* en *Flow*, en prominente radiostations zoals *Qmusic* en *Joe*.2 In 2020 nam DPG Media de Nederlandse activiteiten van Sanoma Media Nederland over.2 Een recente en zeer belangrijke ontwikkeling is de overname van RTL Nederland voor €1,1 miljard, die in mei 2025 "zo goed als voltooid" is, in afwachting van definitieve goedkeuring door de Autoriteit Consument en Markt (ACM).2 Deze overeenkomst omvat bepalingen om de redactionele onafhankelijkheid van *RTL Nieuws* en *Nu.nl* voor een periode van 10 jaar te waarborgen, hoewel journalistenbonden hierover hun twijfels hebben geuit.14
 
+2025-06-27 [DPG mag RTL overnemen, wel onder strikte voorwaarden](https://nos.nl/artikel/2572676-dpg-mag-rtl-overnemen-wel-onder-strikte-voorwaarden)
+
 ### **Mediahuis**
 
 Mediahuis is een Europees multinationaal mediabedrijf dat in 2014 werd opgericht en zijn hoofdkantoor in België heeft.3 De eigendomsstructuur is geconcentreerd bij Mediahuis Partners NV (50,6%), Concentra (32,7%) en VP Exploitatie (16,7%), die op hun beurt voornamelijk in handen zijn van de familie Van Puijenbroek, de Belgische familie Baert en Mediahuis-voorzitter Thomas Leysen.3
@@ -52,6 +54,8 @@ De aanzienlijke aanwezigheid van Belgische (DPG Media, Mediahuis) en Duitse (RTL
 Het consistente patroon van fusies en overnames tussen deze grote spelers (bijv. DPG dat Sanoma en RTL Nederland overneemt; Mediahuis dat TMG en NDC Mediagroep overneemt; de mislukte RTL-Talpa fusie) wordt veelvuldig genoemd als een noodzaak om te overleven tegen grotere internationale digitale spelers.1 Dit suggereert dat de Nederlandse mediamarkt door haar grote spelers als te klein of gefragmenteerd wordt ervaren om meerdere grote binnenlandse spelers onafhankelijk te kunnen handhaven in het licht van wereldwijde concurrentie. De trend wijst op een "winner-takes-most"-dynamiek, waarbij schaalgrootte wordt geprioriteerd voor economische levensvatbaarheid.
 
 De beslissing van de ACM om de RTL-Talpa fusie te blokkeren vanwege zorgen over marktdominantie, maar de DPG-RTL fusie voorwaardelijk goed te keuren met afspraken over redactionele onafhankelijkheid 14, onthult een complex regulatoir evenwicht. Toezichthouders proberen de economische noodzaak voor schaalgrootte (consolidatie toestaan) te verzoenen met de democratische noodzaak voor pluriformiteit (redactionele onafhankelijkheid waarborgen). De geuite twijfels van journalistenbonden over de effectiviteit van deze afspraken 14 impliceren echter dat formele waarborgen de onderliggende machtsdynamiek of subtiele druk op redactionele lijnen mogelijk niet volledig aanpakken. Dit benadrukt een kritieke, voortdurende uitdaging voor regulerende instanties om journalistieke onafhankelijkheid in steeds geconcentreerdere markten daadwerkelijk te garanderen.
+
+2025-06-27 [DPG mag RTL overnemen, wel onder strikte voorwaarden](https://nos.nl/artikel/2572676-dpg-mag-rtl-overnemen-wel-onder-strikte-voorwaarden)
 
 **Tabel 1: Overzicht van Grote Commerciële Mediabedrijven in Nederland**
 
