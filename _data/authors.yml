@@ -1,0 +1,14 @@
+# /_data/authors.yml
+
+SmartBonnie:
+  name        : "SmartBonnie"
+  bio         : "Journalisme is op sterven na dood. Bonnie pakt de handschoen op."
+  avatar      : "/img/bonnie.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:author@smartbonnie.eu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://smartbonnie.eu"
+

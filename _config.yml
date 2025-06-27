@@ -3,10 +3,10 @@ theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark"
 
 # Auteur
-author:
-  name     : "Smartbonnie"
-  bio      : "Informatief, woke, verzet."
-  location : "Den Haag"
+author: 'SmartBonnie'
+#  name     : "Smartbonnie"
+#  bio      : "Informatief, woke, verzet."
+#  location : "Den Haag"
 
 # Plugins (previously gems:)
 plugins:

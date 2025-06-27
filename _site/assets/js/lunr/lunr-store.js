@@ -65,6 +65,12 @@ var store = [{
         "url": "/organisaties/heritagefoundationiranwar/",
         "teaser": null
       },{
+        "title": "Oxfam Novib",
+        "excerpt":"Oxfam Novib: Een Institutionele Analyse van een Mondiale Ontwikkelingsorganisatie Sectie 1: Samenvatting Dit rapport biedt een diepgaande analyse van Oxfam Novib, de Nederlandse tak van een van ‘s werelds meest invloedrijke confederaties voor ontwikkelingssamenwerking. De organisatie wordt gekenmerkt door een dubbele identiteit: enerzijds is het een diepgewortelde Nederlandse stichting met...","categories": [],
+        "tags": [],
+        "url": "/organisaties/oxfamnovib/",
+        "teaser": null
+      },{
         "title": "De RAIR foundation",
         "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
