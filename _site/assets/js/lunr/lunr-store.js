@@ -167,6 +167,12 @@ var store = [{
         "url": "/vraagstukken/mediainnederland/",
         "teaser": null
       },{
+        "title": "Oologsmisdaden van Israel in Gaza.",
+        "excerpt":"Inleiding Dit rapport analyseert de beschuldigingen van internationale misdrijven—oorlogsmisdrijven, misdaden tegen de menselijkheid en genocide—die tegen Israël zijn geuit in het kader van zijn militaire operaties in de Gazastrook. Deze operaties begonnen na de grootschalige aanval van Hamas en andere Palestijnse gewapende groeperingen op 7 oktober 2023. Volgens Israëlische bronnen...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/oorlogsmisdadenisrael/",
+        "teaser": null
+      },{
         "title": "Systematisch Racistisch Profileren door de Nederlandse Politie: Een Juridische en Maatschappelijke Analyse",
         "excerpt":"Inleiding: De Contouren van een Hardnekkig Debat De vraag of de Nederlandse politie zich schuldig maakt aan systematisch racistisch profileren is een van de meest pregnante en polariserende kwesties in het hedendaagse maatschappelijke en politieke debat. Het raakt aan de fundamenten van de rechtsstaat: de belofte van gelijkheid voor de...","categories": [],
         "tags": [],
