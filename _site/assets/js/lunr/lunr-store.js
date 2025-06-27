@@ -5,6 +5,12 @@ var store = [{
         "url": "/feitenchecker/navomachtoverland/",
         "teaser": null
       },{
+        "title": "Israel mengt Oxycodon door hulpgoederen.",
+        "excerpt":"Ik heb de bewering in de afbeelding onderzocht. Hier is een analyse van de informatie en de betrouwbaarheid van de bronnen. Analyse van de bewering De afbeelding bevat een tweet van een persoon genaamd Omar Hamad, die beweert een apotheker te zijn. De kern van de bewering is dat Israël...","categories": [],
+        "tags": [],
+        "url": "/feitenchecker/oxycodon/",
+        "teaser": null
+      },{
         "title": "Feit, Fictie en de Financiering van Invloed: Een Diepgaande Analyse van de Controverse rond de EU-Commissie en NGO's",
         "excerpt":"Inleiding: Anatomie van een Brusselse Controverse Begin juni 2025 bracht de Duitse krant Welt am Sonntag een verhaal dat onmiddellijk politieke schokgolven door Brussel en daarbuiten stuurde. De krant onthulde wat het beschreef als “geheime contracten” waaruit zou blijken dat de Europese Commissie, het uitvoerend orgaan van de Europese Unie,...","categories": [],
         "tags": [],
