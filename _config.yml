@@ -3,10 +3,18 @@ theme: "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "dark"
 
 # Auteur
-author: 'SmartBonnie'
-#  name     : "Smartbonnie"
-#  bio      : "Informatief, woke, verzet."
-#  location : "Den Haag"
+author:
+  name      : "SmartBonnie"
+  bio       : "Journalisme is op sterven na dood. Bonnie pakt de handschoen op."
+  avatar    : "/img/bonnie.png"
+  location  : "Den Haag"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:author@smartbonnie.eu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://smartbonnie.eu"
 
 # Plugins (previously gems:)
 plugins:

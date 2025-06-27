@@ -10,7 +10,7 @@ sort_by: date
 #sort_order: reverse
 show_excepts: true
 header:
-  image: /img/muizenissen
+  image: /img/muizenissen.png
 ---
 
 De rubriek muizenissen bevat korte artikelen “ter lering en vermaake” om maar eens wat te noemen.
