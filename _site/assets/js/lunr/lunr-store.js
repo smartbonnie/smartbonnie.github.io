@@ -131,6 +131,12 @@ var store = [{
         "url": "/vraagstukken/10puntenplanpvv/",
         "teaser": null
       },{
+        "title": "Arbeidsmigratie in Nederland.",
+        "excerpt":"Inleiding: De Paradox van de Onmisbare en Kwetsbare Arbeidskracht Dit rapport analyseert de fundamentele paradox van de hedendaagse arbeidsmigratie in Nederland. Enerzijds zijn arbeidsmigranten een onmisbare pijler geworden voor de Nederlandse economie. Zij vullen cruciale personeelstekorten op in vitale sectoren zoals de land- en tuinbouw, de logistiek en de kenniseconomie,...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/arbeidsmigratie/",
+        "teaser": null
+      },{
         "title": "De Nederlandse Asielsituatie in Europees Perspectief: Een Analyse van Uitdagingen en Beleidsreacties",
         "excerpt":"I. Inleiding Contextualisering van de asielproblematiek De thema’s asiel en migratie staan de laatste jaren prominent op de politieke en maatschappelijke agenda in Nederland en breder binnen Europa. Een toegenomen instroom van asielzoekers, deels als gevolg van conflicten en instabiliteit in diverse regio’s wereldwijd, heeft geleid tot aanzienlijke druk op...","categories": [],
         "tags": [],
