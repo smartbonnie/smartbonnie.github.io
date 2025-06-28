@@ -143,16 +143,16 @@ var store = [{
         "url": "/vraagstukken/10puntenplanpvv/",
         "teaser": null
       },{
-        "title": "Arbeidsmigratie in Nederland.",
-        "excerpt":"Inleiding: De Paradox van de Onmisbare en Kwetsbare Arbeidskracht Dit rapport analyseert de fundamentele paradox van de hedendaagse arbeidsmigratie in Nederland. Enerzijds zijn arbeidsmigranten een onmisbare pijler geworden voor de Nederlandse economie. Zij vullen cruciale personeelstekorten op in vitale sectoren zoals de land- en tuinbouw, de logistiek en de kenniseconomie,...","categories": [],
+        "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
+        "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
         "tags": [],
-        "url": "/vraagstukken/arbeidsmigratie/",
+        "url": "/vraagstukken/mediainnederland/",
         "teaser": null
       },{
-        "title": "De Nederlandse Asielsituatie in Europees Perspectief: Een Analyse van Uitdagingen en Beleidsreacties",
-        "excerpt":"I. Inleiding Contextualisering van de asielproblematiek De thema’s asiel en migratie staan de laatste jaren prominent op de politieke en maatschappelijke agenda in Nederland en breder binnen Europa. Een toegenomen instroom van asielzoekers, deels als gevolg van conflicten en instabiliteit in diverse regio’s wereldwijd, heeft geleid tot aanzienlijke druk op...","categories": [],
+        "title": "Woonfraude in Nederland - Een Analyse van Feiten, Framing en Beleid voorbij de Headlines",
+        "excerpt":"Introductie: De Vonk van een Nationaal Debat – Deconstructie van het Nieuws Een recent, landelijk debat over woonfraude werd niet ontstoken door een omvangrijk statistisch rapport, maar door een gerichte journalistieke onthulling die een gevoelige maatschappelijke zenuw raakte. De kern van deze discussie vindt zijn oorsprong in een undercoveronderzoek van...","categories": [],
         "tags": [],
-        "url": "/vraagstukken/asielprobleem/",
+        "url": "/vraagstukken/woonfraudestatushouders/",
         "teaser": null
       },{
         "title": "De Monsanto-Gok: Een Analyse van Strategie, Risico en Waardevernietiging bij de Overname door Bayer",
@@ -161,10 +161,10 @@ var store = [{
         "url": "/vraagstukken/bayerglyfosaat/",
         "teaser": null
       },{
-        "title": "BDS. Vermijd producten uit Israel.",
-        "excerpt":"Inleiding: Navigeren door de Complexiteit van Bewuste Consumptie Dit rapport is opgesteld naar aanleiding van de consumentenvraag hoe de aankoop van Israëlische producten in Nederland kan worden vermeden. In een geglobaliseerde economie is de reis van een product van oorsprong tot winkelschap vaak complex en ondoorzichtig. Een eenvoudige checklist is...","categories": [],
+        "title": "Systematisch Racistisch Profileren door de Nederlandse Politie: Een Juridische en Maatschappelijke Analyse",
+        "excerpt":"Inleiding: De Contouren van een Hardnekkig Debat De vraag of de Nederlandse politie zich schuldig maakt aan systematisch racistisch profileren is een van de meest pregnante en polariserende kwesties in het hedendaagse maatschappelijke en politieke debat. Het raakt aan de fundamenten van de rechtsstaat: de belofte van gelijkheid voor de...","categories": [],
         "tags": [],
-        "url": "/vraagstukken/bds/",
+        "url": "/vraagstukken/politieetnischprofileren/",
         "teaser": null
       },{
         "title": "Een Diepgaande Analyse van Google's Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties",
@@ -173,10 +173,16 @@ var store = [{
         "url": "/vraagstukken/gemini/",
         "teaser": null
       },{
-        "title": "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit",
-        "excerpt":"1. Samenvatting Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door...","categories": [],
+        "title": "De Nederlandse Asielsituatie in Europees Perspectief: Een Analyse van Uitdagingen en Beleidsreacties",
+        "excerpt":"I. Inleiding Contextualisering van de asielproblematiek De thema’s asiel en migratie staan de laatste jaren prominent op de politieke en maatschappelijke agenda in Nederland en breder binnen Europa. Een toegenomen instroom van asielzoekers, deels als gevolg van conflicten en instabiliteit in diverse regio’s wereldwijd, heeft geleid tot aanzienlijke druk op...","categories": [],
         "tags": [],
-        "url": "/vraagstukken/mediainnederland/",
+        "url": "/vraagstukken/asielprobleem/",
+        "teaser": null
+      },{
+        "title": "Arbeidsmigratie in Nederland.",
+        "excerpt":"Inleiding: De Paradox van de Onmisbare en Kwetsbare Arbeidskracht Dit rapport analyseert de fundamentele paradox van de hedendaagse arbeidsmigratie in Nederland. Enerzijds zijn arbeidsmigranten een onmisbare pijler geworden voor de Nederlandse economie. Zij vullen cruciale personeelstekorten op in vitale sectoren zoals de land- en tuinbouw, de logistiek en de kenniseconomie,...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/arbeidsmigratie/",
         "teaser": null
       },{
         "title": "Oologsmisdaden van Israel in Gaza.",
@@ -185,10 +191,16 @@ var store = [{
         "url": "/vraagstukken/oorlogsmisdadenisrael/",
         "teaser": null
       },{
-        "title": "Systematisch Racistisch Profileren door de Nederlandse Politie: Een Juridische en Maatschappelijke Analyse",
-        "excerpt":"Inleiding: De Contouren van een Hardnekkig Debat De vraag of de Nederlandse politie zich schuldig maakt aan systematisch racistisch profileren is een van de meest pregnante en polariserende kwesties in het hedendaagse maatschappelijke en politieke debat. Het raakt aan de fundamenten van de rechtsstaat: de belofte van gelijkheid voor de...","categories": [],
+        "title": "BDS. Vermijd producten uit Israel.",
+        "excerpt":"Inleiding: Navigeren door de Complexiteit van Bewuste Consumptie Dit rapport is opgesteld naar aanleiding van de consumentenvraag hoe de aankoop van Israëlische producten in Nederland kan worden vermeden. In een geglobaliseerde economie is de reis van een product van oorsprong tot winkelschap vaak complex en ondoorzichtig. Een eenvoudige checklist is...","categories": [],
         "tags": [],
-        "url": "/vraagstukken/politieetnischprofileren/",
+        "url": "/vraagstukken/bds/",
+        "teaser": null
+      },{
+        "title": "De Participatiewet Onder de Loep",
+        "excerpt":"Inleiding: De Participatiewet als Hoeksteen en Struikelblok Op 1 januari 2015 trad in Nederland de Participatiewet in werking, een van de meest ingrijpende hervormingen van het sociale zekerheidsstelsel en de onderkant van de arbeidsmarkt in decennia. De wet vloeide voort uit de ambitie om een einde te maken aan de...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/participatie/",
         "teaser": null
       },{
         "title": "Russische Oorlogsmisdaden.",
@@ -197,9 +209,9 @@ var store = [{
         "url": "/vraagstukken/rusoorlogsmis/",
         "teaser": null
       },{
-        "title": "Woonfraude in Nederland - Een Analyse van Feiten, Framing en Beleid voorbij de Headlines",
-        "excerpt":"Introductie: De Vonk van een Nationaal Debat – Deconstructie van het Nieuws Een recent, landelijk debat over woonfraude werd niet ontstoken door een omvangrijk statistisch rapport, maar door een gerichte journalistieke onthulling die een gevoelige maatschappelijke zenuw raakte. De kern van deze discussie vindt zijn oorsprong in een undercoveronderzoek van...","categories": [],
+        "title": "Mensenrechten schendingen in Turkije",
+        "excerpt":"Deel I: De Binnenlandse Mensenrechtencrisis in Turkije De schendingen tegen de Koerdische bevolking en andere minderheidsgroepen in Turkije vinden niet in een vacuüm plaats. Ze zijn het symptoom en het gevolg van een bredere, systemische aanval op de rechtsstaat en de fundamentele vrijheden die de gehele Turkse samenleving treft. Deze...","categories": [],
         "tags": [],
-        "url": "/vraagstukken/woonfraudestatushouders/",
+        "url": "/vraagstukken/turkijemensenrechten/",
         "teaser": null
       }]

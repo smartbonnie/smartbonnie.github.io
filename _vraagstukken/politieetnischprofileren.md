@@ -2,6 +2,7 @@
 title: "Systematisch Racistisch Profileren door de Nederlandse Politie: Een Juridische en Maatschappelijke Analyse"
 toc: true
 excerpt: "De vraag of de Nederlandse politie zich schuldig maakt aan systematisch racistisch profileren is een van de meest pregnante en polariserende kwesties in het hedendaagse maatschappelijke en politieke debat. Het raakt aan de fundamenten van de rechtsstaat: de belofte van gelijkheid voor de wet en het vertrouwen van burgers in de instituties die hen moeten beschermen."
+date: 2025/06/17
 header:
   image: /img/politieprofilering.png
 ---

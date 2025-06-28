@@ -2,6 +2,7 @@
 title: "Media-eigendom in Nederland: Structuren, Concentratie en Implicaties voor Pluriformiteit"
 toc: true
 excerpt: "Het Nederlandse medialandschap wordt gekenmerkt door een toenemende concentratie van eigendom, met name in de commerciële sector. Vier grote mediabedrijven – DPG Media, Mediahuis, Talpa Network en RTL Nederland – domineren, naast de Nederlandse Publieke Omroep (NPO), de meest gebruikte nieuws- en informatiebronnen.1 Deze consolidatie wordt gedreven door de noodzaak om te concurreren met grote internationale spelers in de digitale markt.1 De NPO fungeert als een cruciale publieke tegenhanger, met een aanzienlijk marktaandeel in televisie en radio.1 De invloed van buitenlandse eigendom is merkbaar, aangezien DPG Media en Mediahuis Belgische groepen zijn en RTL Nederland een dochteronderneming is van het Duitse Bertelsmann.2 Bovendien hebben mondiale techplatforms een overweldigend aandeel in de online advertentiemarkt."
+date: 2025/06/15
 ---
 ## **1\. Samenvatting**
 

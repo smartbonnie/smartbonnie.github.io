@@ -2,6 +2,7 @@
 title: "Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse"
 toc: "true"
 excerpt: "Recentelijk heeft Geert Wilders, leider van de Partij voor de Vrijheid (PVV), een tienpuntenplan gepresenteerd dat gericht is op het radicaal terugdringen van migratie naar Nederland. Dit plan, vaak met een zekere urgentie en als ultimatum gepresenteerd, omvat voorstellen zoals een algehele asielstop, de inzet van het leger aan de grenzen, de deportatie van specifieke groepen migranten, en het beperken van gezinshereniging."
+date: 2025/06/15
 header:
   image: /img/10puntenplan.png
 ---

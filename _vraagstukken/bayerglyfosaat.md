@@ -2,6 +2,7 @@
 title: "De Monsanto-Gok: Een Analyse van Strategie, Risico en Waardevernietiging bij de Overname door Bayer"
 toc: true
 excerpt: "De overname van Monsanto door Bayer in 2018, ter waarde van circa $63 miljard, staat te boek als een van de meest transformerende en tegelijkertijd meest destructieve transacties in de recente geschiedenis van het bedrijfsleven. Dit rapport analyseert de centrale paradox die aan deze megadeal ten grondslag ligt."
+date: 2025/06/16
 header:
   image: /img/bayermontsanto.jpeg
 ---

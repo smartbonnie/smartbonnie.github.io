@@ -2,6 +2,7 @@
 title: "Een Diepgaande Analyse van Google's Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties"
 toc: true
 excerpt: "De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini"
+date: 2025/06/19
 header:
   image: /img/vraagstukken/gemini.png
 ---

@@ -2,6 +2,7 @@
 title: "Woonfraude in Nederland - Een Analyse van Feiten, Framing en Beleid voorbij de Headlines"
 toc: true
 excerpt: "Een recent, landelijk debat over woonfraude werd niet ontstoken door een omvangrijk statistisch rapport, maar door een gerichte journalistieke onthulling die een gevoelige maatschappelijke zenuw raakte."
+date: 2025/06/15
 header:
   image: /img/nosmisbruik.png
 ---
