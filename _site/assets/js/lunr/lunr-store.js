@@ -155,6 +155,12 @@ var store = [{
         "url": "/vraagstukken/bayerglyfosaat/",
         "teaser": null
       },{
+        "title": "BDS. Vermijd producten uit Israel.",
+        "excerpt":"Inleiding: Navigeren door de Complexiteit van Bewuste Consumptie Dit rapport is opgesteld naar aanleiding van de consumentenvraag hoe de aankoop van Israëlische producten in Nederland kan worden vermeden. In een geglobaliseerde economie is de reis van een product van oorsprong tot winkelschap vaak complex en ondoorzichtig. Een eenvoudige checklist is...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/bds/",
+        "teaser": null
+      },{
         "title": "Een Diepgaande Analyse van Google's Gemini: Architectuur, Productniveaus en de Uitdaging van Hallucinaties",
         "excerpt":"De Fundamentele Werking van een Large Language Model: Een Blik onder de Motorkap van Gemini Om de capaciteiten en beperkingen van een geavanceerd systeem als Google’s Gemini te doorgronden, is een fundamenteel begrip van de onderliggende technologie essentieel. Dit deel deconstrueert het concept van een Large Language Model (LLM), duikt...","categories": [],
         "tags": [],
