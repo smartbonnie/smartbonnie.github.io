@@ -29,22 +29,28 @@ var store = [{
         "url": "/ftm/wapenindustrie/",
         "teaser": null
       },{
-        "title": "Jan Huzen is een racist",
-        "excerpt":"Deze tekst, gepost op 9 juni 2025 door “Jan Huzen”, bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht: 1. Discriminerende en racistische uitlatingen “Wij blanke en rasechte Nederlanders worden gezien als uitschot.” “Gelukzoekers die hier kunnen roven, stelen etc en vrij uitgaan!” Deze bewoording...","categories": [],
-        "tags": [],
-        "url": "/muizenissen/Jan_Huzen_is_een_racist/",
-        "teaser": null
-      },{
         "title": "NAVO en leger krijgen de macht over ons land",
         "excerpt":"Inleiding Een grondige analyse van het artikel op indepen.eu met de titel “NAVO en leger krijgen de macht over ons land” toont aan dat het artikel onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft. Het artikel mengt bestaande wetgeving en internationale verdragen, maar ontdoet deze...","categories": [],
         "tags": [],
         "url": "/muizenissen/navomachtoverland/",
         "teaser": null
       },{
+        "title": "Jan Huzen is een racist",
+        "excerpt":"Deze tekst, gepost op 9 juni 2025 door “Jan Huzen”, bevat verschillende problematische elementen op inhoudelijk, taalkundig en maatschappelijk niveau. Hieronder volgt een overzicht: 1. Discriminerende en racistische uitlatingen “Wij blanke en rasechte Nederlanders worden gezien als uitschot.” “Gelukzoekers die hier kunnen roven, stelen etc en vrij uitgaan!” Deze bewoording...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/Jan_Huzen_is_een_racist/",
+        "teaser": null
+      },{
         "title": "Waarom posten mensen hun verjaardag op social media?",
         "excerpt":"Inleiding Mensen posten om verschillende redenen op sociale media dat ze jarig zijn. Het is een fenomeen dat voortkomt uit een mix van psychologische behoeften, sociale gewoonten en de functionaliteit van de platforms zelf. Hier zijn de belangrijkste redenen: 1. Zoeken naar Verbinding en Sociale Bevestiging De kern van de...","categories": [],
         "tags": [],
         "url": "/muizenissen/socialverjaardag/",
+        "teaser": null
+      },{
+        "title": "De Nacht van de Lange Messen",
+        "excerpt":"Inleiding De Nacht van de Lange Messen, in Duitsland bekend als de “Röhm-Putsch”, was een brutale politieke zuivering die plaatsvond in nazi-Duitsland tussen 30 juni en 2 juli 1934. Op bevel van Adolf Hitler werden tientallen leiders van de Sturmabteilung (SA), de paramilitaire knokploeg van de nazipartij, en andere politieke...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/langemessen/",
         "teaser": null
       },{
         "title": "De Oorsprong van Hamas: Een Diepgaande Analyse van Haar Ontstaan en Vroege Ontwikkeling",

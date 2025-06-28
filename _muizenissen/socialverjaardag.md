@@ -1,6 +1,7 @@
 ---
 title: "Waarom posten mensen hun verjaardag op social media?"
 toc: true
+date: 2025/06/24
 excerpt: "Mensen posten om verschillende redenen op sociale media dat ze jarig zijn. Het is een fenomeen dat voortkomt uit een mix van psychologische behoeften, sociale gewoonten."
 header:
   image: /img/muizenissen/socialbirthday.png

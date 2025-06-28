@@ -1,6 +1,7 @@
 ---
 title: "NAVO en leger krijgen de macht over ons land"
 toc: true
+date: 2025/06/17
 exerpt: "Een grondige analyse van het artikel op indepen.eu met de titel NAVO en leger krijgen de macht over ons land toont aan dat het artikel **onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft.**"
 header:
   image: /img/natoenleger.png
