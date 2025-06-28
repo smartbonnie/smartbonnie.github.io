@@ -185,6 +185,12 @@ var store = [{
         "url": "/vraagstukken/politieetnischprofileren/",
         "teaser": null
       },{
+        "title": "Russische Oorlogsmisdaden.",
+        "excerpt":"Inleiding Sinds de grootschalige Russische invasie van Oekraïne op 24 februari 2022, een significante escalatie van het conflict dat in 2014 begon, is de wereld getuige van een overweldigende hoeveelheid bewijs voor internationale misdrijven. De oorlog heeft onmetelijk menselijk leed veroorzaakt en de grootste vluchtelingencrisis in Europa sinds de Tweede...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/rusoorlogsmis/",
+        "teaser": null
+      },{
         "title": "Woonfraude in Nederland - Een Analyse van Feiten, Framing en Beleid voorbij de Headlines",
         "excerpt":"Introductie: De Vonk van een Nationaal Debat – Deconstructie van het Nieuws Een recent, landelijk debat over woonfraude werd niet ontstoken door een omvangrijk statistisch rapport, maar door een gerichte journalistieke onthulling die een gevoelige maatschappelijke zenuw raakte. De kern van deze discussie vindt zijn oorsprong in een undercoveronderzoek van...","categories": [],
         "tags": [],
