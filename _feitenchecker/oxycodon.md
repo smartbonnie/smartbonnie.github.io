@@ -36,3 +36,7 @@ De bewering dat Israël Oxycodon mengt met meel in hulpzakken is **onwaar en wor
 * Rapporten van de VN en andere grote humanitaire NGO's
 
 Het is altijd raadzaam om zeer ernstige en schokkende beweringen die uitsluitend op sociale media circuleren te controleren bij gevestigde nieuws- en fact-checking organisaties voordat u ze als waar beschouwt.
+
+edit:
+
+[Aljazeera artikel](https://g.co/gemini/share/987b5654b555)
