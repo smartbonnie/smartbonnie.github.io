@@ -125,6 +125,12 @@ var store = [{
         "url": "/personen/markuszower_gidi/",
         "teaser": null
       },{
+        "title": "Thiel Peter",
+        "excerpt":"Inleiding Peter Andreas Thiel is een van de meest raadselachtige en invloedrijke figuren van de 21e eeuw. Geboren als Duitse immigrant, heeft hij zich opgewerkt tot een miljardair-ondernemer, een visionaire durfkapitalist, een geduchte politieke operator en een contrarianistische filosoof wiens ideeën de fundamenten van Silicon Valley en de Amerikaanse politiek...","categories": [],
+        "tags": [],
+        "url": "/personen/thiel_peter/",
+        "teaser": null
+      },{
         "title": "Yeşilgöz-Zegerius, Dilan",
         "excerpt":"Inleiding Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het...","categories": [],
         "tags": [],
