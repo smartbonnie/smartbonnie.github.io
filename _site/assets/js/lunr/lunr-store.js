@@ -95,6 +95,12 @@ var store = [{
         "url": "/organisaties/rearmeurope/",
         "teaser": null
       },{
+        "title": "Wikipedia",
+        "excerpt":"Inleiding: Meer dan een Encyclopedie Wikipedia, gelanceerd in 2001, is uitgegroeid tot een van de meest bezochte websites ter wereld en een hoeksteen van het moderne informatie-ecosysteem. Voor miljarden mensen is het de eerste, en vaak enige, halte in hun zoektocht naar kennis over vrijwel elk denkbaar onderwerp. De naam,...","categories": [],
+        "tags": [],
+        "url": "/organisaties/wikipedia/",
+        "teaser": null
+      },{
         "title": "Angermayer, Christian",
         "excerpt":"Inleiding Dit rapport biedt een uitgebreide analyse van Christian Angermayer, de Duits-geboren miljardair-investeerder, en zijn private investeringsmaatschappij, Apeiron Investment Group. Het onderzoekt zijn persoonlijke en professionele traject, van zijn bescheiden begin tot zijn status als een van de meest spraakmakende en controversiële figuren in de wereldwijde financiële wereld. De kern...","categories": [],
         "tags": [],
