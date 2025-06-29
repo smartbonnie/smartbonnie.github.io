@@ -15,4 +15,4 @@ In deze rubriek vind artikelen die ik tot nu toe over personen heb gepubliceerd.
 
 Waarom? We hebben toch Wikipedia? 
 
-Ja klopt helaas is het een hoop werk om de daar geplaatste info op [bias of leugen](/organidaties/wikipedia/) te controleren.
+Ja klopt helaas is het een hoop werk om de daar geplaatste info op [bias of leugen](/organisaties/wikipedia/) te controleren.
