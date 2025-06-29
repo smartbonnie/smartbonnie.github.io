@@ -143,6 +143,12 @@ var store = [{
         "url": "/personen/ye%C5%9Filg%C3%B6z-zeg~us_dilan/",
         "teaser": null
       },{
+        "title": "Blokken",
+        "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
+        "tags": [],
+        "url": "/vademecum/blokken/",
+        "teaser": null
+      },{
         "title": "Ethiek: Een Gids voor Morele Keuzes",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
