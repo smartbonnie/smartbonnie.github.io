@@ -1,6 +1,7 @@
 ---
 title: "De RAIR foundation"
 toc: true
+date: 2025/06/15
 excerpt: Dit rapport presenteert een gedetailleerd onderzoek naar de financieringsbronnen van de RAIR Foundation USA, diens oprichtster Amy Mekelburg, en de Nederlandse politicus Geert Wilders en zijn Partij voor de Vrijheid (PVV).
 ---
 

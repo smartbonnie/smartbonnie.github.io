@@ -2,6 +2,7 @@
 title: "De Heritage Foundation"
 toc: true
 excerpt: Een uitgebreide analyse over de denktank Heritage Foundation."
+date: 2025/06/17
 header:
   image: /img/organisaties/heritage.png
 ---

@@ -2,6 +2,7 @@
 title: "Europa's Defensieve Wederopbouw: Een Analyse van het ReArm Europe Initiative en de Trans-Atlantische Industriële Competitie"
 toc: true
 excerpt: 'Dit rapport biedt een diepgaande analyse van het "ReArm Europe" initiatief (ook bekend als "Readiness 2030"), een historisch keerpunt in het Europese defensiebeleid.'
+date: 2025/06/26
 header:
   image: /img/organisaties/rearmeu.png
 ---

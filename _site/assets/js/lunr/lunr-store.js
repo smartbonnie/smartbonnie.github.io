@@ -53,10 +53,10 @@ var store = [{
         "url": "/muizenissen/langemessen/",
         "teaser": null
       },{
-        "title": "De Oorsprong van Hamas: Een Diepgaande Analyse van Haar Ontstaan en Vroege Ontwikkeling",
-        "excerpt":"1. Inleiding: De Vraag naar Hamas’ Ontstaan Hamas, een acroniem voor Harakat al-Muqawamah al-Islamiyyah (Islamitische Verzetsbeweging), is een Palestijnse nationalistische soennitisch-islamistische politieke organisatie met een militaire vleugel, de Qassam Brigades. De naam “Hamas” zelf draagt een dubbele betekenis, aangezien het ook het Arabische woord is voor “ijver”, “kracht” of “moed”....","categories": [],
+        "title": "De RAIR foundation",
+        "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
-        "url": "/organisaties/hamas/",
+        "url": "/organisaties/rairfoundation/",
         "teaser": null
       },{
         "title": "De Heritage Foundation",
@@ -77,22 +77,22 @@ var store = [{
         "url": "/organisaties/heritagefoundationiranwar/",
         "teaser": null
       },{
-        "title": "Oxfam Novib",
-        "excerpt":"Oxfam Novib: Een Institutionele Analyse van een Mondiale Ontwikkelingsorganisatie Sectie 1: Samenvatting Dit rapport biedt een diepgaande analyse van Oxfam Novib, de Nederlandse tak van een van ‘s werelds meest invloedrijke confederaties voor ontwikkelingssamenwerking. De organisatie wordt gekenmerkt door een dubbele identiteit: enerzijds is het een diepgewortelde Nederlandse stichting met...","categories": [],
+        "title": "De Oorsprong van Hamas: Een Diepgaande Analyse van Haar Ontstaan en Vroege Ontwikkeling",
+        "excerpt":"1. Inleiding: De Vraag naar Hamas’ Ontstaan Hamas, een acroniem voor Harakat al-Muqawamah al-Islamiyyah (Islamitische Verzetsbeweging), is een Palestijnse nationalistische soennitisch-islamistische politieke organisatie met een militaire vleugel, de Qassam Brigades. De naam “Hamas” zelf draagt een dubbele betekenis, aangezien het ook het Arabische woord is voor “ijver”, “kracht” of “moed”....","categories": [],
         "tags": [],
-        "url": "/organisaties/oxfamnovib/",
-        "teaser": null
-      },{
-        "title": "De RAIR foundation",
-        "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
-        "tags": [],
-        "url": "/organisaties/rairfoundation/",
+        "url": "/organisaties/hamas/",
         "teaser": null
       },{
         "title": "Europa's Defensieve Wederopbouw: Een Analyse van het ReArm Europe Initiative en de Trans-Atlantische Industriële Competitie",
         "excerpt":"Samenvatting Dit rapport biedt een diepgaande analyse van het “ReArm Europe” initiatief (ook bekend als “Readiness 2030”), een historisch keerpunt in het Europese defensiebeleid. Aangespoord door de Russische agressie in Oekraïne en de toenemende onzekerheid over Amerikaanse veiligheidsgaranties, poogt de Europese Unie haar militaire paraatheid en industriële basis fundamenteel te...","categories": [],
         "tags": [],
         "url": "/organisaties/rearmeurope/",
+        "teaser": null
+      },{
+        "title": "Oxfam Novib",
+        "excerpt":"Oxfam Novib: Een Institutionele Analyse van een Mondiale Ontwikkelingsorganisatie Sectie 1: Samenvatting Dit rapport biedt een diepgaande analyse van Oxfam Novib, de Nederlandse tak van een van ‘s werelds meest invloedrijke confederaties voor ontwikkelingssamenwerking. De organisatie wordt gekenmerkt door een dubbele identiteit: enerzijds is het een diepgewortelde Nederlandse stichting met...","categories": [],
+        "tags": [],
+        "url": "/organisaties/oxfamnovib/",
         "teaser": null
       },{
         "title": "Wikipedia",

@@ -2,6 +2,7 @@
 title: "De Heritage Foundation - Europa"
 toc: true
 excerpt: "Dit rapport onderzoekt de complexe relatie tussen de Heritage Foundation, een vooraanstaande conservatieve Amerikaanse denktank, en diverse extreemrechtse bewegingen in Europa. De analyse onthult een significante en evoluerende verbinding, gedreven door gedeelde ideologische beginselen, een wederzijds verlangen om gevestigde liberale democratische normen uit te dagen, en een gecoördineerde inspanning om politieke landschappen op beide continenten te hervormen."
+date: 2025/06/17
 header:
   image: /img/organisaties/heritageeu.png
 ---

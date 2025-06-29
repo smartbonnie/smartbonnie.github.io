@@ -1,6 +1,7 @@
 ---
 title: "De Oorsprong van Hamas: Een Diepgaande Analyse van Haar Ontstaan en Vroege Ontwikkeling"
 toc: true
+date: 2025/06/18
 excerpt: "Hamas, een acroniem voor *Harakat al-Muqawamah al-Islamiyyah* (Islamitische Verzetsbeweging), is een Palestijnse nationalistische soennitisch-islamistische politieke organisatie met een militaire vleugel, de Qassam Brigades."
 header:
   image: /img/organisaties/hamas.jpg

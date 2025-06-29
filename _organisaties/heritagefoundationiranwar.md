@@ -1,6 +1,7 @@
 ---
 title: "De Heritage Foundation - Iran oorlog."
 toc: true
+date: 2025/06/17
 excerpt: "Dit rapport beantwoordt de vraag: Is de Heritage Foundation op enigerlei wijze betrokken bij de aanval van Israël op Iran?. De term betrokkenheid wordt hier niet geïnterpreteerd als directe, operationele deelname aan militaire planning of uitvoering. Er bestaat geen bewijs dat de Heritage Foundation deel uitmaakt van de commandostructuur van de Israel Defense Forces (IDF) of de Israëlische regering. In plaats daarvan wordt betrokkenheid geanalyseerd als een complex, meerlagig concept dat meerdere dimensies omvat: ideologische, beleidsmatige en politieke betrokkenheid. Dit omvat het creëren en propageren van een wereldbeeld waarin militaire actie tegen Iran niet alleen een beleidsoptie is, maar een morele en strategische noodzaak; het ontwikkelen van specifieke beleidsplannen die dergelijke acties rechtvaardigen; en het gebruiken van een invloedrijk netwerk om een politiek klimaat te scheppen dat ontvankelijk is voor deze harde lijn."
 header:
   image: /img/israeliran.png
