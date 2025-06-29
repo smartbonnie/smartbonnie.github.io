@@ -125,6 +125,12 @@ var store = [{
         "url": "/personen/christianangermayer/",
         "teaser": null
       },{
+        "title": "Markuszower, Gidi",
+        "excerpt":"Introductie: De Markuszower-Paradox Dit rapport analyseert het leven en de carrière van Gideon “Gidi” Markuszower, een van de meest invloedrijke en tegelijkertijd meest omstreden figuren in de hedendaagse Nederlandse politiek. Zijn loopbaan wordt gekenmerkt door een fundamentele paradox. Enerzijds is er zijn onmiskenbare opmars tot de inner circle van de...","categories": [],
+        "tags": [],
+        "url": "/personen/markuszower_gidi/",
+        "teaser": null
+      },{
         "title": "Ethiek: Een Gids voor Morele Keuzes",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
