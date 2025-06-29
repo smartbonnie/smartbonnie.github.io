@@ -214,4 +214,10 @@ var store = [{
         "tags": [],
         "url": "/vraagstukken/turkijemensenrechten/",
         "teaser": null
+      },{
+        "title": "IQ en slim links.",
+        "excerpt":"Inleiding: De Vraag op de Snijtafel - Intelligentie en Politieke Kleur De bewering dat hogere intelligentie geassocieerd is met linkse politieke opvattingen is een terugkerend en vaak controversieel onderwerp in het publieke debat. Dit rapport adresseert de vraag “Wat is er waar van deze bewering?” door een diepgaande analyse te...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/slimlinks/",
+        "teaser": null
       }]
