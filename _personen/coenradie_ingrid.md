@@ -1,5 +1,5 @@
 ---
-title: "De Toevallige Opstandeling: De Vuurproef van Ingrid Coenradie."
+title: "Coenradie, Ingid"
 toc: true
 excerpt: "Het politieke verhaal van Ingrid Coenradie wordt onlosmakelijk bepaald door haar bepalende moment: het spraakmakende conflict met PVV-leider Geert Wilders."
 header:

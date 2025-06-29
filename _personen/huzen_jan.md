@@ -1,5 +1,5 @@
 ---
-title: "Jan Huzen en de Burgergrenscontroles."
+title: "Huzen, Jan"
 toc: true
 header:
   image: /img/personen/jan_huzen.png

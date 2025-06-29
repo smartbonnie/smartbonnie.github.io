@@ -1,5 +1,5 @@
 ---
-title: "Max van den Berg"
+title: "Berg, van den Max"
 toc: true
 excerpt: "Kleine biografie van de Fakkeldrager"
 header:

@@ -95,40 +95,40 @@ var store = [{
         "url": "/organisaties/rearmeurope/",
         "teaser": null
       },{
-        "title": "Max van den Berg",
-        "excerpt":"1. Introductie: De Ontmaskering van “De Fakkeldrager” Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias “de fakkeldrager,” representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van...","categories": [],
-        "tags": [],
-        "url": "/personen/Berg_vd_Max/",
-        "teaser": null
-      },{
-        "title": "Jan Huzen en de Burgergrenscontroles.",
-        "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
-        "tags": [],
-        "url": "/personen/Huzen_Jan/",
-        "teaser": null
-      },{
-        "title": "De Toevallige Opstandeling: De Vuurproef van Ingrid Coenradie.",
-        "excerpt":"Inleiding Het politieke verhaal van Ingrid Coenradie wordt onlosmakelijk bepaald door haar bepalende moment: het spraakmakende conflict met PVV-leider Geert Wilders. Deze botsing was niet louter een beleidsgeschil, maar een vuurproef die haar nationale identiteit smeedde en een fundamentele spanning binnen de rechtse politieke beweging in Nederland blootlegde: de botsing...","categories": [],
-        "tags": [],
-        "url": "/personen/Ingrid_Coenradie/",
-        "teaser": null
-      },{
-        "title": "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider",
-        "excerpt":"Inleiding Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het...","categories": [],
-        "tags": [],
-        "url": "/personen/Ye%C5%9Filg%C3%B6z-Zegerius_Dilan/",
-        "teaser": null
-      },{
-        "title": "Christian Angermayer",
+        "title": "Angermayer, Christian",
         "excerpt":"Inleiding Dit rapport biedt een uitgebreide analyse van Christian Angermayer, de Duits-geboren miljardair-investeerder, en zijn private investeringsmaatschappij, Apeiron Investment Group. Het onderzoekt zijn persoonlijke en professionele traject, van zijn bescheiden begin tot zijn status als een van de meest spraakmakende en controversiële figuren in de wereldwijde financiële wereld. De kern...","categories": [],
         "tags": [],
-        "url": "/personen/christianangermayer/",
+        "url": "/personen/angermayer_christian/",
+        "teaser": null
+      },{
+        "title": "Berg, van den Max",
+        "excerpt":"1. Introductie: De Ontmaskering van “De Fakkeldrager” Max van den Berg, een naam die in de Nederlandse publieke sfeer onlosmakelijk verbonden is geraakt met de alias “de fakkeldrager,” representeert een controversieel figuur binnen het activistische landschap. Deze bijnaam vindt zijn directe oorsprong in een specifiek, breed uitgemeten incident waarbij Van...","categories": [],
+        "tags": [],
+        "url": "/personen/berg_vd_max/",
+        "teaser": null
+      },{
+        "title": "Coenradie, Ingid",
+        "excerpt":"Inleiding Het politieke verhaal van Ingrid Coenradie wordt onlosmakelijk bepaald door haar bepalende moment: het spraakmakende conflict met PVV-leider Geert Wilders. Deze botsing was niet louter een beleidsgeschil, maar een vuurproef die haar nationale identiteit smeedde en een fundamentele spanning binnen de rechtse politieke beweging in Nederland blootlegde: de botsing...","categories": [],
+        "tags": [],
+        "url": "/personen/coenradie_ingrid/",
+        "teaser": null
+      },{
+        "title": "Huzen, Jan",
+        "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
+        "tags": [],
+        "url": "/personen/huzen_jan/",
         "teaser": null
       },{
         "title": "Markuszower, Gidi",
         "excerpt":"Introductie: De Markuszower-Paradox Dit rapport analyseert het leven en de carrière van Gideon “Gidi” Markuszower, een van de meest invloedrijke en tegelijkertijd meest omstreden figuren in de hedendaagse Nederlandse politiek. Zijn loopbaan wordt gekenmerkt door een fundamentele paradox. Enerzijds is er zijn onmiskenbare opmars tot de inner circle van de...","categories": [],
         "tags": [],
         "url": "/personen/markuszower_gidi/",
+        "teaser": null
+      },{
+        "title": "Yeşilgöz-Zegerius, Dilan",
+        "excerpt":"Inleiding Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het...","categories": [],
+        "tags": [],
+        "url": "/personen/ye%C5%9Filg%C3%B6z-zeg~us_dilan/",
         "teaser": null
       },{
         "title": "Ethiek: Een Gids voor Morele Keuzes",

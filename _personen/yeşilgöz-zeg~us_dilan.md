@@ -1,5 +1,5 @@
 ---
-title: "Dilan Yeşilgöz-Zegerius. Een portret van een politiek leider"
+title: "Yeşilgöz-Zegerius, Dilan"
 toc: true
 excerpt: "Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek."
 header:

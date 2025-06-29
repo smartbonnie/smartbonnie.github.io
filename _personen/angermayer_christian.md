@@ -1,5 +1,5 @@
 ---
-title: 'Christian Angermayer'
+title: 'Angermayer, Christian'
 excerpt: 'Christian Angermayer & Apeiron Investment Group: Een Analytische Diepgaande Studie van de Architect van de "Next Human Agenda"'
 toc: true
 date: 2025/06/29
