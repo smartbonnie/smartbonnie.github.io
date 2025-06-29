@@ -119,6 +119,12 @@ var store = [{
         "url": "/personen/Ye%C5%9Filg%C3%B6z-Zegerius_Dilan/",
         "teaser": null
       },{
+        "title": "Christian Angermayer",
+        "excerpt":"Inleiding Dit rapport biedt een uitgebreide analyse van Christian Angermayer, de Duits-geboren miljardair-investeerder, en zijn private investeringsmaatschappij, Apeiron Investment Group. Het onderzoekt zijn persoonlijke en professionele traject, van zijn bescheiden begin tot zijn status als een van de meest spraakmakende en controversiële figuren in de wereldwijde financiële wereld. De kern...","categories": [],
+        "tags": [],
+        "url": "/personen/christianangermayer/",
+        "teaser": null
+      },{
         "title": "Ethiek: Een Gids voor Morele Keuzes",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
