@@ -161,6 +161,12 @@ var store = [{
         "url": "/vademecum/populisme/",
         "teaser": null
       },{
+        "title": "Zionisme",
+        "excerpt":"Inleiding Zionisme is een politieke en ideologische beweging die aan het einde van de 19e eeuw opkwam met als primair doel het stichten en onderhouden van een Joodse staat in het historische land van Israël, door zionisten aangeduid als Eretz Yisrael. Het woord is afgeleid van “Zion” (Sion), een heuvel...","categories": [],
+        "tags": [],
+        "url": "/vademecum/zionisme/",
+        "teaser": null
+      },{
         "title": "Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse",
         "excerpt":"I. Introductie: Geert Wilders’ Tienpunten Migratieplan en de Noodzaak van Juridische en Ethische Toetsing Wat is ethiek Recentelijk heeft Geert Wilders, leider van de Partij voor de Vrijheid (PVV), een tienpuntenplan gepresenteerd dat gericht is op het radicaal terugdringen van migratie naar Nederland. Dit plan, vaak met een zekere urgentie...","categories": [],
         "tags": [],
