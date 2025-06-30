@@ -119,6 +119,12 @@ var store = [{
         "url": "/personen/coenradie_ingrid/",
         "teaser": null
       },{
+        "title": "Duk, Wierd",
+        "excerpt":"Inleiding: Kroniekschrijver van een Natie ‘op Drift’ Wierd Duk is meer dan een columnist voor De Telegraaf; hij is een significante culturele en politieke figuur wiens carrièrepad een belangrijke breuklijn in de Nederlandse samenleving weerspiegelt en mede vormgeeft. Zijn status als een van de “meest besproken journalisten van Nederland” vraagt...","categories": [],
+        "tags": [],
+        "url": "/personen/duk_wierd/",
+        "teaser": null
+      },{
         "title": "Huzen, Jan",
         "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
         "tags": [],
