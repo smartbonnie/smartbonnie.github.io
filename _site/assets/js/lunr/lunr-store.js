@@ -262,4 +262,10 @@ var store = [{
         "tags": [],
         "url": "/vraagstukken/slimlinks/",
         "teaser": null
+      },{
+        "title": "Moderne slavernij.",
+        "excerpt":"Inleiding: Voorbij de Ketenen van het Verleden Hoewel de formele afschaffing van de trans-Atlantische slavenhandel en slavernij in de 19e eeuw een mijlpaal in de menselijke geschiedenis markeert, is de overtuiging dat slavernij daarmee volledig tot het verleden behoort een gevaarlijke misvatting. In de 21e eeuw manifesteert dit onrecht zich...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/moderneslavernij/",
+        "teaser": null
       }]
