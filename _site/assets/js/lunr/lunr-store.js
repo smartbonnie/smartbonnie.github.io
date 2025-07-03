@@ -101,6 +101,12 @@ var store = [{
         "url": "/organisaties/wikipedia/",
         "teaser": null
       },{
+        "title": "De Gaza Humanitarian Foundation",
+        "excerpt":"Inleiding: Een Verergerde Crisis Begin 2025 bevond de Gazastrook zich in de greep van een humanitaire catastrofe van ongekende omvang. Na de gebeurtenissen van 7 oktober 2023 en de daaropvolgende Israëlische militaire operaties, was de regio onderworpen aan meer dan 600 dagen van bombardementen, gedwongen ontheemding en een bijna twee...","categories": [],
+        "tags": [],
+        "url": "/organisaties/ghf/",
+        "teaser": null
+      },{
         "title": "Angermayer, Christian",
         "excerpt":"Inleiding Dit rapport biedt een uitgebreide analyse van Christian Angermayer, de Duits-geboren miljardair-investeerder, en zijn private investeringsmaatschappij, Apeiron Investment Group. Het onderzoekt zijn persoonlijke en professionele traject, van zijn bescheiden begin tot zijn status als een van de meest spraakmakende en controversiële figuren in de wereldwijde financiële wereld. De kern...","categories": [],
         "tags": [],
