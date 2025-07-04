@@ -274,4 +274,10 @@ var store = [{
         "tags": [],
         "url": "/vraagstukken/moderneslavernij/",
         "teaser": null
+      },{
+        "title": "De PVV stemmer.",
+        "excerpt":"Inleiding: Voorbij het Stereotype van de ‘Boze Burger’ Dit rapport beoogt een diepgaand psychologisch profiel van de gemiddelde PVV-stemmer te construeren. De centrale vraag is niet enkel wat deze kiezer stemt, maar waarom. Dit vereist een analyse die verder gaat dan de oppervlakte van het politieke debat en doordringt tot...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/pvvstemmer/",
+        "teaser": null
       }]
