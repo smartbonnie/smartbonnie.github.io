@@ -149,6 +149,12 @@ var store = [{
         "url": "/personen/thiel_peter/",
         "teaser": null
       },{
+        "title": "Wagenknecht, Sahra",
+        "excerpt":"Inleiding: Het Fenomeen Wagenknecht in de Duitse Politiek Sahra Wagenknecht is ongetwijfeld een van de meest dwingende en polariserende figuren in de Duitse politiek van na de hereniging. Haar carrière is een studie in tegenstellingen: een reis van een orthodox-communistische ideologe, geworteld in de tradities van de DDR, tot de...","categories": [],
+        "tags": [],
+        "url": "/personen/wagenknecht_sahra/",
+        "teaser": null
+      },{
         "title": "Yeşilgöz-Zegerius, Dilan",
         "excerpt":"Inleiding Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het...","categories": [],
         "tags": [],
