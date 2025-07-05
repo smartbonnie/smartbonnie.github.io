@@ -131,6 +131,12 @@ var store = [{
         "url": "/personen/duk_wierd/",
         "teaser": null
       },{
+        "title": "Bontenbal, Henri",
+        "excerpt":"Inleiding Dit rapport biedt een diepgaande analyse van Hendrik “Henri” Bontenbal, de politiek leider van het Christen-Democratisch Appèl (CDA). Het onderzoekt zijn opkomst van een technocratisch expert tot de onwaarschijnlijke leider die de taak heeft een partij in crisis nieuw leven in te blazen. De analyse toont aan dat Bontenbals...","categories": [],
+        "tags": [],
+        "url": "/personen/bontenbal_henri/",
+        "teaser": null
+      },{
         "title": "Huzen, Jan",
         "excerpt":"I. Introductie: Het Ter Apel Incident en de Emergentie van Jan Huzen A. Overzicht van de Burgergrenscontroles In het weekend van 7 en 8 juni 2025 vond bij de grensovergang tussen Ter Apel in Nederland en het Duitse Rütenbrock een spraakmakend incident plaats. Een groep van meer dan tien personen...","categories": [],
         "tags": [],
