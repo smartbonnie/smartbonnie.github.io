@@ -197,6 +197,12 @@ var store = [{
         "url": "/vademecum/zionisme/",
         "teaser": null
       },{
+        "title": "Burgerpanel Rechtstaat",
+        "excerpt":"Ik heb tot Maart 2024 meegedraaid in het burgerpanel Staatscommissie Rechtstaat. hier vind je een verslag en het complete rapport dat daaruit voortkwam. Ik ben er trots op dat het puntje ervaringsdeskundigen onder andere (er waren nog drie) door mij later bij de discussies werd toegevoegd. Na gemeentelijke avonden, werden...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/scrs/",
+        "teaser": null
+      },{
         "title": "Ethische en Wettelijke Bezwaren tegen het Tienpuntenplan van Geert Wilders en Gerelateerde PVV-Voorstellen: Een Juridische Analyse",
         "excerpt":"I. Introductie: Geert Wilders’ Tienpunten Migratieplan en de Noodzaak van Juridische en Ethische Toetsing Wat is ethiek Recentelijk heeft Geert Wilders, leider van de Partij voor de Vrijheid (PVV), een tienpuntenplan gepresenteerd dat gericht is op het radicaal terugdringen van migratie naar Nederland. Dit plan, vaak met een zekere urgentie...","categories": [],
         "tags": [],
