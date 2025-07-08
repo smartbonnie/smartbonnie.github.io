@@ -1,14 +1,20 @@
 var store = [{
-        "title": "NAVO en leger krijgen de macht over ons land",
-        "excerpt":"Inleiding Een grondige analyse van het artikel op indepen.eu met de titel “NAVO en leger krijgen de macht over ons land” toont aan dat het artikel onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft. Het artikel mengt bestaande wetgeving en internationale verdragen, maar ontdoet deze...","categories": [],
-        "tags": [],
-        "url": "/feitenchecker/navomachtoverland/",
-        "teaser": null
-      },{
         "title": "Israel mengt Oxycodon door hulpgoederen.",
         "excerpt":"Ik heb de bewering in de afbeelding onderzocht. Hier is een analyse van de informatie en de betrouwbaarheid van de bronnen. Analyse van de bewering De afbeelding bevat een tweet van een persoon genaamd Omar Hamad, die beweert een apotheker te zijn. De kern van de bewering is dat Israël...","categories": [],
         "tags": [],
         "url": "/feitenchecker/oxycodon/",
+        "teaser": null
+      },{
+        "title": "Ontmantelings kosten kernenergie.",
+        "excerpt":"Inleiding De energietransitie vereist omvangrijke investeringen in nieuwe opwekcapaciteit. Een volledige economische afweging van deze investeringen kan echter niet stoppen bij de bouw- en operationele kosten; de kosten en verplichtingen aan het einde van de levensduur, de zogenaamde ontmantelings- of afbouwkosten, zijn een integraal en onvermijdelijk onderdeel van de totale...","categories": [],
+        "tags": [],
+        "url": "/feitenchecker/ka-terrawatt",
+        "teaser": null
+      },{
+        "title": "NAVO en leger krijgen de macht over ons land",
+        "excerpt":"Inleiding Een grondige analyse van het artikel op indepen.eu met de titel “NAVO en leger krijgen de macht over ons land” toont aan dat het artikel onwaarheden bevat en voornamelijk een zeer misleidende en alarmistische interpretatie van feiten geeft. Het artikel mengt bestaande wetgeving en internationale verdragen, maar ontdoet deze...","categories": [],
+        "tags": [],
+        "url": "/feitenchecker/navomachtoverland/",
         "teaser": null
       },{
         "title": "Feit, Fictie en de Financiering van Invloed: Een Diepgaande Analyse van de Controverse rond de EU-Commissie en NGO's",
