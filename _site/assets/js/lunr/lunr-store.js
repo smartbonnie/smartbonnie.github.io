@@ -167,6 +167,12 @@ var store = [{
         "url": "/personen/wagenknecht_sahra/",
         "teaser": null
       },{
+        "title": "Wilders, Geert",
+        "excerpt":"I. Inleiding: De Onontkoombare Figuur in de Nederlandse Politiek Geert Wilders is ontegenzeggelijk de meest invloedrijke, transformerende en polariserende figuur in de Nederlandse politiek van de 21e eeuw. Als het langstzittende actieve lid van de Tweede Kamer heeft hij een politieke reis afgelegd die zonder precedent is: van een loyale...","categories": [],
+        "tags": [],
+        "url": "/personen/wilders_geert/",
+        "teaser": null
+      },{
         "title": "Yeşilgöz-Zegerius, Dilan",
         "excerpt":"Inleiding Dilan Yeşilgöz-Zegerius heeft zich in relatief korte tijd ontpopt tot een van de meest prominente figuren in de Nederlandse politiek. Als huidig politiek leider van de Volkspartij voor Vrijheid en Democratie (VVD) sinds augustus 2023 en fractievoorzitter in de Tweede Kamer sinds december 2023 , staat zij aan het...","categories": [],
         "tags": [],
