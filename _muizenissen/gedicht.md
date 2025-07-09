@@ -1,6 +1,6 @@
 ---
 title: 'LLM gedicht test'
-excerpt: 'Door toeval kwam ik op een prompt die voir de meeste LLM een onoplosbare uitdaging is. DeepSeek is de eerste die hem oploste.'
+excerpt: 'Door toeval kwam ik op een prompt die voor de meeste LLM een onoplosbare uitdaging is. DeepSeek is de eerste die hem oploste.'
 toc: true
 date: 2025/07/09
 author: 'smartbonnie'
