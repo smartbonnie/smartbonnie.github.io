@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "LLM gedicht test",
-        "excerpt":"Inleidint Door toeval kwam ik op een prompt die voor de meeste LLM een onoplosbare uitdaging is. DeepSeek is de eerste die hem oploste. Prompt Maak een gedicht over de warme zomer. De eerste regel heeft 24 letters, vervolgens heeft iedere volgende regel 1 letter minder. Interpuncties en spaties tellen...","categories": [],
+        "excerpt":"Inleiding Door toeval kwam ik op een prompt die voor de meeste LLM een onoplosbare uitdaging is. DeepSeek is de eerste die hem oploste. Prompt Maak een gedicht over de warme zomer. De eerste regel heeft 24 letters, vervolgens heeft iedere volgende regel 1 letter minder. Interpuncties en spaties tellen...","categories": [],
         "tags": [],
         "url": "/muizenissen/gedicht/",
         "teaser": null

@@ -9,7 +9,7 @@ header:
   image: /img/muizenissen/gedicht.png
 ---
 
-## **Inleidint**
+## **Inleiding**
 
 Door toeval kwam ik op een prompt die voor de meeste LLM een onoplosbare uitdaging is. DeepSeek is de eerste die hem oploste.
 
