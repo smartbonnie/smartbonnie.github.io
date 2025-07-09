@@ -59,6 +59,12 @@ var store = [{
         "url": "/muizenissen/langemessen/",
         "teaser": null
       },{
+        "title": "LLM gedicht test",
+        "excerpt":"Inleidint Door toeval kwam ik op een prompt die voor de meeste LLM een onoplosbare uitdaging is. DeepSeek is de eerste die hem oploste. Prompt Maak een gedicht over de warme zomer. De eerste regel heeft 24 letters, vervolgens heeft iedere volgende regel 1 letter minder. Interpuncties en spaties tellen...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/gedicht/",
+        "teaser": null
+      },{
         "title": "De RAIR foundation",
         "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
