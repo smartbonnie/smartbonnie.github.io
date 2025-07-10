@@ -316,4 +316,10 @@ var store = [{
         "tags": [],
         "url": "/vraagstukken/pvvstemmer/",
         "teaser": null
+      },{
+        "title": "Vlucht MH17",
+        "excerpt":"Inleiding: De Dag dat de Hemel Viel Op donderdag 17 juli 2014 vertrok een Boeing 777 van Malaysia Airlines van luchthaven Schiphol voor een routinevlucht naar Kuala Lumpur. Deze vlucht, MH17, zou haar bestemming echter nooit bereiken. Boven het door conflict verscheurde oosten van Oekraïne verdween het toestel van de...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/mh17/",
+        "teaser": null
       }]
