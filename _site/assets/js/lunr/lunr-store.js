@@ -322,4 +322,10 @@ var store = [{
         "tags": [],
         "url": "/vraagstukken/mh17/",
         "teaser": null
+      },{
+        "title": "De Nederlandse Drinkwatervoorziening.",
+        "excerpt":"Inleiding De Nederlandse drinkwatervoorziening, lange tijd een toonbeeld van betrouwbaarheid en kwaliteit, bevindt zich op een kritiek keerpunt. Dit rapport presenteert een diepgaande analyse van de huidige staat en de toekomstige uitdagingen van dit vitale systeem. De centrale conclusie is dat de voorziening wordt geconfronteerd met een dubbele crisis: een...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/water/",
+        "teaser": null
       }]
