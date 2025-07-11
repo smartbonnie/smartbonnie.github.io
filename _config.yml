@@ -114,6 +114,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _verkiezingen2025
+  - scope:
+      path: ""
+      type: verkiezingen2025
+    values:
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
 
 
 locale: "nl-Nl"
@@ -153,4 +163,6 @@ collections:
   ftm:
     output: true
     permalink: /:collection/:path/
-
+  verkiezingen2025:
+    output: true
+    permalink: /:collection/:path/

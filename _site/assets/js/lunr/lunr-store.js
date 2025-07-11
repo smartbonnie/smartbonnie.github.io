@@ -221,6 +221,36 @@ var store = [{
         "url": "/vademecum/zionisme/",
         "teaser": null
       },{
+        "title": "**5. Het Nederlandse verdienmodel.**",
+        "excerpt":"Inleiding. Nederland bevindt zich op een historisch keerpunt. Het tijdperk van gunstige globalisering, dat decennialang de stabiele, op regels gebaseerde pijler was onder ons verdienmodel en onze welvaart, is ten einde. De wereld is fundamenteel veranderd: een fragmenterende wereldorde, gekenmerkt door toenemende geopolitieke spanningen, opkomend protectionisme en de ‘weaponization’ van...","categories": [],
+        "tags": [],
+        "url": "/verkiezingen2025/verdienen/",
+        "teaser": null
+      },{
+        "title": "**4. De Wooncrisis.**",
+        "excerpt":"Inleiding: Een Systeemcrisis met Verstrekkende Gevolgen De Nederlandse wooncrisis is uitgegroeid tot een fenomeen dat de dagelijkse realiteit van miljoenen burgers definieert en de fundamenten van de samenleving onder druk zet. Dit rapport stelt dat de crisis niet langer kan worden beschouwd als een conjunctureel of tijdelijk tekort aan woningen....","categories": [],
+        "tags": [],
+        "url": "/verkiezingen2025/wonen/",
+        "teaser": null
+      },{
+        "title": "**3. De verzorgingsstaat onder druk.**",
+        "excerpt":"Inleiding De Nederlandse verzorgingsstaat, een fundament van maatschappelijke solidariteit, staat voor zijn grootste uitdaging sinds de naoorlogse opbouw. Een onomkeerbare demografische transitie, gekenmerkt door een diepgaande en structurele vergrijzing, een stijgende levensverwachting en een krimpende beroepsbevolking, ondermijnt de financiële en personele grondslagen van het stelsel. De verhouding tussen degenen die...","categories": [],
+        "tags": [],
+        "url": "/verkiezingen2025/verzorging/",
+        "teaser": null
+      },{
+        "title": "**2. De vertrouwens crisis.**",
+        "excerpt":"Inleiding: De Anatomie van een Vertrouwensbreuk De relatie tussen de Nederlandse burger en zijn overheid bevindt zich in een diepe crisis. Het vertrouwen in het probleemoplossend vermogen van de staat heeft een historisch dieptepunt bereikt, een ontwikkeling die door het Sociaal en Cultureel Planbureau (SCP) wordt gekwalificeerd als een directe...","categories": [],
+        "tags": [],
+        "url": "/verkiezingen2025/vertrouwen/",
+        "teaser": null
+      },{
+        "title": "**1. De stikstof crisis.**",
+        "excerpt":"Hoofdstuk 1: De Anatomie van de Impasse: Ecologie en Recht in Conflict Nederland bevindt zich in een diepe en hardnekkige crisis die de maatschappelijke en economische ontwikkeling verlamt. De stikstofcrisis, zoals deze algemeen bekend staat, is echter geen geïsoleerd milieuprobleem. Het is het acute en meest zichtbare symptoom van een...","categories": [],
+        "tags": [],
+        "url": "/verkiezingen2025/stikstof/",
+        "teaser": null
+      },{
         "title": "Burgerpanel Rechtstaat",
         "excerpt":"Ik heb tot Maart 2024 meegedraaid in het burgerpanel Staatscommissie Rechtstaat. hier vind je een verslag en het complete rapport dat daaruit voortkwam. Ik ben er trots op dat het puntje ervaringsdeskundigen onder andere (er waren nog drie) door mij later bij de discussies werd toegevoegd. Na gemeentelijke avonden, werden...","categories": [],
         "tags": [],
