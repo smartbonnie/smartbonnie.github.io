@@ -191,6 +191,12 @@ var store = [{
         "url": "/vademecum/blokken/",
         "teaser": null
       },{
+        "title": "Bookmarks",
+        "excerpt":"A      AIVD rapport nationale dreigingen 2024  ","categories": [],
+        "tags": [],
+        "url": "/vademecum/bookmarks/",
+        "teaser": null
+      },{
         "title": "Ethiek: Een Gids voor Morele Keuzes",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
@@ -327,5 +333,11 @@ var store = [{
         "excerpt":"Inleiding De Nederlandse drinkwatervoorziening, lange tijd een toonbeeld van betrouwbaarheid en kwaliteit, bevindt zich op een kritiek keerpunt. Dit rapport presenteert een diepgaande analyse van de huidige staat en de toekomstige uitdagingen van dit vitale systeem. De centrale conclusie is dat de voorziening wordt geconfronteerd met een dubbele crisis: een...","categories": [],
         "tags": [],
         "url": "/vraagstukken/water/",
+        "teaser": null
+      },{
+        "title": "CO2 systeemcrisis",
+        "excerpt":"Inleiding Dit rapport biedt een uitputtende analyse van de Nederlandse klimaatproblematiek, de impact ervan, de voornaamste veroorzakers en de geïmplementeerde oplossingsstrategieën. De centrale bevinding is dat Nederland zich in een paradoxale situatie bevindt: enerzijds zijn er wettelijk verankerde, ambitieuze klimaatdoelen die tot de strengste ter wereld behoren, anderzijds wordt de...","categories": [],
+        "tags": [],
+        "url": "/vraagstukken/co2/",
         "teaser": null
       }]
