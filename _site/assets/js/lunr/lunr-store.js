@@ -65,6 +65,12 @@ var store = [{
         "url": "/muizenissen/gedicht/",
         "teaser": null
       },{
+        "title": "Nexit: Voordelen, Nadelen en Gevolgen",
+        "excerpt":"Inleiding De term “Nexit” verwijst naar het hypothetische scenario waarin Nederland besluit de Europese Unie (EU) te verlaten, vergelijkbaar met de Brexit van het Verenigd Koninkrijk. Het idee van een Nexit is voornamelijk besproken door eurosceptische partijen en individuen in Nederland, die argumenteren dat Nederland beter af zou zijn buiten...","categories": [],
+        "tags": [],
+        "url": "/muizenissen/nexit/",
+        "teaser": null
+      },{
         "title": "De RAIR foundation",
         "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
