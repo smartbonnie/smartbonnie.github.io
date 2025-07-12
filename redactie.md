@@ -8,7 +8,7 @@ header:
 
 ## **Inleiding**
 
-De artikelen op deze website komen tot stand via een samenwerking tussen mens en kunstmatige intelligentie. Ik gebruik Google Gemini Pro om onderwerpen diepgaand te onderzoeken. Mijn workflow is als volgt:
+De artikelen op deze website komen tot stand via een samenwerking tussen mens en kunstmatige intelligentie. Ik gebruik ~~Google Gemini Pro~~ Le Chat Pro om onderwerpen diepgaand te onderzoeken. Mijn workflow is als volgt:
 
 1. Ik kies een relevant onderzoeksthema.  
 2. De AI genereert een eerste concept op basis van mijn instructies.  
@@ -27,18 +27,25 @@ De uiteindelijke redactionele verantwoordelijkheid ligt daarom altijd bij mij. E
 
 Over dit proces wil ik ook nog iets kwijt. Het is namelijk zo dat in de toekomst iedereen op deze manier zijn nieuws kan vergaren. Dit is dus wat men bedoelt als men het heeft over Ai die het internet vervangt. 
 
-Het gevaar schuilt hem in de makers van de betreffende Ai, in hoe ver heeft een model een bias. Daarom blijft de redactie en kennis van de redacteur cruciaal.
+Het gevaar schuilt hem in de makers van de betreffende Ai, zoals je ook onder kunt lezen, in hoe ver heeft een model een bias. Daarom blijft de redactie en kennis van de redacteur cruciaal.
 
 ## Mijn toolkit
 
 * Obsidian
 * Github en git
-* Google Gemini 2.5 Pro
+* ~~Google Gemini 2.5 Pro~~
+* Le Chat Pro
 * Flipboard
 * Opera browser
 * Termux
 * Samsung Galaxy S24 Ultra
 * Goed stel hersens
+
+Ik heb besloten met Amerikaanse producten te stoppen nadat eerst GROK volledig Hitler ging, maar nog erger [de bemoeienis van de Amerikaanse overheid](https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking?utm_source=flipboard&utm_content=topic/chatbot)
+die er toe kan leiden dat deze producten zonder waarschuwing misleidende info kunnen gaan verspreiden.
+{: .notice--danger}
+
+Le Chat is een product van [mistral.ai](https://mistral.ai/) een Frans bedrijf en daardoor veiliger.
 
 ## Reacties via Email
 
