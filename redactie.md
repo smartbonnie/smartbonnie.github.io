@@ -2,6 +2,8 @@
 title: Colofon
 toc: true
 layout: single
+date: 2025/06/11
+last_modified_at: 2025/07/12
 header:
   image: /img/redactie.png
 ---
