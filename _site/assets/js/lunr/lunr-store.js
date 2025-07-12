@@ -198,7 +198,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bookmarks",
-        "excerpt":"A      AIVD rapport nationale dreigingen 2024  ","categories": [],
+        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate  ","categories": [],
         "tags": [],
         "url": "/vademecum/bookmarks/",
         "teaser": null
