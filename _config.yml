@@ -130,6 +130,18 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # _tweets
+  - scope:
+      path: ""
+      type: tweets
+    values:
+      toc: true
+      toc_label: "Index."
+      show_date: true
+      read_time: true
+      layout: single
+      author_profile: true
+      share: true
   # _verkiezingen2025
   - scope:
       path: ""
@@ -179,6 +191,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   ftm:
+    output: true
+    permalink: /:collection/:path/
+  tweets:
     output: true
     permalink: /:collection/:path/
   verkiezingen2025:

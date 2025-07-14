@@ -191,6 +191,12 @@ var store = [{
         "url": "/personen/ye%C5%9Filg%C3%B6z-zeg~us_dilan/",
         "teaser": null
       },{
+        "title": "Wilders: Islam is the biggest existential threat.",
+        "excerpt":"Inleiding Deze analyse richt zich op een tweet van Geert Wilders, een bekende Nederlandse politicus. De tweet bevat een uitspraak die als controversieel kan worden beschouwd. In dit rapport zullen we de verschillende aspecten van deze tweet bespreken en waarom deze als problematisch kan worden gezien. Analyse van de Tweet...","categories": [],
+        "tags": [],
+        "url": "/tweets/geert1/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
