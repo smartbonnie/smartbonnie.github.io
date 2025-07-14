@@ -209,6 +209,12 @@ var store = [{
         "url": "/tweets/geert1/",
         "teaser": null
       },{
+        "title": "Wettelijke Context van Discriminatie in Onderwijs",
+        "excerpt":"Inleiding In Nederland is de vrijheid van onderwijs vastgelegd in artikel 23 van de Grondwet. Dit artikel garandeert het recht om scholen op te richten en in stand te houden op basis van religieuze, levensbeschouwelijke of onderwijskundige overtuigingen. Artikel 23 van de Grondwet Artikel 23 van de Nederlandse Grondwet stelt...","categories": [],
+        "tags": [],
+        "url": "/tweets/wilders2/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
