@@ -71,6 +71,18 @@ var store = [{
         "url": "/muizenissen/nexit/",
         "teaser": null
       },{
+        "title": "Een Ontmoeting met Impact",
+        "excerpt":"Zojuist heb ik mijn eerste ontmoeting gehad met iemand die echt geraakt is door wat er in Amerika gebeurt met ICE. Ik ontmoette die persoon in een spel. En ik vertel er niet meer over om haar te beschermen. Ze maakte zich zorgen over een auto die door haar buurt...","categories": ["reflectie"],
+        "tags": [],
+        "url": "/muizenissen/reflexie/",
+        "teaser": null
+      },{
+        "title": "A meeting with Impact",
+        "excerpt":"I just had my first encounter with someone truly affected by what’s happening in America with ICE. I met this person in a game, and I won’t say more to protect her. She was worried about a car driving through her neighborhood. Our first thought was to call 911 and...","categories": ["reflection"],
+        "tags": [],
+        "url": "/muizenissen/reflexie_en/",
+        "teaser": null
+      },{
         "title": "De RAIR foundation",
         "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
