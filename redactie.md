@@ -3,7 +3,7 @@ title: Colofon
 toc: true
 layout: single
 date: 2025/06/11
-last_modified_at: 2025/07/12
+last_modified_at: 2025/07/15
 header:
   image: /img/redactie.png
 ---
@@ -43,13 +43,13 @@ Het gevaar schuilt hem in de makers van de betreffende Ai, zoals je ook onder ku
 * Samsung Galaxy S24 Ultra
 * Goed stel hersens
 
+
 Ik heb besloten met Amerikaanse producten te stoppen nadat eerst GROK volledig Hitler ging, maar nog erger [de bemoeienis van de Amerikaanse overheid](https://www.theverge.com/news/704851/missouri-ag-andrew-bailey-investigation-ai-chatbots-trump-ranking?utm_source=flipboard&utm_content=topic/chatbot)
-die er toe kan leiden dat deze producten zonder waarschuwing misleidende info kunnen gaan verspreiden.
+die er toe kan leiden dat deze producten zonder waarschuwing misleidende info kunnen gaan verspreiden. Hieronder volgt een lijst met verdere bemoeienis van de US overheid.
 
-* 2025/07/15 [The campaign to make it illegal for ChatGPT to criticize Trump](https://www.platformer.news/andrew-bailey-chatgpt-trump-jawboning-legal-case/?utm_source=flipboard&utm_content=topic%2Fu.s.politics)
-* 2025/07/15 [Trump Admin Announces $200 Million Contract for Musk's AI After Grok Hitler Incident](https://www.commondreams.org/news/elon-musk-ai?utm_source=flipboard&utm_content=topic%2Felonmusk)
-* 2025/07/15 [US government awards up to $200m AI work to Anthropic, OpenAI](https://www.techinasia.com/news/us-government-awards-up-to-200m-ai-work-to-anthropic-openai)
-
+* 2025/07/15 [The campaign to make it illegal for ChatGPT to criticize Trump](https://www.platformer.news/andrew-bailey-chatgpt-trump-jawboning-legal-case/?utm_source=flipboard&utm_content=topic%2Fu.s.politics)  
+* 2025/07/15 [Trump Admin Announces $200 Million Contract for Musk's AI After Grok Hitler Incident](https://www.commondreams.org/news/elon-musk-ai?utm_source=flipboard&utm_content=topic%2Felonmusk)  
+* 2025/07/15 [US government awards up to $200m AI work to Anthropic, OpenAI](https://www.techinasia.com/news/us-government-awards-up-to-200m-ai-work-to-anthropic-openai)  
 {: .notice--danger}
 
 Le Chat is een product van [mistral.ai](https://mistral.ai/) een Frans bedrijf en daardoor veiliger.
@@ -57,4 +57,3 @@ Le Chat is een product van [mistral.ai](https://mistral.ai/) een Frans bedrijf e
 ## Reacties via Email
 
 Reacties via mijn email: reakties@smartbonnie.eu
-
