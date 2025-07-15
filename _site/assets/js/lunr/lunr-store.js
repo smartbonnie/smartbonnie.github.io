@@ -221,6 +221,12 @@ var store = [{
         "url": "/tweets/corona1/",
         "teaser": null
       },{
+        "title": "Analyse van Spandoek over Arno van Kessel",
+        "excerpt":"Analyse Taal en Toon De tekst op het spandoek is provocatief en beschuldigend van aard. Het stelt een retorische vraag: “Politiek den Haag waar zijn jullie bang voor?!” Dit suggereert dat er sprake is van angst of verborgen motieven bij de politiek. De oproep om Arno van Kessel vrij te...","categories": [],
+        "tags": [],
+        "url": "/tweets/kessel1/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
