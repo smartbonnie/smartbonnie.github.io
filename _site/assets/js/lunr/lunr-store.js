@@ -234,7 +234,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bookmarks",
-        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate  ","categories": [],
+        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard  ","categories": [],
         "tags": [],
         "url": "/vademecum/bookmarks/",
         "teaser": null

@@ -18,3 +18,8 @@ header:
 ## C
 
 * [Climategate](https://nl.m.wikipedia.org/wiki/Climategate)
+* [Cognitive distortions are associated with increasing political polarization](https://www.nature.com/articles/s44271-025-00289-4?utm_source=flipboard&utm_content=topic/cognitivescience)
+
+## K
+
+* [KNMI Klimaatdashboard](https://www.knmi.nl/klimaat)
