@@ -215,6 +215,12 @@ var store = [{
         "url": "/tweets/wilders2/",
         "teaser": null
       },{
+        "title": "Analyse van Tweet over mRNA-vaccinaties",
+        "excerpt":"Analyse Taal en Toon De taal in de tweet is emotioneel geladen en suggestief. De toon is alarmerend en probeert een gevoel van urgentie en bezorgdheid over te brengen. De tekst suggereert dat er een verband is tussen mRNA-vaccinaties en een toename van overlijdens, zonder directe bewijzen te leveren. Feitelijkheid...","categories": [],
+        "tags": [],
+        "url": "/tweets/corona1/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
