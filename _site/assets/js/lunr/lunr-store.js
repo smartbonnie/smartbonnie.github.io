@@ -233,7 +233,7 @@ var store = [{
         "url": "/tweets/wnood1/",
         "teaser": null
       },{
-        "title": "Analyse van Tweet over PVV Kamerlid Salaris",
+        "title": "PVV Kamerlid Salaris",
         "excerpt":"Analyse Taal en Toon De toon van de tekst is direct en uitnodigend, maar kan als provocerend worden ervaren. De uitnodiging om “veel geld” te verdienen als PVV Kamerlid kan als cynisch of sarcastisch worden opgevat, vooral gezien de context van de huidige politieke discussies over de inzet en prestaties...","categories": [],
         "tags": ["Politiek","Salaris","PVV"],
         "url": "/tweets/pvvlui/",

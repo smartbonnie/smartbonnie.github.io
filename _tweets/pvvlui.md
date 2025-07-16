@@ -1,5 +1,5 @@
 ---
-title: 'Analyse van Tweet over PVV Kamerlid Salaris'
+title: 'PVV Kamerlid Salaris'
 excerpt: 'Een analyse van de waarheidsgetrouwheid, toon en juridische implicaties van een tweet over het salaris van PVV Kamerleden.'
 date: 2025/07/16 12:00
 header:
@@ -8,7 +8,7 @@ tags:
   - Politiek
   - Salaris
   - PVV
-last_modified_at: 2025/07/16 12:00
+last_modified_at: 2025/07/16 12:36
 layout: single
 ---
 
