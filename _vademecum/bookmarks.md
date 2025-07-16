@@ -24,6 +24,10 @@ header:
 
 * [KNMI Klimaatdashboard](https://www.knmi.nl/klimaat)
 
+## L
+
+* [Le Chat, Say What?](https://worldcrunch.com/tech-science/le-chat-say-what-french-ai-giant-mistral-shares-similar-biases-as-u-s-rivals/?utm_source=flipboard&utm_content=Worldcrunch/magazine/Worldcrunch)
+
 ## P
 
 * [PVV - spijbelaars](https://nos.nl/artikel/2575214-pvv-fractie-is-groot-in-getal-maar-niet-in-het-dagelijkse-kamerwerk)
