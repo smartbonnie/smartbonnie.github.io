@@ -3,7 +3,7 @@ title: 'Bookmarks'
 excerpt: 'Belangrijke documenten.'
 toc: true
 date: 2025/07/10
-last_modified_at: 2025/07/12 21:46
+last_modified_at: 2025/07/16 10:06
 layout: single
 header:
   image: /img/vademecum/bookmarks.png
@@ -23,3 +23,8 @@ header:
 ## K
 
 * [KNMI Klimaatdashboard](https://www.knmi.nl/klimaat)
+
+## P
+
+* [PVV - spijbelaars](https://nos.nl/artikel/2575214-pvv-fractie-is-groot-in-getal-maar-niet-in-het-dagelijkse-kamerwerk)
+

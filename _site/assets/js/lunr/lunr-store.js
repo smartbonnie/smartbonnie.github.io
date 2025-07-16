@@ -233,6 +233,12 @@ var store = [{
         "url": "/tweets/wnood1/",
         "teaser": null
       },{
+        "title": "Analyse van Tweet over PVV Kamerlid Salaris",
+        "excerpt":"Analyse Taal en Toon De toon van de tekst is direct en uitnodigend, maar kan als provocerend worden ervaren. De uitnodiging om “veel geld” te verdienen als PVV Kamerlid kan als cynisch of sarcastisch worden opgevat, vooral gezien de context van de huidige politieke discussies over de inzet en prestaties...","categories": [],
+        "tags": ["Politiek","Salaris","PVV"],
+        "url": "/tweets/pvvlui/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
@@ -240,7 +246,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bookmarks",
-        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard  ","categories": [],
+        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   P      PVV - spijbelaars   ","categories": [],
         "tags": [],
         "url": "/vademecum/bookmarks/",
         "teaser": null
