@@ -227,6 +227,12 @@ var store = [{
         "url": "/tweets/kessel1/",
         "teaser": null
       },{
+        "title": "Analyse van Politiek Bericht over Woningnood",
+        "excerpt":"Taal- en Toonanalyse De tekst gebruikt sterk geladen taal, zoals “linkse idioterie” en “stikstof-regels”, wat wijst op een negatieve en mogelijk polariserende toon. De oproep om een “♥ &amp; RT” te geven als men “WALGT van leugenaar Timmermans” is emotioneel geladen en kan als aanstootgevend worden ervaren. De vergelijking van...","categories": [],
+        "tags": ["Politiek","Woningnood","Analyse"],
+        "url": "/tweets/wnood1/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
