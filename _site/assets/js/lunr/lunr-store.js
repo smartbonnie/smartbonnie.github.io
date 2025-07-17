@@ -17,6 +17,12 @@ var store = [{
         "url": "/feitenchecker/navomachtoverland/",
         "teaser": null
       },{
+        "title": "PVV verkiezingsprogramma crimineel.",
+        "excerpt":"Samenvatting Het verkiezingsprogramma van de PVV bevat voorstellen die op meerdere punten in strijd zijn met de Nederlandse Grondwet, met name artikelen over gelijkheid, godsdienstvrijheid, privacy en recht op huisvesting. De voorstellen conflicteren met Europese verdragen en richtlijnen, vooral op het gebied van asiel, migratie, discriminatieverbod en fundamentele rechten. Internationale...","categories": [],
+        "tags": ["Politiek","Crimineel","PVV"],
+        "url": "/feitenchecker/pvvver/",
+        "teaser": null
+      },{
         "title": "Feit, Fictie en de Financiering van Invloed: Een Diepgaande Analyse van de Controverse rond de EU-Commissie en NGO's",
         "excerpt":"Inleiding: Anatomie van een Brusselse Controverse Begin juni 2025 bracht de Duitse krant Welt am Sonntag een verhaal dat onmiddellijk politieke schokgolven door Brussel en daarbuiten stuurde. De krant onthulde wat het beschreef als “geheime contracten” waaruit zou blijken dat de Europese Commissie, het uitvoerend orgaan van de Europese Unie,...","categories": [],
         "tags": [],
