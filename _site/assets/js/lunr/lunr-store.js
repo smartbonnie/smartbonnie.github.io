@@ -245,6 +245,12 @@ var store = [{
         "url": "/tweets/pvvluiaards/",
         "teaser": null
       },{
+        "title": "Analyse van Tweet over Stemgedrag",
+        "excerpt":"Analyse van de Tweet Inhoudsanalyse De afbeelding bevat twee tweets van hetzelfde account, @rezestanzestempvv.bsky.social, waarin tegenstrijdige boodschappen worden verspreid. In de eerste tweet wordt aangeraden om op FvD (Forum voor Democratie) te stemmen, terwijl in de tweede tweet wordt opgeroepen om op de PVV (Partij voor de Vrijheid) te stemmen....","categories": [],
+        "tags": ["Politiek","Social Media","Russische Invloed"],
+        "url": "/tweets/rusbot/",
+        "teaser": null
+      },{
         "title": "Blokken",
         "excerpt":"Inleiding Het is een veelvoorkomende digitale reflex: een verhitte discussie op sociale media, een mening die schuurt en met één klik is de ander geblokkeerd. Hoewel het een effectief middel lijkt om ongewenste content te weren, heeft het systematisch blokkeren van mensen vanwege een verschil van inzicht een donkere keerzijde....","categories": [],
         "tags": [],
