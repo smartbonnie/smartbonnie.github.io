@@ -89,6 +89,12 @@ var store = [{
         "url": "/muizenissen/reflexie_en/",
         "teaser": null
       },{
+        "title": "Peer review",
+        "excerpt":"Het concept van peer review en het proces van indiening tot publicatie Peer review is het proces waarbij wetenschappelijke artikelen worden beoordeeld door vakgenoten (peers) om kwaliteit en betrouwbaarheid te garanderen. Het proces verloopt van indiening door de auteur, via beoordeling door reviewers en redacteuren, tot publicatie of afwijzing. Belangrijkste...","categories": [],
+        "tags": ["Peer Review","Wetenschappelijk Onderzoek","Publicatieproces"],
+        "url": "/muizenissen/peerreview/",
+        "teaser": null
+      },{
         "title": "De RAIR foundation",
         "excerpt":"Inleiding: Profielen en Ideologisch Landschap Om de financieringsbronnen en de relevantie van identiteit te doorgronden, is het essentieel eerst de betrokken entiteiten en hun ideologische positionering te schetsen, gebaseerd op het beschikbare onderzoeksmateriaal. RAIR Foundation USA De RAIR Foundation USA werd opgericht door Amy Mekelburg. De oorspronkelijke naam was “Resistance...","categories": [],
         "tags": [],
@@ -282,7 +288,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bookmarks",
-        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   ","categories": [],
+        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   T      Tweede Kamer Zoeken   ","categories": [],
         "tags": [],
         "url": "/vademecum/bookmarks/",
         "teaser": null
