@@ -257,7 +257,7 @@ var store = [{
         "url": "/vademecum/blokken/",
         "teaser": null
       },{
-        "title": "Ethiek: Een Gids voor Morele Keuzes",
+        "title": "Ethiek.",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
         "url": "/vademecum/ethiek/",
