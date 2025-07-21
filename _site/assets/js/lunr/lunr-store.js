@@ -245,7 +245,7 @@ var store = [{
         "url": "/tweets/pvvluiaards/",
         "teaser": null
       },{
-        "title": "Analyse van Tweet over Stemgedrag",
+        "title": "Russische bot",
         "excerpt":"Analyse van de Tweet Inhoudsanalyse De afbeelding bevat twee tweets van hetzelfde account, @rezestanzestempvv.bsky.social, waarin tegenstrijdige boodschappen worden verspreid. In de eerste tweet wordt aangeraden om op FvD (Forum voor Democratie) te stemmen, terwijl in de tweede tweet wordt opgeroepen om op de PVV (Partij voor de Vrijheid) te stemmen....","categories": [],
         "tags": ["Politiek","Social Media","Russische Invloed"],
         "url": "/tweets/rusbot/",

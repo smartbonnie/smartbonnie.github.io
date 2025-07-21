@@ -1,5 +1,5 @@
 ---
-title: 'Analyse van Tweet over Stemgedrag'
+title: 'Russische bot'
 excerpt: 'Een analyse van een tweet waarin tegenstrijdig stemgedrag wordt aangemoedigd.'
 date: 2025/07/19 12:00
 header:
