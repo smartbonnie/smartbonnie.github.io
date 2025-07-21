@@ -257,12 +257,6 @@ var store = [{
         "url": "/vademecum/blokken/",
         "teaser": null
       },{
-        "title": "Bookmarks",
-        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   ","categories": [],
-        "tags": [],
-        "url": "/vademecum/bookmarks/",
-        "teaser": null
-      },{
         "title": "Ethiek: Een Gids voor Morele Keuzes",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
@@ -285,6 +279,18 @@ var store = [{
         "excerpt":"Inleiding Zionisme is een politieke en ideologische beweging die aan het einde van de 19e eeuw opkwam met als primair doel het stichten en onderhouden van een Joodse staat in het historische land van Israël, door zionisten aangeduid als Eretz Yisrael. Het woord is afgeleid van “Zion” (Sion), een heuvel...","categories": [],
         "tags": [],
         "url": "/vademecum/zionisme/",
+        "teaser": null
+      },{
+        "title": "Bookmarks",
+        "excerpt":"A      AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   ","categories": [],
+        "tags": [],
+        "url": "/vademecum/bookmarks/",
+        "teaser": null
+      },{
+        "title": "Femicide.",
+        "excerpt":"Femicide in Nederland: Definitie, Statistieken, Oorzaken, Straffen en Preventiemaatregelen Femicide is het opzettelijk doden van vrouwen vanwege hun gender, vaak door (ex-)partners. Jaarlijks worden in Nederland gemiddeld 40-48 vrouwen slachtoffer van femicide, met een frequentie van elke 8 dagen een vermoorde vrouw. In 60% van de gevallen is de dader...","categories": [],
+        "tags": ["Femicide","Gendergeweld","Nederland"],
+        "url": "/vademecum/femicide/",
         "teaser": null
       },{
         "title": "**5. Het Nederlandse verdienmodel.**",
