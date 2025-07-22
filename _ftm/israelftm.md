@@ -1,6 +1,7 @@
 ---
 title: "De Financiële Verwevenheid van Nederland en Israël: Een Analyse van Handel, Investeringen en Geopolitieke Context"
 toc: true
+date: 2025/06/20
 excerpt: "De financieel-economische relatie tussen Nederland en Israël is diepgeworteld en veelzijdig. Deze relatie overstijgt de eenvoudige uitwisseling van goederen en omvat complexe kapitaalstromen, strategische bedrijfsinvesteringen en een gedeelde focus op technologische innovatie."
 header:
   image: /img/ftm/israelftm.png

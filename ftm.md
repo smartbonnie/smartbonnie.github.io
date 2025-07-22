@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 author_profile: true
 sort_by: date
-#sort_order: reverse
+sort_order: reverse
 show_excepts: true
 header:
   image: /img/ftm.png

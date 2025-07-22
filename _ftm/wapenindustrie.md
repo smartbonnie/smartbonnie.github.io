@@ -2,6 +2,7 @@
 title: "De Nederlandse Defensie- en Veiligheidsindustrie: Een Analyse van Economische Omvang, Strategisch Belang en Toekomstperspectief"
 toc: true
 excerp: "De Nederlandse defensie- en veiligheidsindustrie (DVI) is een significante en snelgroeiende sector van de nationale economie, gekenmerkt door hoogtechnologische specialisatie, een sterke exportoriëntatie en een dynamisch ecosysteem van bedrijven."
+date: 2025/06/25
 header:
   image: /img/ftm/wapenindustrie.png
 ---
