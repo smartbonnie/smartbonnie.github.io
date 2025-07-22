@@ -269,10 +269,22 @@ var store = [{
         "url": "/vademecum/blokken/",
         "teaser": null
       },{
+        "title": "Bookmarks",
+        "excerpt":"A      Achtergrond stealing   AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   T      Tweede Kamer Zoeken   ","categories": [],
+        "tags": [],
+        "url": "/vademecum/bookmarks/",
+        "teaser": null
+      },{
         "title": "Ethiek.",
         "excerpt":"Inleiding Ethiek is de tak van de filosofie die zich bezighoudt met de kritische bezinning op wat moreel goed en fout is. Het is de systematische studie van moraal, de heersende normen en waarden in een samenleving. In essentie probeert ethiek een antwoord te geven op de vraag: “Wat is...","categories": [],
         "tags": [],
         "url": "/vademecum/ethiek/",
+        "teaser": null
+      },{
+        "title": "Femicide.",
+        "excerpt":"Femicide in Nederland: Definitie, Statistieken, Oorzaken, Straffen en Preventiemaatregelen Femicide is het opzettelijk doden van vrouwen vanwege hun gender, vaak door (ex-)partners. Jaarlijks worden in Nederland gemiddeld 40-48 vrouwen slachtoffer van femicide, met een frequentie van elke 8 dagen een vermoorde vrouw. In 60% van de gevallen is de dader...","categories": [],
+        "tags": ["Femicide","Gendergeweld","Nederland"],
+        "url": "/vademecum/femicide/",
         "teaser": null
       },{
         "title": "Gaslighting",
@@ -293,16 +305,10 @@ var store = [{
         "url": "/vademecum/zionisme/",
         "teaser": null
       },{
-        "title": "Bookmarks",
-        "excerpt":"A      Achtergrond stealing   AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   T      Tweede Kamer Zoeken   ","categories": [],
-        "tags": [],
-        "url": "/vademecum/bookmarks/",
-        "teaser": null
-      },{
-        "title": "Femicide.",
-        "excerpt":"Femicide in Nederland: Definitie, Statistieken, Oorzaken, Straffen en Preventiemaatregelen Femicide is het opzettelijk doden van vrouwen vanwege hun gender, vaak door (ex-)partners. Jaarlijks worden in Nederland gemiddeld 40-48 vrouwen slachtoffer van femicide, met een frequentie van elke 8 dagen een vermoorde vrouw. In 60% van de gevallen is de dader...","categories": [],
-        "tags": ["Femicide","Gendergeweld","Nederland"],
-        "url": "/vademecum/femicide/",
+        "title": "Woke",
+        "excerpt":"De term “woke” is afgeleid van het Afrikaans-Amerikaans Engels en wordt sinds de jaren 1930 gebruikt om bewustzijn van raciaal vooroordeel en discriminatie aan te duiden. Het woord heeft in de loop der tijd verschillende betekenissen en connotaties gekregen. Oorsprong en ontwikkeling Vroege gebruik: De term “stay woke” werd gebruikt...","categories": [],
+        "tags": ["woke","betekenis","sociale rechtvaardigheid"],
+        "url": "/vademecum/woke/",
         "teaser": null
       },{
         "title": "**5. Het Nederlandse verdienmodel.**",
