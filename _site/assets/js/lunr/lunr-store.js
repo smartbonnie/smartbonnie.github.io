@@ -293,16 +293,22 @@ var store = [{
         "url": "/vademecum/gaslighting/",
         "teaser": null
       },{
-        "title": "Populisme.",
-        "excerpt":"Inleiding Populisme is een politieke stijl en ideologie die een centrale tegenstelling creëert tussen “het gewone volk” en “de corrupte elite”. Populistische leiders en bewegingen claimen de ware stem van het volk te vertegenwoordigen en verzetten zich tegen de gevestigde orde, die zij als onbetrouwbaar en uitsluitend uit op eigenbelang...","categories": [],
-        "tags": [],
-        "url": "/vademecum/populisme/",
-        "teaser": null
-      },{
         "title": "Zionisme",
         "excerpt":"Inleiding Zionisme is een politieke en ideologische beweging die aan het einde van de 19e eeuw opkwam met als primair doel het stichten en onderhouden van een Joodse staat in het historische land van Israël, door zionisten aangeduid als Eretz Yisrael. Het woord is afgeleid van “Zion” (Sion), een heuvel...","categories": [],
         "tags": [],
         "url": "/vademecum/zionisme/",
+        "teaser": null
+      },{
+        "title": "Genocide",
+        "excerpt":"Het VN-Genocideverdrag, officieel bekend als het “Verdrag inzake de voorkoming en de bestraffing van genocide,” werd aangenomen door de Algemene Vergadering van de Verenigde Naties op 9 december 1948. Het verdrag trad in werking op 12 januari 1951. Het verdrag definieert genocide als bepaalde handelingen die met de intentie worden...","categories": [],
+        "tags": ["VN","Genocideverdrag","Internationaal Recht"],
+        "url": "/vademecum/genocide/",
+        "teaser": null
+      },{
+        "title": "Populisme.",
+        "excerpt":"Inleiding Populisme is een politieke stijl en ideologie die een centrale tegenstelling creëert tussen “het gewone volk” en “de corrupte elite”. Populistische leiders en bewegingen claimen de ware stem van het volk te vertegenwoordigen en verzetten zich tegen de gevestigde orde, die zij als onbetrouwbaar en uitsluitend uit op eigenbelang...","categories": [],
+        "tags": [],
+        "url": "/vademecum/populisme/",
         "teaser": null
       },{
         "title": "Woke",
