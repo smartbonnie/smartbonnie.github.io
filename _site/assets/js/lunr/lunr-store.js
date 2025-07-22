@@ -29,6 +29,12 @@ var store = [{
         "url": "/feitenchecker/timmermansngo/",
         "teaser": null
       },{
+        "title": "Gedetailleerd onderzoek naar de geplande bijdrage van 2 triljoen euro door de EU-lidstaten over de komende 7 jaar",
+        "excerpt":"Gedetailleerd onderzoek naar de geplande bijdrage van 2 triljoen euro door de EU-lidstaten over de komende 7 jaar De EU-lidstaten hebben een Meerjarig Financieel Kader (MFK) voor 2021-2027 vastgesteld met een totale begroting van €1.216 miljard. De geplande bijdrage van 2 triljoen euro over 7 jaar is een aanzienlijke verhoging...","categories": [],
+        "tags": ["EU","Financieel Kader","Bijdragen"],
+        "url": "/ftm/eubudget/",
+        "teaser": null
+      },{
         "title": "De Financiële Verwevenheid van Nederland en Israël: Een Analyse van Handel, Investeringen en Geopolitieke Context",
         "excerpt":"Inleiding De financieel-economische relatie tussen Nederland en Israël is diepgeworteld en veelzijdig. Deze relatie overstijgt de eenvoudige uitwisseling van goederen en omvat complexe kapitaalstromen, strategische bedrijfsinvesteringen en een gedeelde focus op technologische innovatie. Nederland fungeert als een belangrijke economische poort voor Israël naar Europa, terwijl Israël voor Nederland een cruciale...","categories": [],
         "tags": [],
