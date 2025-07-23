@@ -14,6 +14,7 @@ header:
 ## A
 
 * [Achtergrond stealing](remap.jrc.ec.europa.eu)
+* [AIVD dreigingsbeeld statelijke actoren 2025](https://www.aivd.nl/documenten/publicaties/2025/07/17/dreigingsbeeld-statelijke-actoren-2025)
 * [AIVD rapport nationale dreigingen 2024](https://www.aivd.nl/onderwerpen/jaarverslagen/jaarverslag-2024/nationale-dreigingen)
 
 ## C
