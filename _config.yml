@@ -133,7 +133,7 @@ defaults:
   # _tweets
   - scope:
       path: ""
-      type: tweets
+      type: tweets 
     values:
       toc: true
       toc_label: "Index."
@@ -199,3 +199,6 @@ collections:
   verkiezingen2025:
     output: true
     permalink: /:collection/:path/
+
+fediverse:
+  creator: "@smartbonnie@mastodon.nl"

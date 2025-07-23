@@ -6,7 +6,7 @@ layout: single
 header:
   image: /img/banner.png
 ---
-
+<a rel="me" href="https://mastodon.nl/@smartbonnie">Mastodon</a>
 [<img src="/img/redactie.png">](redactie)
 [<img src="/img/personen.png">](personen)
 [<img src="/img/organisaties.png">](organisaties)
