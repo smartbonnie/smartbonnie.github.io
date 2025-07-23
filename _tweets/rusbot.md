@@ -27,6 +27,16 @@ De taal in de tweets is informeel en direct, met een duidelijke oproep tot actie
 ### Juridische Toetsing
 De inhoud van de tweets lijkt geen directe juridische implicaties te hebben, maar het verspreiden van tegenstrijdige informatie met de intentie om verwarring te zaaien kan als misleidend worden beschouwd. Dit kan mogelijk onder de noemer van desinformatie vallen, wat in sommige contexten juridische consequenties kan hebben.
 
+### Meer voorbeelden.
+
+![rusbot](/img/tweets/bot2.png)
+*Stem geen linkse partijen als de raad van state,
+meteen na een twitterbericht van Geert W. waarin hij deze aanvalt.
+blijkbaar is men zich in Rusland niet bewust van het feit dat de Raad van State geen politieke partij is.*
+
+![rusbot](/img/tweets/gwraad.png)
+*Deze klacht van Geert W. kan niet losgezien worden van de aktiviteit van de bot.*
+
 ### Onderzoek naar Russische Bots
 Er zijn verschillende kenmerken van Russische bots en trollen op sociale media:
 - **Gebruik van tegenstrijdige boodschappen**: Een veelgebruikte tactiek van Russische bots is het verspreiden van tegenstrijdige informatie om verwarring te zaaien en polarisatie te bevorderen.
