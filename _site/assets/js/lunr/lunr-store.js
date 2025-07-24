@@ -270,7 +270,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Bookmarks",
-        "excerpt":"A      Achtergrond stealing   AIVD dreigingsbeeld statelijke actoren 2025   AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   T      Tweede Kamer Zoeken   ","categories": [],
+        "excerpt":"A      Achtergrond straling   AI fake fotos zijn niets nieuws   AIVD dreigingsbeeld statelijke actoren 2025   AIVD rapport nationale dreigingen 2024   C      Climategate   Cognitive distortions are associated with increasing political polarization   K      KNMI Klimaatdashboard   L      Le Chat, Say What?   P      PVV - spijbelaars   T      Tweede Kamer Zoeken   ","categories": [],
         "tags": [],
         "url": "/vademecum/bookmarks/",
         "teaser": null
