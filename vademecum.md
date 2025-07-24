@@ -14,3 +14,4 @@ header:
 ---
 
 In [mijn vademecum](vademecum) komen verklarende smarties te staan met extra uitleg over moeilijk termen.
+Bovendien vind je onder B van Bookmarks wat Bookmarks onder Bookmarks.
