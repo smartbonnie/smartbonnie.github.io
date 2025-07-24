@@ -24,6 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
+  - jekyll-url-metadata
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -202,4 +203,4 @@ collections:
     permalink: /:collection/:path/
 
 fediverse:
-  creator: "@smartbonnie@mastodon.nl"
+  creator: \@smartbonnie\@mastodon.nl
