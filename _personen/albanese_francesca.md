@@ -3,7 +3,7 @@ title: 'Albanese, Francesca'
 excerpt: 'Een uitgebreid overzicht van de achtergrond, loopbaan, en professionele bijdragen van Francesca Albanese, met een kritische analyse van de controverses rond haar werk als VN Speciaal Rapporteur voor de mensenrechten in de Palestijnse gebieden.'
 date: '2025-07-26 17:00:00'
 header:
-  image: '/img/personen/albanese_francesca.png'
+  image: /img/personen/albanese_francesca.png
 tags:
   - Mensenrechten
   - VN
