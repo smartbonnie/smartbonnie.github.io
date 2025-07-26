@@ -27,6 +27,10 @@ header:
 
 * [Gemfile jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 
+## J
+
+* [Jekyll on Apache](https://blog.axaneco.net/doc/2023/03/19/jekyll-server.html)
+
 ## K
 
 * [KNMI Klimaatdashboard](https://www.knmi.nl/klimaat)
