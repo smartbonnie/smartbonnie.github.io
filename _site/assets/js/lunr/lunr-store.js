@@ -167,12 +167,6 @@ var store = [{
         "url": "/personen/berg_vd_max/",
         "teaser": null
       },{
-        "title": "Coenradie, Ingid",
-        "excerpt":"Inleiding Het politieke verhaal van Ingrid Coenradie wordt onlosmakelijk bepaald door haar bepalende moment: het spraakmakende conflict met PVV-leider Geert Wilders. Deze botsing was niet louter een beleidsgeschil, maar een vuurproef die haar nationale identiteit smeedde en een fundamentele spanning binnen de rechtse politieke beweging in Nederland blootlegde: de botsing...","categories": [],
-        "tags": [],
-        "url": "/personen/coenradie_ingrid/",
-        "teaser": null
-      },{
         "title": "Duk, Wierd",
         "excerpt":"Inleiding: Kroniekschrijver van een Natie ‘op Drift’ Wierd Duk is meer dan een columnist voor De Telegraaf; hij is een significante culturele en politieke figuur wiens carrièrepad een belangrijke breuklijn in de Nederlandse samenleving weerspiegelt en mede vormgeeft. Zijn status als een van de “meest besproken journalisten van Nederland” vraagt...","categories": [],
         "tags": [],
@@ -183,6 +177,18 @@ var store = [{
         "excerpt":"Inleiding Dit rapport biedt een diepgaande analyse van Hendrik “Henri” Bontenbal, de politiek leider van het Christen-Democratisch Appèl (CDA). Het onderzoekt zijn opkomst van een technocratisch expert tot de onwaarschijnlijke leider die de taak heeft een partij in crisis nieuw leven in te blazen. De analyse toont aan dat Bontenbals...","categories": [],
         "tags": [],
         "url": "/personen/bontenbal_henri/",
+        "teaser": null
+      },{
+        "title": "Albanese, Francesca",
+        "excerpt":"Francesca Albanese: Een Gedetailleerd Overzicht van Haar Achtergrond en Strijdvaardige Houding Francesca Albanese, geboren in 1977 in Italië, is een gerenommeerd juridisch geleerde en mensenrechtenexpert. Ze behaalde haar rechtengraad aan de Universiteit van Pisa en een Master in mensenrechten aan SOAS University of London. Sinds 2022 is ze de eerste...","categories": [],
+        "tags": ["Mensenrechten","VN","Palestina","Israël","Internationale Wetgeving"],
+        "url": "/personen/albanese_francesca/",
+        "teaser": null
+      },{
+        "title": "Coenradie, Ingid",
+        "excerpt":"Inleiding Het politieke verhaal van Ingrid Coenradie wordt onlosmakelijk bepaald door haar bepalende moment: het spraakmakende conflict met PVV-leider Geert Wilders. Deze botsing was niet louter een beleidsgeschil, maar een vuurproef die haar nationale identiteit smeedde en een fundamentele spanning binnen de rechtse politieke beweging in Nederland blootlegde: de botsing...","categories": [],
+        "tags": [],
+        "url": "/personen/coenradie_ingrid/",
         "teaser": null
       },{
         "title": "Huzen, Jan",
