@@ -466,4 +466,10 @@ var store = [{
         "tags": [],
         "url": "/vraagstukken/co2/",
         "teaser": null
+      },{
+        "title": "Israëlische oologsmisdaden",
+        "excerpt":"Recente Gebeurtenissen in Gaza: Een Diepgaande Analyse van IDF Acties, GHF Rol, Juridische Implicaties en Paden naar Vrede IDF-soldaten hebben opdracht gekregen om doelbewust te schieten op ongewapende Gazanen, waaronder kinderen, bij hulpverdelingslocaties, wat heeft geresulteerd in honderden doden. GHF-contractanten zijn gefilmd terwijl ze schoten op hongerige Palestijnen die hulp...","categories": [],
+        "tags": ["Gaza","IDF","GHF","Internationale Recht","Vredesproces"],
+        "url": "/vraagstukken/idfcrimes/",
+        "teaser": null
       }]

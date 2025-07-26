@@ -50,6 +50,7 @@ die er toe kan leiden dat deze producten zonder waarschuwing misleidende info ku
 * 2025/07/15 [The campaign to make it illegal for ChatGPT to criticize Trump](https://www.platformer.news/andrew-bailey-chatgpt-trump-jawboning-legal-case/?utm_source=flipboard&utm_content=topic%2Fu.s.politics)  
 * 2025/07/15 [Trump Admin Announces $200 Million Contract for Musk's AI After Grok Hitler Incident](https://www.commondreams.org/news/elon-musk-ai?utm_source=flipboard&utm_content=topic%2Felonmusk)  
 * 2025/07/15 [US government awards up to $200m AI work to Anthropic, OpenAI](https://www.techinasia.com/news/us-government-awards-up-to-200m-ai-work-to-anthropic-openai)  
+* 2025/07/24 [Trump blocks woke AI](https://apnews.com/article/trump-woke-ai-executive-order-bias-f8bc08745c1bf178f8973ac704299bf4?utm_source=flipboard&utm_content=user%2FAssociatedPress)
 {: .notice--danger}
 
 Le Chat is een product van [mistral.ai](https://mistral.ai/) een Frans bedrijf en daardoor veiliger.
