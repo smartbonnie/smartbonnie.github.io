@@ -34,7 +34,7 @@ Het internationaal recht, waaronder de Geneefse Conventies, het Statuut van Rome
 
 ## Specifieke Incidenten van IDF-wangedrag en GHF-betrokkenheid
 
-### IDF Actiess
+### IDF Acties
 
 Recente onderzoeken en ooggetuigenverslagen onthullen dat IDF-soldaten opdracht hebben gekregen om doelbewust te schieten op ongewapende Palestijnen, waaronder kinderen, in de buurt van hulpverdelingslocaties. Bij een incident werden ten minste 112 Palestijnen gedood en 760 gewond toen IDF-troepen het vuur openden op menigten die hulptrucks bestormden in Gaza-Stad. Videobewijs en getuigenissen van overlevenden geven aan dat IDF-troepen rechtstreeks op burgers schoten, ondanks dat er geen directe dreiging aanwezig was, wat in strijd is met IDF-verklaringen dat de doden het gevolg waren van een verdringing of plundering.
 
